@@ -1,3 +1,11 @@
+ITAM Depto. de ciencia política, primavera 2019
+
+**Política Comparada II**
+
+Profesor: Eric Magar Meurs \small{\url{emagar@itam.mx}}
+
+Lunes y miércoles 16:00&#x2013;17:30, salón 105
+
 *Aviso*: Es tarea del alumno leer el material (tanto el que aparece en este temario como el que puedo añadir antes de cualquier clase) previo a la fecha indicada.  Mi cátedra da por sentado que lo ha hecho, cubriendo sólo una parte de cada lectura desde una óptica particular. No obstante, en los exámenes evaluaré el conocimiento de las lecturas y la capacidad para discutirlas críticamente. Las fechas de las lecturas pueden cambiar; anunciaré en su momento estos cambios.  
 
 *Objetivo*: Este es el segundo de la serie de tres cursos de política comparada del programa. Está dedicado al estudio de dos temas clásicos en la política comparada de corte institucional: las implicaciones que en la vida de la ciudadanía tienen distintas formas de gobierno democrático; y el análisis de los sistemas electoral y de partidos, haciendo hincapié en su interacción.  
