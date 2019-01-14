@@ -132,7 +132,7 @@
 
 ## Partidos como organizaciones  (6 de mayo)
 
--   Riordon, *Plunkitt of Tamany Hall*, entero, 135 pp.
+-   Riordon, *Plunkitt of Tamany Hall*, 135 pp.
 -   OJO: esta clase será más larga. Nos reuniremos de 15:00 a 17:30 para ver y discutir la película The Last Hurrah de J. Ford (1958) o All the King’s Men de R. Rossen (1949).
 
 
