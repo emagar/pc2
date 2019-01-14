@@ -8,13 +8,11 @@
 
 *Material*: será distribuido en formato electrónico desde la página <https://github.com/emagar/pc2>. Si lo consiguen, es recomendable comprar un ejemplar del libro *Modelos de Democracia* (Ed. Ariel) de Arend Lijphart. 
 
-*No habrá clases*: 2019-02-04, 2019-03-18, 2019-04-15 2019-04-17 y 2019-05-01
+*Días de asueto*: 2019-02-04, 2019-03-18, 2019-04-15 2019-04-17 y 2019-05-01
 
 *Semestre termina*: 2019-05-17
 
 ---
-
-Lecturas
 
 
 # PARTE I – INTRODUCCION
@@ -30,7 +28,7 @@ Lecturas
 
 ## El modelo Westminster de democracia  (21, 23, 28, 30 de enero y 6 de febrero)
 
--   Lijphart, [*Modelos de democracia*](https://github.com/emagar/ep3/blob/master/lecturas/clarke+primoModels2008.pdf)
+-   Lijphart, [*Modelos de democracia*](https://github.com/emagar/ep3/blob/master/lecturas/lijphart-mod-democ)
     -   cap. 1 "Introducción," pp. 13-19;
     -   cap. 2 "El modelo Westminster de democracia," pp. 21-41 y pp. 117-124.
 -   Hancock, *Politics in Europe*, 
