@@ -2,7 +2,7 @@ ITAM Depto. de ciencia política, primavera 2019
 
 **Política Comparada II**
 
-Profesor: Eric Magar Meurs \small{\url{emagar@itam.mx}}
+Profesor: Eric Magar Meurs [emagar@gmail.com](mailto:emagar@itam.mx)
 
 Lunes y miércoles 16:00&#x2013;17:30, salón 105
 
