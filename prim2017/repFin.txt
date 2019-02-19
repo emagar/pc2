@@ -1,0 +1,982 @@
+Reporte final
+v1.0
+
+Notas para los responsables de cada reporte
+1. En "Texto abreviado de los artículos relevantes" quiten lo que no sea relevante; por ahora, no resalten en negritas los términos relevantes (lo harán más tarde).
+2. En "¿Hay discrepancias con otras bases de datos de reelección", si las hubiera, indiquen breve y claramente cuáles diferencias y con qué base de datos (IMCO, CIDAC, ...)
+3. En "Créditos" describan la contribución al reporte usando una taxonomía estándar (Allen, Brand, Scott, Altman and Hlava 2014 http://www.nature.com/news/publishing-credit-where-credit-is-due-1.15033). 
+4. Dejen "Fechas" vacío por ahora
+
+Parte 1: resúmenes por estado
+--------------
+Aguascalientes
+edon=1
+edo=ags
+--------------
+a. Resumen ejecutivo
+a.1. Fecha de publicación de la reforma a la constitución en el periódico oficial: 
+a.2. Años de duración del mandato de los ayuntamientos del estado: 
+a.3. Mandatos consecutivos que puede servir un diputado: 
+a.4. Mandatos consecutivos que pueden servir los miembros del ayuntamiento: 
+a.5. Año electoral en que podrán contender diputados ocupantes por la reelección: 
+a.6. Año electoral en que podrán contender alcaldes ocupantes por la reelección: 
+b. Texto de los artículos relevantes:
+c. ¿Hay discrepancias con otras bases de datos de reelección consecutiva?
+d. Créditos
+d.1. Responsable del reporte estatal (con correo):
+d.2. Quién hizo qué:
+e. Fechas
+e.1 De conclusión del reporte:
+e.2 Revisiones (fechadas, descritas y firmadas):
+--------------
+Baja California
+edon=2
+edo=bc
+--------------
+a. Resumen ejecutivo
+a.1. Fecha de publicación de la reforma a la constitución en el periódico oficial: 
+a.2. Años de duración del mandato de los ayuntamientos del estado: 
+a.3. Mandatos consecutivos que puede servir un diputado: 
+a.4. Mandatos consecutivos que pueden servir los miembros del ayuntamiento: 
+a.5. Año electoral en que podrán contender diputados ocupantes por la reelección: 
+a.6. Año electoral en que podrán contender alcaldes ocupantes por la reelección: 
+b. Texto de los artículos relevantes:
+c. ¿Hay discrepancias con otras bases de datos de reelección consecutiva?
+d. Créditos
+d.1. Responsable del reporte estatal (con correo):
+d.2. Quién hizo qué:
+e. Fechas
+e.1 De conclusión del reporte:
+e.2 Revisiones (fechadas, descritas y firmadas):
+--------------
+Baja California Sur
+edon=3
+edo=bcs
+--------------
+a. Resumen ejecutivo
+a.1. Fecha de publicación de la reforma a la constitución en el periódico oficial: 
+a.2. Años de duración del mandato de los ayuntamientos del estado: 
+a.3. Mandatos consecutivos que puede servir un diputado: 
+a.4. Mandatos consecutivos que pueden servir los miembros del ayuntamiento: 
+a.5. Año electoral en que podrán contender diputados ocupantes por la reelección: 
+a.6. Año electoral en que podrán contender alcaldes ocupantes por la reelección: 
+b. Texto de los artículos relevantes:
+c. ¿Hay discrepancias con otras bases de datos de reelección consecutiva?
+d. Créditos
+d.1. Responsable del reporte estatal (con correo):
+d.2. Quién hizo qué:
+e. Fechas
+e.1 De conclusión del reporte:
+e.2 Revisiones (fechadas, descritas y firmadas):
+--------------
+Campeche
+edon=4
+edo=cam
+--------------
+a. Resumen ejecutivo
+a.1. Fecha de publicación de la reforma a la constitución en el periódico oficial: 
+a.2. Años de duración del mandato de los ayuntamientos del estado: 
+a.3. Mandatos consecutivos que puede servir un diputado: 
+a.4. Mandatos consecutivos que pueden servir los miembros del ayuntamiento: 
+a.5. Año electoral en que podrán contender diputados ocupantes por la reelección: 
+a.6. Año electoral en que podrán contender alcaldes ocupantes por la reelección: 
+b. Texto de los artículos relevantes:
+c. ¿Hay discrepancias con otras bases de datos de reelección consecutiva?
+d. Créditos
+d.1. Responsable del reporte estatal (con correo):
+d.2. Quién hizo qué:
+e. Fechas
+e.1 De conclusión del reporte:
+e.2 Revisiones (fechadas, descritas y firmadas):
+--------------
+Coahuila
+edon=5
+edo=coa
+--------------
+a. Resumen ejecutivo
+a.1. Fecha de publicación de la reforma a la constitución en el periódico oficial: 
+a.2. Años de duración del mandato de los ayuntamientos del estado: 
+a.3. Mandatos consecutivos que puede servir un diputado: 
+a.4. Mandatos consecutivos que pueden servir los miembros del ayuntamiento: 
+a.5. Año electoral en que podrán contender diputados ocupantes por la reelección: 
+a.6. Año electoral en que podrán contender alcaldes ocupantes por la reelección: 
+b. Texto de los artículos relevantes:
+c. ¿Hay discrepancias con otras bases de datos de reelección consecutiva?
+d. Créditos
+d.1. Responsable del reporte estatal (con correo):
+d.2. Quién hizo qué:
+e. Fechas
+e.1 De conclusión del reporte:
+e.2 Revisiones (fechadas, descritas y firmadas):
+--------------
+Colima
+edon=6
+edo=col
+--------------
+a. Resumen ejecutivo
+a.1. Fecha de publicación de la reforma a la constitución en el periódico oficial: 
+a.2. Años de duración del mandato de los ayuntamientos del estado: 
+a.3. Mandatos consecutivos que puede servir un diputado: 
+a.4. Mandatos consecutivos que pueden servir los miembros del ayuntamiento: 
+a.5. Año electoral en que podrán contender diputados ocupantes por la reelección: 
+a.6. Año electoral en que podrán contender alcaldes ocupantes por la reelección: 
+b. Texto de los artículos relevantes:
+c. ¿Hay discrepancias con otras bases de datos de reelección consecutiva?
+d. Créditos
+d.1. Responsable del reporte estatal (con correo):
+d.2. Quién hizo qué:
+e. Fechas
+e.1 De conclusión del reporte:
+e.2 Revisiones (fechadas, descritas y firmadas):
+--------------
+Chiapas
+edon=7
+edo=cps
+--------------
+a. Resumen ejecutivo
+a.1. Fecha de publicación de la reforma a la constitución en el periódico oficial: 
+a.2. Años de duración del mandato de los ayuntamientos del estado: 
+a.3. Mandatos consecutivos que puede servir un diputado: 
+a.4. Mandatos consecutivos que pueden servir los miembros del ayuntamiento: 
+a.5. Año electoral en que podrán contender diputados ocupantes por la reelección: 
+a.6. Año electoral en que podrán contender alcaldes ocupantes por la reelección: 
+b. Texto de los artículos relevantes:
+c. ¿Hay discrepancias con otras bases de datos de reelección consecutiva?
+d. Créditos
+d.1. Responsable del reporte estatal (con correo):
+d.2. Quién hizo qué:
+e. Fechas
+e.1 De conclusión del reporte:
+e.2 Revisiones (fechadas, descritas y firmadas):
+--------------
+Chihuahua
+edon=8
+edo=cua
+--------------
+a. Resumen ejecutivo
+a.1. Fecha de publicación de la reforma a la constitución en el periódico oficial: 
+a.2. Años de duración del mandato de los ayuntamientos del estado: 
+a.3. Mandatos consecutivos que puede servir un diputado: 
+a.4. Mandatos consecutivos que pueden servir los miembros del ayuntamiento: 
+a.5. Año electoral en que podrán contender diputados ocupantes por la reelección: 
+a.6. Año electoral en que podrán contender alcaldes ocupantes por la reelección: 
+b. Texto de los artículos relevantes:
+c. ¿Hay discrepancias con otras bases de datos de reelección consecutiva?
+d. Créditos
+d.1. Responsable del reporte estatal (con correo):
+d.2. Quién hizo qué:
+e. Fechas
+e.1 De conclusión del reporte:
+e.2 Revisiones (fechadas, descritas y firmadas):
+--------------
+Ciudad de México
+edon=9
+edo=df
+--------------
+a. Resumen ejecutivo
+a.1. Fecha de publicación de la reforma a la constitución en el periódico oficial: 
+a.2. Años de duración del mandato de los ayuntamientos del estado: 
+a.3. Mandatos consecutivos que puede servir un diputado: 
+a.4. Mandatos consecutivos que pueden servir los miembros del ayuntamiento: 
+a.5. Año electoral en que podrán contender diputados ocupantes por la reelección: 
+a.6. Año electoral en que podrán contender alcaldes ocupantes por la reelección: 
+b. Texto de los artículos relevantes:
+c. ¿Hay discrepancias con otras bases de datos de reelección consecutiva?
+d. Créditos
+d.1. Responsable del reporte estatal (con correo):
+d.2. Quién hizo qué:
+e. Fechas
+e.1 De conclusión del reporte:
+e.2 Revisiones (fechadas, descritas y firmadas):
+--------------
+Durango
+edon=10
+edo=dgo
+--------------
+a. Resumen ejecutivo
+a.1. Fecha de publicación de la reforma a la constitución en el periódico oficial: 
+a.2. Años de duración del mandato de los ayuntamientos del estado: 
+a.3. Mandatos consecutivos que puede servir un diputado: 
+a.4. Mandatos consecutivos que pueden servir los miembros del ayuntamiento: 
+a.5. Año electoral en que podrán contender diputados ocupantes por la reelección: 
+a.6. Año electoral en que podrán contender alcaldes ocupantes por la reelección: 
+b. Texto de los artículos relevantes:
+c. ¿Hay discrepancias con otras bases de datos de reelección consecutiva?
+d. Créditos
+d.1. Responsable del reporte estatal (con correo):
+d.2. Quién hizo qué:
+e. Fechas
+e.1 De conclusión del reporte:
+e.2 Revisiones (fechadas, descritas y firmadas):
+--------------
+Guanajuato
+edon=11
+edo=gua
+--------------
+a. Resumen ejecutivo
+a.1. Fecha de publicación de la reforma a la constitución en el periódico oficial: 
+a.2. Años de duración del mandato de los ayuntamientos del estado: 
+a.3. Mandatos consecutivos que puede servir un diputado: 
+a.4. Mandatos consecutivos que pueden servir los miembros del ayuntamiento: 
+a.5. Año electoral en que podrán contender diputados ocupantes por la reelección: 
+a.6. Año electoral en que podrán contender alcaldes ocupantes por la reelección: 
+b. Texto de los artículos relevantes:
+c. ¿Hay discrepancias con otras bases de datos de reelección consecutiva?
+d. Créditos
+d.1. Responsable del reporte estatal (con correo):
+d.2. Quién hizo qué:
+e. Fechas
+e.1 De conclusión del reporte:
+e.2 Revisiones (fechadas, descritas y firmadas):
+--------------
+Guerrero
+edon=12
+edo=gue
+--------------
+a. Resumen ejecutivo
+a.1. Fecha de publicación de la reforma a la constitución en el periódico oficial: 
+a.2. Años de duración del mandato de los ayuntamientos del estado: 
+a.3. Mandatos consecutivos que puede servir un diputado: 
+a.4. Mandatos consecutivos que pueden servir los miembros del ayuntamiento: 
+a.5. Año electoral en que podrán contender diputados ocupantes por la reelección: 
+a.6. Año electoral en que podrán contender alcaldes ocupantes por la reelección: 
+b. Texto de los artículos relevantes:
+c. ¿Hay discrepancias con otras bases de datos de reelección consecutiva?
+d. Créditos
+d.1. Responsable del reporte estatal (con correo):
+d.2. Quién hizo qué:
+e. Fechas
+e.1 De conclusión del reporte:
+e.2 Revisiones (fechadas, descritas y firmadas):
+--------------
+Hidalgo
+edon=13
+edo=hgo
+--------------
+a. Resumen ejecutivo
+a.1. Fecha de publicación de la reforma a la constitución en el periódico oficial: 
+a.2. Años de duración del mandato de los ayuntamientos del estado: 
+a.3. Mandatos consecutivos que puede servir un diputado: 
+a.4. Mandatos consecutivos que pueden servir los miembros del ayuntamiento: 
+a.5. Año electoral en que podrán contender diputados ocupantes por la reelección: 
+a.6. Año electoral en que podrán contender alcaldes ocupantes por la reelección: 
+b. Texto de los artículos relevantes:
+c. ¿Hay discrepancias con otras bases de datos de reelección consecutiva?
+d. Créditos
+d.1. Responsable del reporte estatal (con correo):
+d.2. Quién hizo qué:
+e. Fechas
+e.1 De conclusión del reporte:
+e.2 Revisiones (fechadas, descritas y firmadas):
+--------------
+Jalisco
+edon=14
+edo=jal
+--------------
+a. Resumen ejecutivo
+a.1. Fecha de publicación de la reforma a la constitución en el periódico oficial: 
+a.2. Años de duración del mandato de los ayuntamientos del estado: 
+a.3. Mandatos consecutivos que puede servir un diputado: 
+a.4. Mandatos consecutivos que pueden servir los miembros del ayuntamiento: 
+a.5. Año electoral en que podrán contender diputados ocupantes por la reelección: 
+a.6. Año electoral en que podrán contender alcaldes ocupantes por la reelección: 
+b. Texto de los artículos relevantes:
+c. ¿Hay discrepancias con otras bases de datos de reelección consecutiva?
+d. Créditos
+d.1. Responsable del reporte estatal (con correo):
+d.2. Quién hizo qué:
+e. Fechas
+e.1 De conclusión del reporte:
+e.2 Revisiones (fechadas, descritas y firmadas):
+--------------
+México
+edon=15
+edo=mex
+--------------
+a. Resumen ejecutivo
+a.1. Fecha de publicación de la reforma a la constitución en el periódico oficial: 
+a.2. Años de duración del mandato de los ayuntamientos del estado: 
+a.3. Mandatos consecutivos que puede servir un diputado: 
+a.4. Mandatos consecutivos que pueden servir los miembros del ayuntamiento: 
+a.5. Año electoral en que podrán contender diputados ocupantes por la reelección: 
+a.6. Año electoral en que podrán contender alcaldes ocupantes por la reelección: 
+b. Texto de los artículos relevantes:
+c. ¿Hay discrepancias con otras bases de datos de reelección consecutiva?
+d. Créditos
+d.1. Responsable del reporte estatal (con correo):
+d.2. Quién hizo qué:
+e. Fechas
+e.1 De conclusión del reporte:
+e.2 Revisiones (fechadas, descritas y firmadas):
+--------------
+Michoacán
+edon=16
+edo=mic
+--------------
+a. Resumen ejecutivo
+a.1. Fecha de publicación de la reforma a la constitución en el periódico oficial: 
+a.2. Años de duración del mandato de los ayuntamientos del estado: 
+a.3. Mandatos consecutivos que puede servir un diputado: 
+a.4. Mandatos consecutivos que pueden servir los miembros del ayuntamiento: 
+a.5. Año electoral en que podrán contender diputados ocupantes por la reelección: 
+a.6. Año electoral en que podrán contender alcaldes ocupantes por la reelección: 
+b. Texto de los artículos relevantes:
+c. ¿Hay discrepancias con otras bases de datos de reelección consecutiva?
+d. Créditos
+d.1. Responsable del reporte estatal (con correo):
+d.2. Quién hizo qué:
+e. Fechas
+e.1 De conclusión del reporte:
+e.2 Revisiones (fechadas, descritas y firmadas):
+--------------
+Morelos
+edon=17
+edo=mor
+--------------
+a. Resumen ejecutivo
+a.1. Fecha de publicación de la reforma a la constitución en el periódico oficial: 
+a.2. Años de duración del mandato de los ayuntamientos del estado: 
+a.3. Mandatos consecutivos que puede servir un diputado: 
+a.4. Mandatos consecutivos que pueden servir los miembros del ayuntamiento: 
+a.5. Año electoral en que podrán contender diputados ocupantes por la reelección: 
+a.6. Año electoral en que podrán contender alcaldes ocupantes por la reelección: 
+b. Texto de los artículos relevantes:
+c. ¿Hay discrepancias con otras bases de datos de reelección consecutiva?
+d. Créditos
+d.1. Responsable del reporte estatal (con correo):
+d.2. Quién hizo qué:
+e. Fechas
+e.1 De conclusión del reporte:
+e.2 Revisiones (fechadas, descritas y firmadas):
+--------------
+Nayarit
+edon=18
+edo=nay
+--------------
+a. Resumen ejecutivo
+a.1. Fecha de publicación de la reforma a la constitución en el periódico oficial: 
+a.2. Años de duración del mandato de los ayuntamientos del estado: 
+a.3. Mandatos consecutivos que puede servir un diputado: 
+a.4. Mandatos consecutivos que pueden servir los miembros del ayuntamiento: 
+a.5. Año electoral en que podrán contender diputados ocupantes por la reelección: 
+a.6. Año electoral en que podrán contender alcaldes ocupantes por la reelección: 
+b. Texto de los artículos relevantes:
+c. ¿Hay discrepancias con otras bases de datos de reelección consecutiva?
+d. Créditos
+d.1. Responsable del reporte estatal (con correo):
+d.2. Quién hizo qué:
+e. Fechas
+e.1 De conclusión del reporte:
+e.2 Revisiones (fechadas, descritas y firmadas):
+--------------
+Nuevo León
+edon=19
+edo=nl
+--------------
+a. Resumen ejecutivo
+a.1. Fecha de publicación de la reforma a la constitución en el periódico oficial: 
+a.2. Años de duración del mandato de los ayuntamientos del estado: 
+a.3. Mandatos consecutivos que puede servir un diputado: 
+a.4. Mandatos consecutivos que pueden servir los miembros del ayuntamiento: 
+a.5. Año electoral en que podrán contender diputados ocupantes por la reelección: 
+a.6. Año electoral en que podrán contender alcaldes ocupantes por la reelección: 
+b. Texto de los artículos relevantes:
+c. ¿Hay discrepancias con otras bases de datos de reelección consecutiva?
+d. Créditos
+d.1. Responsable del reporte estatal (con correo):
+d.2. Quién hizo qué:
+e. Fechas
+e.1 De conclusión del reporte:
+e.2 Revisiones (fechadas, descritas y firmadas):
+--------------
+Oaxaca
+edon=20
+edo=oax
+--------------
+a. Resumen ejecutivo
+a.1. Fecha de publicación de la reforma a la constitución en el periódico oficial: 
+a.2. Años de duración del mandato de los ayuntamientos del estado: 
+a.3. Mandatos consecutivos que puede servir un diputado: 
+a.4. Mandatos consecutivos que pueden servir los miembros del ayuntamiento: 
+a.5. Año electoral en que podrán contender diputados ocupantes por la reelección: 
+a.6. Año electoral en que podrán contender alcaldes ocupantes por la reelección: 
+b. Texto de los artículos relevantes:
+c. ¿Hay discrepancias con otras bases de datos de reelección consecutiva?
+d. Créditos
+d.1. Responsable del reporte estatal (con correo):
+d.2. Quién hizo qué:
+e. Fechas
+e.1 De conclusión del reporte:
+e.2 Revisiones (fechadas, descritas y firmadas):
+--------------
+Puebla
+edon=21
+edo=pue
+--------------
+a. Resumen ejecutivo
+a.1. Fecha de publicación de la reforma a la constitución en el periódico oficial: 
+a.2. Años de duración del mandato de los ayuntamientos del estado: 
+a.3. Mandatos consecutivos que puede servir un diputado: 
+a.4. Mandatos consecutivos que pueden servir los miembros del ayuntamiento: 
+a.5. Año electoral en que podrán contender diputados ocupantes por la reelección: 
+a.6. Año electoral en que podrán contender alcaldes ocupantes por la reelección: 
+b. Texto de los artículos relevantes:
+c. ¿Hay discrepancias con otras bases de datos de reelección consecutiva?
+d. Créditos
+d.1. Responsable del reporte estatal (con correo):
+d.2. Quién hizo qué:
+e. Fechas
+e.1 De conclusión del reporte:
+e.2 Revisiones (fechadas, descritas y firmadas):
+--------------
+Querétaro
+edon=22
+edo=que
+--------------
+a. Resumen ejecutivo
+a.1. Fecha de publicación de la reforma a la constitución en el periódico oficial: 
+a.2. Años de duración del mandato de los ayuntamientos del estado: 
+a.3. Mandatos consecutivos que puede servir un diputado: 
+a.4. Mandatos consecutivos que pueden servir los miembros del ayuntamiento: 
+a.5. Año electoral en que podrán contender diputados ocupantes por la reelección: 
+a.6. Año electoral en que podrán contender alcaldes ocupantes por la reelección: 
+b. Texto de los artículos relevantes:
+c. ¿Hay discrepancias con otras bases de datos de reelección consecutiva?
+d. Créditos
+d.1. Responsable del reporte estatal (con correo):
+d.2. Quién hizo qué:
+e. Fechas
+e.1 De conclusión del reporte:
+e.2 Revisiones (fechadas, descritas y firmadas):
+--------------
+Quintana Roo
+edon=23
+edo=qui
+--------------
+a. Resumen ejecutivo
+a.1. Fecha de publicación de la reforma a la constitución en el periódico oficial: 
+a.2. Años de duración del mandato de los ayuntamientos del estado: 
+a.3. Mandatos consecutivos que puede servir un diputado: 
+a.4. Mandatos consecutivos que pueden servir los miembros del ayuntamiento: 
+a.5. Año electoral en que podrán contender diputados ocupantes por la reelección: 
+a.6. Año electoral en que podrán contender alcaldes ocupantes por la reelección: 
+b. Texto de los artículos relevantes:
+c. ¿Hay discrepancias con otras bases de datos de reelección consecutiva?
+d. Créditos
+d.1. Responsable del reporte estatal (con correo):
+d.2. Quién hizo qué:
+e. Fechas
+e.1 De conclusión del reporte:
+e.2 Revisiones (fechadas, descritas y firmadas):
+--------------
+San Luis Potosí
+edon=24
+edo=san
+--------------
+a. Resumen ejecutivo
+a.1. Fecha de publicación de la reforma a la constitución en el periódico oficial: 
+a.2. Años de duración del mandato de los ayuntamientos del estado: 
+a.3. Mandatos consecutivos que puede servir un diputado: 
+a.4. Mandatos consecutivos que pueden servir los miembros del ayuntamiento: 
+a.5. Año electoral en que podrán contender diputados ocupantes por la reelección: 
+a.6. Año electoral en que podrán contender alcaldes ocupantes por la reelección: 
+b. Texto de los artículos relevantes:
+c. ¿Hay discrepancias con otras bases de datos de reelección consecutiva?
+d. Créditos
+d.1. Responsable del reporte estatal (con correo):
+d.2. Quién hizo qué:
+e. Fechas
+e.1 De conclusión del reporte:
+e.2 Revisiones (fechadas, descritas y firmadas):
+--------------
+Sinaloa
+edon=25
+edo=sin
+--------------
+a. Resumen ejecutivo
+a.1. Fecha de publicación de la reforma a la constitución en el periódico oficial: 
+a.2. Años de duración del mandato de los ayuntamientos del estado: 
+a.3. Mandatos consecutivos que puede servir un diputado: 
+a.4. Mandatos consecutivos que pueden servir los miembros del ayuntamiento: 
+a.5. Año electoral en que podrán contender diputados ocupantes por la reelección: 
+a.6. Año electoral en que podrán contender alcaldes ocupantes por la reelección: 
+b. Texto de los artículos relevantes:
+c. ¿Hay discrepancias con otras bases de datos de reelección consecutiva?
+d. Créditos
+d.1. Responsable del reporte estatal (con correo):
+d.2. Quién hizo qué:
+e. Fechas
+e.1 De conclusión del reporte:
+e.2 Revisiones (fechadas, descritas y firmadas):
+--------------
+Sonora
+edon=26
+edo=son
+--------------
+a. Resumen ejecutivo
+a.1. Fecha de publicación de la reforma a la constitución en el periódico oficial: 
+a.2. Años de duración del mandato de los ayuntamientos del estado: 
+a.3. Mandatos consecutivos que puede servir un diputado: 
+a.4. Mandatos consecutivos que pueden servir los miembros del ayuntamiento: 
+a.5. Año electoral en que podrán contender diputados ocupantes por la reelección: 
+a.6. Año electoral en que podrán contender alcaldes ocupantes por la reelección: 
+b. Texto de los artículos relevantes:
+c. ¿Hay discrepancias con otras bases de datos de reelección consecutiva?
+d. Créditos
+d.1. Responsable del reporte estatal (con correo):
+d.2. Quién hizo qué:
+e. Fechas
+e.1 De conclusión del reporte:
+e.2 Revisiones (fechadas, descritas y firmadas):
+--------------
+Tabasco
+edon=27
+edo=tab
+--------------
+a. Resumen ejecutivo
+a.1. Fecha de publicación de la reforma a la constitución en el periódico oficial: 
+a.2. Años de duración del mandato de los ayuntamientos del estado: 
+a.3. Mandatos consecutivos que puede servir un diputado: 
+a.4. Mandatos consecutivos que pueden servir los miembros del ayuntamiento: 
+a.5. Año electoral en que podrán contender diputados ocupantes por la reelección: 
+a.6. Año electoral en que podrán contender alcaldes ocupantes por la reelección: 
+b. Texto de los artículos relevantes:
+c. ¿Hay discrepancias con otras bases de datos de reelección consecutiva?
+d. Créditos
+d.1. Responsable del reporte estatal (con correo):
+d.2. Quién hizo qué:
+e. Fechas
+e.1 De conclusión del reporte:
+e.2 Revisiones (fechadas, descritas y firmadas):
+--------------
+Tamaulipas
+edon=28
+edo=tam
+--------------
+a. Resumen ejecutivo
+a.1. Fecha de publicación de la reforma a la constitución en el periódico oficial: 
+a.2. Años de duración del mandato de los ayuntamientos del estado: 
+a.3. Mandatos consecutivos que puede servir un diputado: 
+a.4. Mandatos consecutivos que pueden servir los miembros del ayuntamiento: 
+a.5. Año electoral en que podrán contender diputados ocupantes por la reelección: 
+a.6. Año electoral en que podrán contender alcaldes ocupantes por la reelección: 
+b. Texto de los artículos relevantes:
+c. ¿Hay discrepancias con otras bases de datos de reelección consecutiva?
+d. Créditos
+d.1. Responsable del reporte estatal (con correo):
+d.2. Quién hizo qué:
+e. Fechas
+e.1 De conclusión del reporte:
+e.2 Revisiones (fechadas, descritas y firmadas):
+--------------
+Tlaxcala
+edon=29
+edo=tla
+--------------
+a. Resumen ejecutivo
+a.1. Fecha de publicación de la reforma a la constitución en el periódico oficial: 
+a.2. Años de duración del mandato de los ayuntamientos del estado: 
+a.3. Mandatos consecutivos que puede servir un diputado: 
+a.4. Mandatos consecutivos que pueden servir los miembros del ayuntamiento: 
+a.5. Año electoral en que podrán contender diputados ocupantes por la reelección: 
+a.6. Año electoral en que podrán contender alcaldes ocupantes por la reelección: 
+b. Texto de los artículos relevantes:
+c. ¿Hay discrepancias con otras bases de datos de reelección consecutiva?
+d. Créditos
+d.1. Responsable del reporte estatal (con correo):
+d.2. Quién hizo qué:
+e. Fechas
+e.1 De conclusión del reporte:
+e.2 Revisiones (fechadas, descritas y firmadas):
+--------------
+Veracruz
+edon=30
+edo=ver
+--------------
+a. Resumen ejecutivo
+a.1. Fecha de publicación de la reforma a la constitución en el periódico oficial: 
+a.2. Años de duración del mandato de los ayuntamientos del estado: 
+a.3. Mandatos consecutivos que puede servir un diputado: 
+a.4. Mandatos consecutivos que pueden servir los miembros del ayuntamiento: 
+a.5. Año electoral en que podrán contender diputados ocupantes por la reelección: 
+a.6. Año electoral en que podrán contender alcaldes ocupantes por la reelección: 
+b. Texto de los artículos relevantes:
+c. ¿Hay discrepancias con otras bases de datos de reelección consecutiva?
+d. Créditos
+d.1. Responsable del reporte estatal (con correo):
+d.2. Quién hizo qué:
+e. Fechas
+e.1 De conclusión del reporte:
+e.2 Revisiones (fechadas, descritas y firmadas):
+--------------
+Yucatán
+edon=31
+edo=yuc
+--------------
+a. Resumen ejecutivo
+a.1. Fecha de publicación de la reforma a la constitución en el periódico oficial: 
+a.2. Años de duración del mandato de los ayuntamientos del estado: 
+a.3. Mandatos consecutivos que puede servir un diputado: 
+a.4. Mandatos consecutivos que pueden servir los miembros del ayuntamiento: 
+a.5. Año electoral en que podrán contender diputados ocupantes por la reelección: 
+a.6. Año electoral en que podrán contender alcaldes ocupantes por la reelección: 
+b. Texto de los artículos relevantes:
+c. ¿Hay discrepancias con otras bases de datos de reelección consecutiva?
+d. Créditos
+d.1. Responsable del reporte estatal (con correo):
+d.2. Quién hizo qué:
+e. Fechas
+e.1 De conclusión del reporte:
+e.2 Revisiones (fechadas, descritas y firmadas):
+--------------
+Zacatecas
+edon=32
+edo=zac
+--------------
+a. Resumen ejecutivo
+a.1. Fecha de publicación de la reforma a la constitución en el periódico oficial: 
+a.2. Años de duración del mandato de los ayuntamientos del estado: 
+a.3. Mandatos consecutivos que puede servir un diputado: 
+a.4. Mandatos consecutivos que pueden servir los miembros del ayuntamiento: 
+a.5. Año electoral en que podrán contender diputados ocupantes por la reelección: 
+a.6. Año electoral en que podrán contender alcaldes ocupantes por la reelección: 
+b. Texto de los artículos relevantes:
+c. ¿Hay discrepancias con otras bases de datos de reelección consecutiva?
+d. Créditos
+d.1. Responsable del reporte estatal (con correo):
+d.2. Quién hizo qué:
+e. Fechas
+e.1 De conclusión del reporte:
+e.2 Revisiones (fechadas, descritas y firmadas):
+--------------
+
+
+Parte 2. Información de entrevistas por estado
+--------------
+Aguascalientes
+--------------
+a. ¿El estado necesitará más de una entrevista para dirimir ambigüedades y discrepancias?
+b. Primera entrevista
+b.1 Nombre de entrevistado y una breve justificación de su selección
+b.2 Status de la entrevista
+b.3 Fecha de la entrevista
+b.4 Resumen de la entrevista
+c. Observaciones relevantes
+--------------
+Baja California
+--------------
+a. ¿El estado necesitará más de una entrevista para dirimir ambigüedades y discrepancias?
+b. Primera entrevista
+b.1 Nombre de entrevistado y una breve justificación de su selección
+b.2 Status de la entrevista
+b.3 Fecha de la entrevista
+b.4 Resumen de la entrevista
+c. Observaciones relevantes
+--------------
+Baja California Sur
+--------------
+a. ¿El estado necesitará más de una entrevista para dirimir ambigüedades y discrepancias?
+b. Primera entrevista
+b.1 Nombre de entrevistado y una breve justificación de su selección
+b.2 Status de la entrevista
+b.3 Fecha de la entrevista
+b.4 Resumen de la entrevista
+c. Observaciones relevantes
+--------------
+Campeche
+--------------
+a. ¿El estado necesitará más de una entrevista para dirimir ambigüedades y discrepancias?
+b. Primera entrevista
+b.1 Nombre de entrevistado y una breve justificación de su selección
+b.2 Status de la entrevista
+b.3 Fecha de la entrevista
+b.4 Resumen de la entrevista
+c. Observaciones relevantes
+--------------
+Coahuila
+--------------
+a. ¿El estado necesitará más de una entrevista para dirimir ambigüedades y discrepancias?
+b. Primera entrevista
+b.1 Nombre de entrevistado y una breve justificación de su selección
+b.2 Status de la entrevista
+b.3 Fecha de la entrevista
+b.4 Resumen de la entrevista
+c. Observaciones relevantes
+--------------
+Colima
+--------------
+a. ¿El estado necesitará más de una entrevista para dirimir ambigüedades y discrepancias?
+b. Primera entrevista
+b.1 Nombre de entrevistado y una breve justificación de su selección
+b.2 Status de la entrevista
+b.3 Fecha de la entrevista
+b.4 Resumen de la entrevista
+c. Observaciones relevantes
+--------------
+Chiapas
+--------------
+a. ¿El estado necesitará más de una entrevista para dirimir ambigüedades y discrepancias?
+b. Primera entrevista
+b.1 Nombre de entrevistado y una breve justificación de su selección
+b.2 Status de la entrevista
+b.3 Fecha de la entrevista
+b.4 Resumen de la entrevista
+c. Observaciones relevantes
+--------------
+Chihuahua
+--------------
+a. ¿El estado necesitará más de una entrevista para dirimir ambigüedades y discrepancias?
+b. Primera entrevista
+b.1 Nombre de entrevistado y una breve justificación de su selección
+b.2 Status de la entrevista
+b.3 Fecha de la entrevista
+b.4 Resumen de la entrevista
+c. Observaciones relevantes
+--------------
+Ciudad de México
+--------------
+a. ¿El estado necesitará más de una entrevista para dirimir ambigüedades y discrepancias?
+b. Primera entrevista
+b.1 Nombre de entrevistado y una breve justificación de su selección
+b.2 Status de la entrevista
+b.3 Fecha de la entrevista
+b.4 Resumen de la entrevista
+c. Observaciones relevantes
+--------------
+Durango
+--------------
+a. ¿El estado necesitará más de una entrevista para dirimir ambigüedades y discrepancias?
+b. Primera entrevista
+b.1 Nombre de entrevistado y una breve justificación de su selección
+b.2 Status de la entrevista
+b.3 Fecha de la entrevista
+b.4 Resumen de la entrevista
+c. Observaciones relevantes
+--------------
+Guanajuato
+--------------
+a. ¿El estado necesitará más de una entrevista para dirimir ambigüedades y discrepancias?
+b. Primera entrevista
+b.1 Nombre de entrevistado y una breve justificación de su selección
+b.2 Status de la entrevista
+b.3 Fecha de la entrevista
+b.4 Resumen de la entrevista
+c. Observaciones relevantes
+--------------
+Guerrero
+--------------
+a. ¿El estado necesitará más de una entrevista para dirimir ambigüedades y discrepancias?
+b. Primera entrevista
+b.1 Nombre de entrevistado y una breve justificación de su selección
+b.2 Status de la entrevista
+b.3 Fecha de la entrevista
+b.4 Resumen de la entrevista
+c. Observaciones relevantes
+--------------
+Hidalgo
+--------------
+a. ¿El estado necesitará más de una entrevista para dirimir ambigüedades y discrepancias?
+b. Primera entrevista
+b.1 Nombre de entrevistado y una breve justificación de su selección
+b.2 Status de la entrevista
+b.3 Fecha de la entrevista
+b.4 Resumen de la entrevista
+c. Observaciones relevantes
+--------------
+Jalisco
+--------------
+a. ¿El estado necesitará más de una entrevista para dirimir ambigüedades y discrepancias?
+b. Primera entrevista
+b.1 Nombre de entrevistado y una breve justificación de su selección
+b.2 Status de la entrevista
+b.3 Fecha de la entrevista
+b.4 Resumen de la entrevista
+c. Observaciones relevantes
+--------------
+México
+--------------
+a. ¿El estado necesitará más de una entrevista para dirimir ambigüedades y discrepancias?
+b. Primera entrevista
+b.1 Nombre de entrevistado y una breve justificación de su selección
+b.2 Status de la entrevista
+b.3 Fecha de la entrevista
+b.4 Resumen de la entrevista
+c. Observaciones relevantes
+--------------
+Michoacán
+--------------
+a. ¿El estado necesitará más de una entrevista para dirimir ambigüedades y discrepancias?
+b. Primera entrevista
+b.1 Nombre de entrevistado y una breve justificación de su selección
+b.2 Status de la entrevista
+b.3 Fecha de la entrevista
+b.4 Resumen de la entrevista
+c. Observaciones relevantes
+--------------
+Morelos
+--------------
+a. ¿El estado necesitará más de una entrevista para dirimir ambigüedades y discrepancias?
+b. Primera entrevista
+b.1 Nombre de entrevistado y una breve justificación de su selección
+b.2 Status de la entrevista
+b.3 Fecha de la entrevista
+b.4 Resumen de la entrevista
+c. Observaciones relevantes
+--------------
+Nayarit
+--------------
+a. ¿El estado necesitará más de una entrevista para dirimir ambigüedades y discrepancias?
+b. Primera entrevista
+b.1 Nombre de entrevistado y una breve justificación de su selección
+b.2 Status de la entrevista
+b.3 Fecha de la entrevista
+b.4 Resumen de la entrevista
+c. Observaciones relevantes
+--------------
+Nuevo León
+--------------
+a. ¿El estado necesitará más de una entrevista para dirimir ambigüedades y discrepancias?
+b. Primera entrevista
+b.1 Nombre de entrevistado y una breve justificación de su selección
+b.2 Status de la entrevista
+b.3 Fecha de la entrevista
+b.4 Resumen de la entrevista
+c. Observaciones relevantes
+--------------
+Oaxaca
+--------------
+a. ¿El estado necesitará más de una entrevista para dirimir ambigüedades y discrepancias?
+b. Primera entrevista
+b.1 Nombre de entrevistado y una breve justificación de su selección
+b.2 Status de la entrevista
+b.3 Fecha de la entrevista
+b.4 Resumen de la entrevista
+c. Observaciones relevantes
+--------------
+Puebla
+--------------
+a. ¿El estado necesitará más de una entrevista para dirimir ambigüedades y discrepancias?
+b. Primera entrevista
+b.1 Nombre de entrevistado y una breve justificación de su selección
+b.2 Status de la entrevista
+b.3 Fecha de la entrevista
+b.4 Resumen de la entrevista
+c. Observaciones relevantes
+--------------
+Querétaro
+--------------
+a. ¿El estado necesitará más de una entrevista para dirimir ambigüedades y discrepancias?
+b. Primera entrevista
+b.1 Nombre de entrevistado y una breve justificación de su selección
+b.2 Status de la entrevista
+b.3 Fecha de la entrevista
+b.4 Resumen de la entrevista
+c. Observaciones relevantes
+--------------
+Quintana Roo
+--------------
+a. ¿El estado necesitará más de una entrevista para dirimir ambigüedades y discrepancias?
+b. Primera entrevista
+b.1 Nombre de entrevistado y una breve justificación de su selección
+b.2 Status de la entrevista
+b.3 Fecha de la entrevista
+b.4 Resumen de la entrevista
+c. Observaciones relevantes
+--------------
+San Luis Potosí
+--------------
+a. ¿El estado necesitará más de una entrevista para dirimir ambigüedades y discrepancias?
+b. Primera entrevista
+b.1 Nombre de entrevistado y una breve justificación de su selección
+b.2 Status de la entrevista
+b.3 Fecha de la entrevista
+b.4 Resumen de la entrevista
+c. Observaciones relevantes
+--------------
+Sinaloa
+--------------
+a. ¿El estado necesitará más de una entrevista para dirimir ambigüedades y discrepancias?
+b. Primera entrevista
+b.1 Nombre de entrevistado y una breve justificación de su selección
+b.2 Status de la entrevista
+b.3 Fecha de la entrevista
+b.4 Resumen de la entrevista
+c. Observaciones relevantes
+--------------
+Sonora
+--------------
+a. ¿El estado necesitará más de una entrevista para dirimir ambigüedades y discrepancias?
+b. Primera entrevista
+b.1 Nombre de entrevistado y una breve justificación de su selección
+b.2 Status de la entrevista
+b.3 Fecha de la entrevista
+b.4 Resumen de la entrevista
+c. Observaciones relevantes
+--------------
+Tabasco
+--------------
+a. ¿El estado necesitará más de una entrevista para dirimir ambigüedades y discrepancias?
+b. Primera entrevista
+b.1 Nombre de entrevistado y una breve justificación de su selección
+b.2 Status de la entrevista
+b.3 Fecha de la entrevista
+b.4 Resumen de la entrevista
+c. Observaciones relevantes
+--------------
+Tamaulipas
+--------------
+a. ¿El estado necesitará más de una entrevista para dirimir ambigüedades y discrepancias?
+b. Primera entrevista
+b.1 Nombre de entrevistado y una breve justificación de su selección
+b.2 Status de la entrevista
+b.3 Fecha de la entrevista
+b.4 Resumen de la entrevista
+c. Observaciones relevantes
+--------------
+Tlaxcala
+--------------
+a. ¿El estado necesitará más de una entrevista para dirimir ambigüedades y discrepancias?
+b. Primera entrevista
+b.1 Nombre de entrevistado y una breve justificación de su selección
+b.2 Status de la entrevista
+b.3 Fecha de la entrevista
+b.4 Resumen de la entrevista
+c. Observaciones relevantes
+--------------
+Veracruz
+--------------
+a. ¿El estado necesitará más de una entrevista para dirimir ambigüedades y discrepancias?
+b. Primera entrevista
+b.1 Nombre de entrevistado y una breve justificación de su selección
+b.2 Status de la entrevista
+b.3 Fecha de la entrevista
+b.4 Resumen de la entrevista
+c. Observaciones relevantes
+--------------
+Yucatán
+--------------
+a. ¿El estado necesitará más de una entrevista para dirimir ambigüedades y discrepancias?
+b. Primera entrevista
+b.1 Nombre de entrevistado y una breve justificación de su selección
+b.2 Status de la entrevista
+b.3 Fecha de la entrevista
+b.4 Resumen de la entrevista
+c. Observaciones relevantes
+--------------
+Zacatecas
+--------------
+a. ¿El estado necesitará más de una entrevista para dirimir ambigüedades y discrepancias?
+b. Primera entrevista
+b.1 Nombre de entrevistado y una breve justificación de su selección
+b.2 Status de la entrevista
+b.3 Fecha de la entrevista
+b.4 Resumen de la entrevista
+c. Observaciones relevantes
+--------------
+
+
+Parte 3. Material adicional (dejen esto vacío por ahora)
+
+
+
+

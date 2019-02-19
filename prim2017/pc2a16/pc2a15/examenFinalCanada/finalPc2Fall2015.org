@@ -1,0 +1,75 @@
+Política Comparada II
+Otoño 2015
+Examen final
+
+Obtenga los resultados de la elección general canadiense reciente de [[http://enr.elections.ca]]. Analice la información para contestar las siguietes preguntas. El trabajo es individual y deberá entregarse, en mi oficina, el miércoles 9 de diciembre a las 12 del día. ¡Mucha suerte!
+
+1. ¿Cuántos distritos tiene cada provincia?
+
+R.
+                  Alberta          British Columbia                  Manitoba             New Brunswick Newfoundland and Labrador 
+                       34                        42                        14                        10                         7 
+    Northwest Territories               Nova Scotia                   Nunavut                   Ontario      Prince Edward Island 
+                        1                        11                         1                       121                         4 
+                   Québec              Saskatchewan                     Yukon 
+                       78                        14                         1 
+ 
+2. Usando el índice Laakso-Taagepera, obtenga el número efectivo de partidos electorales a nivel nacional y el del distrito mediano. 
+
+R.
+nep nacional = 3.33
+nep distrito mediano = 2.77
+
+3. Simplifique los datos reteniendo en la base sólo a los candidatos de partidos que hayan obtenido 1% del voto nacional por ganado por lo menos un distrito. ¿Qué partidos subsisten? 
+
+R.
+                     pty       v nwin     vs
+          Bloc Québécois  821120   10 0.0467
+            Conservative 5613648   99 0.3191
+             Green Party  602933    1 0.0343
+                 Liberal 6942844  184 0.3947
+NDP-New Democratic Party 3469337   44 0.1972
+
+
+Sume nuevamente las votaciones totales y los porcentajes del voto (nacional y de cada distrito) de modo que reflejen solo los sufragios de los candidatos no eliminados en el paso anterior. De aquí en adelante usará la base simplificada.
+
+
+4. Reporte el total nacional y la proporción nacional de votos y escaños de cada partido. ¿Cuál es el número efectivo de partidos legislativos?
+
+R. 
+> fptp
+  pty       v   s    vs    ss
+   BQ  821120  10 0.047 0.030
+ Cons 5613648  99 0.322 0.293
+Green  602933   1 0.035 0.003
+  Lib 6942844 184 0.398 0.544
+  NDP 3469337  44 0.199 0.130
+enlp = 2.50
+
+5. Suponiendo que cada provincia fuera un distrito con magnitud igual al número de distritos FPTP que tiene actualmente (de la pregunta 1), obtenga la asignación de escaños que le corresponde a cada partido en cada provincia con divisor D'Hondt. ¿Cuáles serían los números absolutos y relativos de escaños correspondiente a cada partido? ¿Cuál sería el número efectivo de partidos legislativos?
+
+R. 
+> dhondt
+  pty       v   s    vs    ss
+   BQ  821120  15 0.047 0.044
+ Cons 5613648 107 0.322 0.317
+Green  602933   7 0.035 0.021
+  Lib 6942844 143 0.398 0.423
+  NDP 3469337  66 0.199 0.195
+enlp = 3.13
+
+6. Obtenga el número de escaños de cada partido suponiendo ahora un sistema mixto, parecido al mexicano. Esto es, además de los distritos FPTP actuales, cada provincia sería un distrito plurinominal de segundo nivel con magnitud igual a dos terceras partes de los MPs que elije actualmente la provincia (de la pregunta 1, fracciones redondeadas al entero superior) y sistema Hare de restos mayores. 
+
+R.
+> mixed
+ pty       v   s    vs    ss
+   BQ  821120  20 0.047 0.035
+ Cons 5613648 173 0.322 0.304
+Green  602933   6 0.035 0.011
+  Lib 6942844 283 0.398 0.496
+  NDP 3469337  88 0.199 0.154
+enlp = 2.75
+
+7. Haga una gráfica en la que aparezcan, para cada partido y sistema electoral analizado, la relación entre la proporción de votos (eje de las X) y la proporción de escaños (eje de las Y). 
+
+

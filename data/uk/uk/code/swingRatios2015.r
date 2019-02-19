@@ -1,0 +1,192 @@
+# limpia memoria
+rm(list = ls())
+
+# donde estan los datos
+dd <- "/home/eric/Dropbox/data/elecs/uk/data/"
+
+# lee datos
+raw <- read.csv(paste(dd, "geByConst2015.csv", sep = ""), stringsAsFactors = FALSE)
+raw[1,]
+colnames(raw)
+
+# speaker a conservadores
+raw$Party.abbreviation[which(raw$Party.name.identifier=="Speaker")] <- "Con"
+# un independiente a UUP
+raw$Party.abbreviation[which(raw$Party.abbreviation=="Ind" & raw$Constituency.ID=="N06000013")] <- "UUP"
+
+# en qué lugar quedó cada partido en el distrito
+#raw <- ddply(raw, .(Constituency.ID), mutate, place=order(Votes, decreasing = TRUE))
+library(plyr)
+raw <- ddply(raw, .(Constituency.ID), mutate, place=order(Votes, decreasing = TRUE), dwin=as.numeric(order(Votes, decreasing = TRUE)==1))
+raw <- raw[-1,] # drop national total
+raw[1:5,]
+
+# consolida resultados nacionales
+nat <- ddply(raw, .(Party.abbreviation), mutate, vot=sum(Votes))
+nat <- nat[duplicated(nat$Party.abbreviation)==FALSE,]
+# drop 1st obs that has vtot
+nat <- nat[-1,]
+nat$pty <- nat$Party.abbreviation
+nat$sh <- nat$vot/sum(nat$vot)
+nat <- nat[,c("pty","vot","sh")]
+nat$keep <- as.numeric(nat$sh>=.03) # indica los que tuvieron voto > 4% nacional
+nat[nat$keep==1,]
+
+# aquí debo consolidar seat shares nacionales
+
+# cambia nombres y quita columnas redundantes
+raw <- raw[,-grep("Description", colnames(raw))]
+raw <- raw[,-grep("^X", colnames(raw))]
+colnames(raw)[grep("Votes", colnames(raw))] <- "vot"
+colnames(raw)[grep("Share", colnames(raw))] <- "sh"
+colnames(raw)[grep("Party.abb", colnames(raw))] <- "pty"
+raw$dincumb <- as.numeric(raw$Incumbent.=="MP")
+raw <- raw[,-grep("Incumbent", colnames(raw))]
+
+# margen de victoria
+mg <- function(X){
+    uno <- which(X$place==1)
+    #dos <- which(X$place==2)
+    X$mg <- (X$sh - X$sh[uno]) / 100
+    return(X$mg)
+}
+raw$mg <- NA
+tmpConst <- raw$Constituency.ID; tmpConst <- tmpConst[duplicated(tmpConst)==FALSE]
+# no lo logré con ddply
+for (i in 1:length(tmpConst)){
+    sel <- which(raw$Constituency.ID==tmpConst[i])
+    tmp <- raw[sel,]
+    margen <- mg(tmp)
+    raw$mg[sel] <- margen
+}
+rm(i, tmpConst, sel)
+
+# filtra segundos lugares: se quedan sólo si mg < .05
+raw$keep <- as.numeric(raw$place<3 & abs(raw$mg)<=.05) # keep all who ended 1st or 2nd in at least one constituency
+# añade si voto nacional > .03
+sel <- which(raw$pty %in% c("Con", "Lab", "LD", "SNP", "UKIP", "Green"))
+raw$keep[sel] <- 1
+
+table(raw$pty[raw$keep==1])
+
+# fusiono todos los partidos locales que consiguieron pasar el filtro como "other"
+sel <- which(raw$pty %in% c("DUP", "PC", "SDLP", "SF", "UUP") & raw$keep==1)
+raw$pty[sel] <- "oth"
+table(raw$pty[raw$keep==1])
+
+# elimino los partidos que no pasan el filtro
+raw <- raw[raw$keep==1,]
+
+# data.frame with vote shares de los partidos a incluir (se puede eliminar aquí más partidos no dándoles una columna)
+tmpConst <- raw$Constituency.ID; tmpConst <- tmpConst[duplicated(tmpConst)==FALSE]
+dat <- data.frame(idConst=tmpConst, efec=0, con=0, lab=0, ld=0, snp=0, ukip=0)
+
+fill <- function(X){
+    #X <- raw[which(raw$Constituency.ID==dat$idConst[1]),] # debug
+    out <- rep(0, (ncol(dat)-1))
+    out[1] <- sum(X$vot) # efec
+    sel <- which(X$pty=="Con")
+    if (length(sel)>0) {out[2] <- X$sh[sel]}
+    sel <- which(X$pty=="Lab")
+    if (length(sel)>0) {out[3] <- X$sh[sel]}
+    sel <- which(X$pty=="LD")
+    if (length(sel)>0) {out[4] <- X$sh[sel]}
+    sel <- which(X$pty=="SNP")
+    if (length(sel)>0) {out[5] <- X$sh[sel]}
+    sel <- which(X$pty=="UKIP")
+    if (length(sel)>0) {out[6] <- X$sh[sel]}
+    ## sel <- which(X$pty=="Green")
+    ## if (length(sel)>0) {out[7] <- X$sh[sel]}
+    ## sel <- which(X$pty=="oth")
+    ## if (length(sel)>0) {out[7] <- sum(X$sh[sel])} # there seem to be cases where 2+ oth in same constituency
+    return(out)
+}
+for (i in 1:nrow(dat)){
+    X <- raw[which(raw$Constituency.ID==dat$idConst[i]),]
+    dat[i,-1] <- fill(X)
+}
+
+head(dat)
+
+# recalculo vote share
+tmp <- dat[, -grep("idConst|efec", colnames(dat))]
+tmp <- tmp/rowSums(tmp)
+dat[, -grep("idConst|efec", colnames(dat))] <- tmp
+head(dat)
+
+# quito distritos donde no quedó nadie relevante
+dat <- dat[-which(is.na(dat$con)),]
+
+# habría que recomponer efec sin los últimos eliminados...
+
+# who won
+tmp <- dwin <- dat[,-1:-2] # drop ID and vtot
+tmpmax <- apply(dwin, 1, max)
+dwin[,] <- 0
+for (i in 1:nrow(dwin)){
+    dwin[i,] <- as.numeric(tmp[i,]==tmpmax[i])
+}
+colSums(dwin)
+
+# keep votes only (drop const ID)
+dat <- dat[,-1]
+
+# find patterns of party contestation, change data to lists
+library(seatsvotes)
+dat.pat <- findpatterns(dat)
+
+# estimate mixture models for each pattern of contestation (start w components=1, inspect fit visually, increase if needed)
+fit <- list()
+fit[[1]] <- mvnmix( dat = dat.pat[[1]], components = 1, nrep = 10, scatter = TRUE) 
+fit[[2]] <- mvnmix( dat = dat.pat[[2]], components = 1, nrep = 10, scatter = TRUE)
+fit[[3]] <- mvnmix( dat = dat.pat[[3]], components = 2, nrep = 10, scatter = TRUE)
+fit[[4]] <- mvnmix( dat = dat.pat[[4]], components = 1, nrep = 10, scatter = TRUE)
+fit[[5]] <- mvnmix( dat = dat.pat[[5]], components = 1, nrep = 10, scatter = TRUE)
+# note: successive fits with same component number change a lot! This is true in Linzer (my tweaked functions have not yet been invoked)... Inheritance problem?
+
+# show density's district marginals
+show.marginals(fit, numdraws=50000)
+
+# Simulate elections, estimate swing ratios and plot results
+res <- swingratio(fit, sims=5000, graph = TRUE) # original call
+
+# DO THIS ONLY AFTER ALL SIMS DONE --- SEE HOW 1% INCREASE IN PTY AFFECTS OTHER PTIES
+# Scatterplot matrix of simulated national-level vote and seat shares.
+#   Note, loading package "car" conflicts with package "ellipse" --
+#   will need to re-start R to proceed with other countries.
+library(car)
+sim.vm <- as.data.frame(res$votemat)
+scatterplotMatrix(sim.vm[1:1000,],pch=19,diagonal="none",cex=0.4,lty=2,
+                  smooth=FALSE,cex.axis=1.5,col=c("black",rep("gray50",ncol(sim.vm))),lwd=2)
+
+sim.sm <- as.data.frame(res$seatmat)
+scatterplotMatrix(sim.sm[1:1000,],pch=19,diagonal="none",cex=0.4,lty=2,
+                  smooth=FALSE,cex.axis=1.5,col=c("black",rep("gray50",ncol(sim.vm))),lwd=2)
+
+
+# Plot effect of a 1% increase in the Lab national-level vote share
+y <- as.data.frame(t(t(sim.vm)-colMeans(sim.vm))) # demeaned simulated votes
+#names(y) <- c("con","pan","left","pvem", "panal")
+head(y)
+
+sel <- which(colnames(y)=="lab")
+chg <- .02
+
+par(mfrow=c(4,1),mar=c(4,3,1.5,1.5))
+for (i in c(1:ncol(y))[-sel]) {
+    plot(density(y[round(y[,sel],3)==0.00,i],adjust=1.3),lwd=2,lty=2,ylim=c(0,100),
+            main="",ylab="",xlab="",cex.axis=1.1,cex.lab=1.5,xlim=c(-0.035,0.03),bty="n")
+    lines(density(y[round(y[,sel],3)==chg,i],adjust=1.3),lwd=2)
+    mtext(side=2,text="density",line=2,cex=0.8)
+    mtext(side=1,text=names(y[i]),line=2.5,cex=1.1)
+    abline(v=0,col="gray50",lwd=2,lty=2)
+    abline(v=mean(y[round(y[,sel],3)==chg,i]),col="gray50",lwd=2)
+    if (i==1) {
+        text(0.017,57,paste(colnames(y)[sel], "receive\n mean (observed)\n vote share"),cex=1.4)
+        text(-0.023,60,paste(colnames(y)[sel], " change\n vote share by ", chg*100, "%", sep = ""),cex=1.4)
+    }
+}
+
+ 
+
+

@@ -1,0 +1,221 @@
+# Obtiene datos elección 2005 de politicsresources.net
+
+setwd("d:/01/data/elecs/uk")
+rm(list = ls())
+
+
+
+# PARTE 1: EXTRAE Y GUARDA INFO DE LA WEB
+
+path<-c("http://www.politicsresources.net/area/uk/ge05/")
+
+setwd("d:/01/data/elecs/uk/webData")
+for (n in 1:9){
+    direc<-paste(path,"i",0,n,".htm",sep="")
+    url<-url(direc,open="r")
+    rawData<-c("cacapunchis parte ",n,readLines(url))
+    close(url)
+    filename<-paste("part0",n,".txt",sep="")
+    write.table(rawData, filename, sep="\t")
+}
+for (n in 10:22){
+    direc<-paste(path,"i",n,".htm",sep="")
+    url<-url(direc,open="r")
+    rawData<-c("cacapunchis parte ",n,readLines(url))
+    close(url)
+    filename<-paste("part",n,".txt",sep="")
+    write.table(rawData, filename, sep="\t")
+}
+setwd("d:/01/data/elecs/uk")
+
+
+
+
+# PARTE 2: ORGANIZA INFO
+
+rawData<-c("AQUI EMMPIEZA")
+
+setwd("d:/01/data/elecs/uk/webData")
+for (n in 1:9){
+    fileName<-paste("part0",n,".txt",sep="")
+    file<-file(fileName,open="r")
+    text<-readLines(file)
+    rawData<-append(rawData,text)
+    close(file)
+}
+for (n in 10:22){
+    fileName<-paste("part",n,".txt",sep="")
+    file<-file(fileName,open="r")
+    text<-readLines(file)
+    rawData<-append(rawData,text)
+    close(file)
+}
+
+setwd("d:/01/data/elecs/uk")
+
+
+
+# PARTE 3: EXTRAE CONSTITUENCY DATA
+
+##where in rawData are constituency starting lines
+marker<-c("<!-- result -->")
+constRows<-c(grep(marker,rawData),length(rawData))
+
+N<-length(constRows)-1
+
+##where in rawData is info
+constNameRow<-rep(NA,N)
+candStartRow<-rep(NA,N)
+candEndRow<-rep(NA,N)
+electorateRow<-rep(NA,N)
+
+for(i in 1:N){
+    ## subset this constituency's data
+    thisCon<-rawData[constRows[i]:constRows[i+1]]
+    
+    ##subset to lines with info
+    tmp<-grep("<table border align=center>",thisCon)
+    constNameRow[i]<-constRows[i]+tmp-2
+    candStartRow[i]<-constRows[i]+tmp
+    tmp<-grep("<p align=center>Electorate",thisCon)
+    candEndRow[i]<-constRows[i]+tmp-3
+    electorateRow[i]<-constRows[i]+tmp-1
+}
+
+i<-1 
+nCand<-length(rawData[candStartRow[i]:candEndRow[i]])
+
+consName<-sub(rawData[constNameRow[i]],
+pattern=".*<b>(.*)</b>.*",
+replacement="\\1")
+consName<-rep(consName,times=nCand)
+
+region<-sub(rawData[constNameRow[i]],
+pattern=".*<br>(.*]).*",
+replacement="\\1")
+region<-rep(region,times=nCand)
+
+candName<-rep(NA,nCand)
+for (j in 1:nCand){
+    candName[j]<-
+    sub(rawData[candStartRow[i]+j-1],
+    pattern=".*<tr><td( nowrap)?>(.*)</td><td>.*",
+    replacement="\\2")
+}
+
+pty<-rep(NA,nCand)
+for (j in 1:nCand){
+    pty[j]<-
+    sub(rawData[candStartRow[i]+j-1],
+    pattern=".*<tr><td( nowrap)?>.*</td><td>(.*)</td><td align=right>.*</td><td align=right>.*</td></tr>.*",
+    replacement="\\2")
+}
+
+# USA GSUB EN VEZ DE SUB PARA QUE REPITA EL PATRÓN DE BÚSQUEDA SI FUERA NECESARIO (EJ. 1,234,567 VOTOS)
+votes<-rep(NA,nCand)
+for (j in 1:nCand){
+    votes[j]<-
+    gsub(rawData[candStartRow[i]+j-1],
+    pattern=".*<tr><td( nowrap)?>.*</td><td>.*</td><td align=right>([0-9]{0,3}[,]{0,1}[0-9]{1,3})</td><td align=right>.*</td></tr>.*",
+    replacement="\\2")
+}
+#QUITA COMAS
+votes<-gsub(votes,pattern=",",replacement="")
+votes<-as.numeric(votes)
+
+electorate<-sub(rawData[electorateRow[i]],
+pattern=".*Electorate: (.*); Turnout:.*",
+replacement="\\1")
+electorate<-rep(electorate,nCand)
+
+dIncum <- rep(NA,nCand)
+for (j in 1:nCand){
+    dIncum[j]<-ifelse(sub(candName[j],pattern=".*([*])$",replacement="\\1")=="*",1,0)
+}
+
+index <- rep(i,times=nCand)
+nCand <- rep(nCand,times=nCand)
+
+
+
+for (i in 2:N){ 
+
+    nCand2<-length(rawData[candStartRow[i]:candEndRow[i]])
+    
+    consName2<-sub(rawData[constNameRow[i]],
+    pattern=".*<b>(.*)</b>.*",
+    replacement="\\1")
+    consName2<-rep(consName2,times=nCand2)
+    
+    region2<-sub(rawData[constNameRow[i]],
+    pattern=".*<br>(.*]).*",
+    replacement="\\1")
+    region2<-rep(region2,times=nCand2)
+    
+    candName2<-rep(NA,nCand2)
+    for (j in 1:nCand2){
+        candName2[j]<-sub(rawData[candStartRow[i]+j-1],
+        pattern=".*<tr><td( nowrap)?>(.*)</td><td>.*",
+        replacement="\\2")
+    }
+    
+    pty2<-rep(NA,nCand2)
+    for (j in 1:nCand2){
+        pty2[j]<-sub(rawData[candStartRow[i]+j-1],
+        pattern=".*<tr><td( nowrap)?>.*</td><td>(.*)</td><td align=right>.*</td><td align=right>.*</td></tr>.*",
+        replacement="\\2")
+    }
+    
+    # USA GSUB EN VEZ DE SUB PARA QUE REPITA EL PATRÓN DE BÚSQUEDA SI FUERA NECESARIO (EJ. 1,234,567 VOTOS)
+    votes2<-rep(NA,nCand2)
+    for (j in 1:nCand2){
+        votes2[j]<-
+        gsub(rawData[candStartRow[i]+j-1],
+        pattern=".*<tr><td( nowrap)?>.*</td><td>.*</td><td align=right>([0-9]{0,3}[,]{0,1}[0-9]{1,3})</td><td align=right>.*</td></tr>.*",
+        replacement="\\2")
+    }
+    #QUITA COMAS
+    votes2<-gsub(votes2,pattern=",",replacement="")
+    votes2<-as.numeric(votes2)
+   
+    electorate2<-sub(rawData[electorateRow[i]],
+    pattern=".*Electorate: (.*); Turnout:.*",
+    replacement="\\1")
+    electorate2<-rep(electorate2,nCand2)
+    
+    dIncum2 <- rep(NA,nCand2)
+    for (j in 1:nCand2){
+        dIncum2[j]<-ifelse(sub(candName2[j],pattern=".*([*])$",replacement="\\1")=="*",1,0)
+    }
+    
+    index2 <- rep(i,times=nCand2)
+    nCand2 <- rep(nCand2,times=nCand2)
+    
+    consName <- append(consName,consName2)
+    region <- append(region,region2)
+    nCand <- append(nCand,nCand2)
+    candName <- append(candName,candName2)
+    pty <- append(pty,pty2)
+    dIncum <- append(dIncum,dIncum2)
+    votes <- append(votes,votes2)
+    electorate <- append(electorate,electorate2)
+    index <- append(index,index2)
+
+}
+
+
+ge2005 <- data.frame(matrix(NA,nrow=length(nCand),ncol=9))
+names(ge2005)<-c("index","consName","region","nCand","candName","pty","dIncum","votes","electorate")
+ge2005$index <- index
+ge2005$consName <- consName
+ge2005$region <- region
+ge2005$nCand <- nCand
+ge2005$candName <- candName
+ge2005$pty <- pty
+ge2005$dIncum <- dIncum
+ge2005$votes <- votes
+ge2005$electorate <- electorate
+
+#EXPORTA
+write.csv(ge2005, file="ge2005.csv")
+

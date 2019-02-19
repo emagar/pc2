@@ -1,0 +1,385 @@
+%  http://latex-beamer.sourceforge.net/
+
+%\documentclass[landscape]{foils}
+
+\documentclass{beamer}
+%\documentclass[handout]{beamer}     % TO PRINT PRESENTATION HANDOUT
+\documentclass[xcolor=dvipsnames]{beamer}  % ALLOWS CHANGE IN COLOR
+
+\usepackage{color}
+
+\usepackage{pifont} %para tener la ballot cross \ding{55}
+
+\usepackage{beamerthemesplit}
+\usepackage{url}
+\usepackage{ae} % or {zefonts}
+\usepackage[T1]{fontenc}
+\usepackage[ansinew]{inputenc}
+\usepackage[spanish]{babel}
+\decimalpoint
+
+\usepackage{graphicx}
+%\graphicspath{"c:/data"}
+\usepackage{hyperref}
+\usepackage{tikz} % Easier syntax to draw pgf files (invokes pgf automatically)
+\usetikzlibrary{arrows,shapes.geometric}
+%\usepackage{pgfmath}
+
+%\usecolortheme{crane}     %Color yellow
+%\usetheme{Warsaw}
+%\usecolortheme[named=Gray]{structure}
+\usecolortheme{wolverine}
+\setbeamercolor{section in head/foot}{fg=white, bg=lightgray}
+
+%\useoutertheme[footline=empty]{}  % PUTS COLORED LINE AT FOOT WITH TITLE, AUTHOR, PAGE, etc
+%\usetheme{Berkeley}
+\usetheme[height=7mm]{Rochester}
+\setbeamertemplate{items}[ball]   % ITEMS IN 3D BALLS (alt CIRCLES)
+\setbeamertemplate{navigation symbols}{}  % DROPS NAVIGATION ICONS
+\setbeamertemplate{blocks}[rounded][shadow=true]
+
+\makeatletter
+\setbeamertemplate{footline}
+{
+  \leavevmode%
+  \hbox{%
+  \begin{beamercolorbox}[wd=\paperwidth,ht=2.25ex,dp=1ex,right]{section in head/foot}%
+    \usebeamerfont{date in head/foot}\insertshortdate{}\hspace*{2em}
+    \insertframenumber{} / \inserttotalframenumber\hspace*{2ex} 
+  \end{beamercolorbox}}%
+  \vskip0pt%
+}
+\makeatother
+
+\usepackage{multirow} %allows multiple rows in tables
+
+%\setbeamertemplate{footline} {
+%    \begin{beamercolorbox}{section in head/foot}
+%    \insertsectionnavigationhorizontal{\paperwidth}{}{plus1filll
+%    \insertframenumber}
+%    \end{beamercolorbox}
+%}
+
+
+%\setbeamertemplate{navigation symbols}{\insertslidenavigationsymbol,
+%\insertdocnavigationsymbol} \setbeamertemplate{footline} {
+%    \begin{beamercolorbox}{section in head/foot}
+%    \insertsectionnavigationhorizontal{\paperwidth}{}{plus1filll
+%    \insertframenumber}
+%    \end{beamercolorbox}
+%}
+
+% adds frame number
+\expandafter\def\expandafter\insertshorttitle\expandafter{%
+  \insertshorttitle\hfill%
+  \insertframenumber}
+%  \insertframenumber\,/\,\inserttotalframenumber}
+
+
+\setbeamercovered{transparent}
+\setbeamertemplate{caption}{\insertcaption}
+
+\newcommand{\mc}{\multicolumn}
+
+\newcommand{\be}{\begin{enumerate}}
+\newcommand{\ee}{\end{enumerate}}
+\newcommand{\bq}{\begin{quote}}
+\newcommand{\eq}{\end{quote}}
+\newcommand{\bd}{\begin{description}}
+\newcommand{\ed}{\end{description}}
+\newcommand{\bi}{\begin{itemize}}
+\newcommand{\ei}{\end{itemize}}
+\newcommand{\beq}{\begin{equation*}}
+\newcommand{\eeq}{\end{equation*}}
+\newcommand{\bc}{\begin{center}}
+\newcommand{\ec}{\end{center}}
+
+\usepackage{dcolumn}          % needed for apsrtable and stargazer tables from R to compile
+\usepackage{arydshln}         % dashed lines in tables (hdashline, cdashline{3-4}, 
+                              %see http://tex.stackexchange.com/questions/20140/can-a-table-include-a-horizontal-dashed-line)
+                              % must be loaded AFTER dcolumn, 
+                              %see http://tex.stackexchange.com/questions/12672/which-tabular-packages-do-which-tasks-and-which-packages-conflict
+
+\AtBeginSection[] {
+   \begin{frame}
+       \frametitle{Road map}
+       \tableofcontents[currentsection]
+   \end{frame}
+}
+
+\tikzstyle{nodo} = [square, draw=black, fill=white, text=black]
+\tikzstyle{end} = [circle, minimum width=3pt,fill, inner sep=0pt]
+
+\title[Institucionalismo]{Instituciones políticas}
+\author[Magar]{Eric Magar}
+\institute[ITAM]{ITAM}
+\date[16ene2019]{16 ene. 2019}
+
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\frame[plain]{\titlepage}
+
+%%%%%%%%%%%%%%%%%%%
+\frame {
+  \frametitle{Dos funciones de la \textbf{estructura} de un sistema}
+  \begin{columns}
+
+    \begin{column}{.35\columnwidth}
+      \bi
+\item Lo sostiene
+\item determina conductas
+      \ei
+
+      \pause
+      \begin{center}
+        $\downarrow$ \\
+        las vuelve \\ \alert{predecibles}
+      \end{center}
+      
+    \end{column}
+
+    \begin{column}{.65\columnwidth}
+     \centering
+\includegraphics[width=.65\linewidth]{pics/estructura.jpg}\\
+\includegraphics[width=.65\linewidth]{pics/nilo.jpg}
+    \end{column}
+  \end{columns}
+}
+%%%%%%%%%%%%%%%%%%%
+\setbeamercovered{invisible}
+\frame {
+  \frametitle{¿Cuál es la estructura de una democracia?}
+  \pause
+  3 escuelas, 3 respuestas
+  \bd
+\item[materialista] restricciones \textbf{físicas} a la conducta humana\\ (también llamada ``estructuralista'')
+\item[institucionalista] reglas de conducta, restricciones \textbf{humanas}
+\item[culturalista] \textbf{valores} compartidos
+  \ed
+
+  \pause \bigskip
+
+  \be
+\item Teoría de la modernización (Lipset)
+\item Separación del poder (Madison)
+\item Cultura cívica (Almond\&Verba)
+  \ee
+
+}  
+%%%%%%%%%%%%%%%%%%%
+\setbeamercovered{transparent}
+\frame {
+  \frametitle{Myerson}
+  La estructura de una democracia
+  \be
+   \item \textbf{cargos} que los políticos pueden ocupar
+   \item \textbf{poderes} constitucionales asociados a dichos cargos
+   \item procedimientos para \textbf{elegir} qué candidatos los ocuparán
+  \ee
+
+  \bigskip \pause \centering
+
+  (abrimos un paréntesis)
+}
+%%%%%%%%%%%%%%%%%%%
+\frame {
+  \frametitle{Varias acepciones}
+  \begin{columns}
+    \begin{column}{.5\columnwidth}
+    \centering
+  1.\includegraphics[width=.9\linewidth]{pics/opus-night.png}\\
+  \bigskip
+  \textbf<2>{2.}\includegraphics[width=.5\linewidth]{pics/marriage.jpg}
+    \end{column}
+    \begin{column}{.5\columnwidth}
+      \centering
+  3.\includegraphics[width=.5\linewidth]{pics/sabritones.jpg}\\
+  \bigskip
+  \textbf<2>{4.}\includegraphics[width=.9\linewidth]{pics/pri.jpg}
+    \end{column}
+  \end{columns}
+}
+%%%%%%%%%%%%%%%%%%%
+\frame {
+  \frametitle{Una definición}
+
+  Las \alert{instituciones} son restricciones creadas \\ por el hombre para dar forma a la \\ interacción con otros hombres \\ ---D. North
+
+\bigskip \pause
+
+Algunas propiedades:
+\bi
+\item Las hay formales e informales
+\item Las hay eficientes o no
+\item No es fácil cambiarlas (\emph{28 niv\^ose an 227})
+\ei
+}
+%%%%%%%%%%%%%%%%%%%
+\frame {
+  \frametitle{El enfoque institucional}
+
+  \begin{align*}
+    \text{instituciones} & = \text{reglas del juego} \\
+                         & \neq \text{organizaciones}
+  \end{align*}
+\bigskip
+
+\textbf{Analogía} \\
+Las \alert{organizaciones} son equipos que se enfrentan en un juego cuyas reglas definen las \alert{instituciones} \\ 
+\medskip \footnotesize{$\rightarrow$ P.ej. partidos, grupos de interés, legisladores...}
+}
+%%%%%%%%%%%%%%%%%%%
+\frame {
+  \frametitle{Una ilustración}
+  Hay dos clases de países:
+  \be
+\item donde el auto le cede el paso al peatón
+\item donde el peatón le cede el paso al auto
+  \ee
+  \bigskip \pause
+  OMS (2013): A diario mueren \alert{5 mil} personas atropelladas en el mundo \\ \medskip ¿muchos o pocos?
+}
+\frame {
+  \frametitle{Exhaustivas y mutuamente excluyentes}
+  No hay país que no pertenezca a estas dos clases
+  \begin{align*}
+    \{1\} \cup \{2\} & = \Omega \\
+                     \& & \\
+    \{1\} \cap \{2\} & = \varnothing
+  \end{align*}
+  \pause O sea, nadie carece de un regla para cruzar la calle \\ (a menudo informal)
+
+  \bigskip \framebox{El porqué dice mucho de la naturaleza de las instituciones}
+}
+%%%%%%%%%%%%%%%%%%%
+{
+\usebackgroundtemplate{\includegraphics[width=\paperwidth]{pics/brain.jpg}}
+\frame[plain] {
+  \centering
+  \color{red}{\huge{Las reglas: ¿por qué ejercen tal influencia en la vida humana?}}
+}
+}
+%%%%%%%%%%%%%%%%%%%
+\frame {
+  \frametitle{Argumento utilitarista}
+Una característica central: \\ las instituciones resuelven \alert{problemas de coordinación}
+
+\bigskip
+
+\bi
+\item \href{https://archive.org/details/ATripDownMarketStreet_HD}{Market St., SF 1906}
+\item \href{https://www.youtube-nocookie.com/embed/4phFYiMGCIY?rel=0}{Saigón}
+\item \href{http://www.youtube.com/watch?v=0Ar-6PAbLNA}{Market St., SF c2010}
+\ei
+}  
+%%%%%%%%%%%%%%%%%%%
+\frame {
+  \frametitle{Tres dilemas colectivos en política}
+\bd
+\item[Descoordinación] ``bote de remos'' 
+\item[Tragedia del ejido] conflicto individuo/colectividad
+\item[Intransitividad social] no hay mandato de la mayoría
+  \ed
+
+  \bigskip \framebox{Las instituciones permiten mitigarlos (y, con suerte, resolverlos)}
+}
+%%%%%%%%%%%%%%%%%%%
+\frame {
+  \frametitle{Problema genérico de coordinación}
+Se corta la llamada telefónica...
+
+\bigskip
+
+  \begin{tabular}{cc|c|c|}
+                 & \mc{1}{c}{~}  & \mc{2}{c}{\color{red}{ella}} \\
+                 & \mc{1}{c}{~}  & \mc{1}{c}{\textit{marca}} & \mc{1}{c}{\textit{espera}} \\ \cline{3-4}
+                 &               & suena      & \textbf<2->{retoman la} \\ [-.5ex]
+                 & \textit{marca}  & ocupado    & \textbf<2->{llamada}    \\ 
+ \color{red}{él} &               & (0,0)      & \textbf<2->{(1,1)}      \\ \cline{3-4}
+                 &               & \textbf<2->{retoman la} & no pasa    \\ [-.5ex]
+                 & \textit{espera} & \textbf<2->{llamada}    & nada       \\
+                 &               & \textbf<2->{(1,1)}      & (0,0)      \\ \cline{3-4}
+  \end{tabular}
+
+\bigskip \pause \pause ¿Qué instituciones podrían ayudar?
+}
+%%%%%%%%%%%%%%%%%%%
+\frame {
+  \frametitle{Efectos distributivos}
+No hay reglas neutrales, siempre hay \textbf{ganadores} y \textbf{perdedores}
+
+\bigskip
+
+\bi
+\item Reglas 1 y 2
+\item Decano preside la reunión preparatoria de la Cámara
+\item Ejecutivo puede vetar el presupuesto
+\item Arresto por tomar la tribuna
+\ei
+
+\bigskip \pause 
+
+¿Efectos o defectos?
+
+\bigskip Ganadores usan ganancias para defender la regla \\ $\rightarrow$ persistencia de instituciones ineficientes (North) 
+}
+%%%%%%%%%%%%%%%%%%%
+\frame {
+  \frametitle{Instituciones pegajosas}
+  \be
+\item Dvorak o \includegraphics[width=.3\linewidth]{pics/qwerty.jpeg}
+\item IVA cero en alimentos y medicinas
+\item No reelección
+\item Incapacidad del estado posrevolucionario (Garfias) 
+  \ee
+}  
+%%%%%%%%%%%%%%%%%%%
+\frame {
+  \frametitle{En resumen}
+  Las Instituciones
+  \be
+\item son \alert{reglas}
+\item que \alert{mitigan dilemas} colectivos y reducen incertidumbre
+\item pero generan efectos \alert{distributivos}
+  \ee
+}
+%%%%%%%%%%%%%%%%%%%
+\frame {
+  \frametitle{Myerson}
+  La estructura de una democracia
+  \be
+   \item \textbf{cargos} que los políticos pueden ocupar
+   \item \textbf{poderes} constitucionales asociados a dichos cargos
+   \item procedimientos para \textbf{elegir} qué candidatos los ocuparán
+  \ee
+
+  \bigskip \pause Sistema de incentivos para los políticos: \\ qué estrategias son premiadas
+
+  \bigskip Estructura puede ejercer fuerte influencia en el desempeño gubernamental
+}
+%%%%%%%%%%%%%%%%%%%
+\frame {
+  \frametitle{Microeconomía e institucionalismo}
+  
+    \centering
+    \usetikzlibrary{decorations.pathreplacing}
+    \begin{tikzpicture}
+      \node at (0,0)   (i) {instituciones}; 
+      \node at (4,1)   (p) {preferencias}; 
+      \node at (4,-1)   (a) {alternativas}; 
+      \draw[->] (i) -- node[sloped, above] {\footnotesize{incentivos}} (p);
+      \draw[->] (i) -- node[sloped, above] {\footnotesize{definen}} (a);
+      \draw [decorate,decoration={brace,amplitude=10pt},xshift=-4pt,yshift=0pt]
+(5.5,1) -- (5.5,-1) node [black,midway,xshift=2cm] {elección/desenlace};
+    \end{tikzpicture}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+

@@ -1,0 +1,5 @@
+Examen parcial
+
+La gráfica siguiente fue preparada por su profesor con datos del "Poll of polls" británico de <link>.  Cada punto reporta una encuesta, o más precisamente, el porcentaje de intenciones de voto por un determinado partido entre los entrevistados de una encuesta. 
+
+Identifique un periodo, una tendencia, o un patrón en el diagrama y elabore una historia

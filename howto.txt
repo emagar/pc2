@@ -15,4 +15,7 @@ git checkout github
 git rm -rf file-to-drop
 git commit
 
-There is a hook that pushes subset to 'public_repo' remote whenever master is committed. 
+To push subset to 'public_repo':
+
+git push public_repo github:master
+

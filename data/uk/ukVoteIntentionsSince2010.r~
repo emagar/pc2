@@ -1,0 +1,45 @@
+rm(list=ls())
+
+workdir <- "~/Desktop/pc2/ukData"
+setwd(workdir)
+
+dat <- read.csv(file="ukVoteIntentionsSince2010.csv", stringsAsFactors = FALSE)
+head(dat)
+
+library(lubridate)
+dat$date <- ymd(dat$date)
+
+max(dat$lab)
+
+library(Cairo)
+#cairo_pdf(file = "ukVoteIntentionsSince2010.pdf",
+#    width = 12, height = 7)
+plot( dat$date, c(rep(0, times = (length(dat$date)-1)),  50), type = "n",
+     ylab = "% intención de voto",
+     xlab = "fecha",
+     main = "Si hoy fuese la elección general, ¿por quién votaría?")
+#
+tmp <- seq( from = min(year(dat$date)), to = max(year(dat$date)), by = 1)
+tmp <- c(tmp, tmp, tmp, tmp, tmp, tmp, tmp, tmp, tmp, tmp, tmp, tmp)
+tmp <- tmp[order(tmp)]
+tmp <- ymd(paste(tmp, 1:12, 1, sep = "-"))
+tmp[tmp >= min(dat$date) & tmp <= max(dat$date)]
+axis(side = 1, at = tmp, labels = FALSE, lwd = .25)
+#
+abline( h = seq(from = 0, to = 50, by = 5), col = "grey") 
+points( dat$date, dat$con, col = "blue", pch=19, cex=.05)
+points( dat$date, dat$lab, col = "red", pch=19, cex=.05)
+points( dat$date, dat$libDem, col = "gold", pch=19, cex=.05)
+points( dat$date, dat$ukip, col = "black", pch=19, cex=.05)
+points( dat$date, dat$grn, col = "green", pch=19, cex=.05)
+lines(smooth.spline(dat$date, dat$con, df=10),    lwd=3, col="blue")
+lines(smooth.spline(dat$date, dat$lab, df=10),    lwd=3, col="red")
+lines(smooth.spline(dat$date, dat$libDem, df=10), lwd=3, col="gold")
+lines(smooth.spline(dat$date[is.na(dat$ukip)==FALSE], dat$ukip[is.na(dat$ukip)==FALSE], df=10),   lwd=3, col="black")
+lines(smooth.spline(dat$date[is.na(dat$grn)==FALSE], dat$grn[is.na(dat$grn)==FALSE], df=10),   lwd=3, col="green")
+#
+abline(v=c(ymd("2010-05-06"), ymd("2015-05-07")))
+abline(v=  ymd("2016-06-23"), lty=2)
+#dev.off()
+
+head(dat)
