@@ -1,6 +1,0 @@
-rm(list=ls())
-
-workdir <- "~/Desktop/pc2"
-setwd(workdir)
-
-dat <- read.csv(file="ukVoteIntentionsSince2010.csv")

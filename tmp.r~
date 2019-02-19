@@ -1,3 +1,0 @@
-setwd("~/Desktop/pc2")
-
-runif(26)
