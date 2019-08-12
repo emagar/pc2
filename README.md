@@ -26,7 +26,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 310
 # PARTE I – INTRODUCCION
 
 
-## Instituciones y el análisis institucional  (12 de agosto)
+## Instituciones y el análisis institucional  (14 de agosto)
 
 -   Myerson, ["Analysis of democratic Institutions: Structure, Conduct, and Performance,"](https://github.com/emagar/pc2/blob/master/lecturas/myersonInstAnalysis1995jep.pdf) 12 pp.
 
