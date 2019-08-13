@@ -36,7 +36,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 310
 
 ## El modelo Westminster de democracia  (14, 19, 21, 26 y 28 de agosto)
 
--   Lijphart, [*Modelos de democracia*](https://github.com/emagar/ep3/blob/master/lecturas/lijphart-mod-democ)
+-   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-mod-democ)
     -   cap. 1 "Introducción," pp. 13-19;
     -   cap. 2 "El modelo Westminster de democracia," pp. 21-41 y pp. 117-124.
 -   Hancock, *Politics in Europe*, 
