@@ -45,6 +45,9 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
     -   cap. 1.3 "Who has the power?" 24 pp.
     -   cap. 1.4 "How is the power used?" 15 pp.
     -   cap. 1.5 "What is the future of British politics?" 9 pp.
+-   *The Economist*,
+    -   [Harry, Meghan and Marx, 16/1/2020](https://www.economist.com/britain/2020/01/16/harry-meghan-and-marx)
+    -   [Declarations of independence, 16/1/2020](https://www.economist.com/britain/2020/01/16/johnson-trump-and-the-future-of-the-atlantic-alliance)
 
 
 ## El modelo de democracia consensual  (17 y 19 de febrero)
@@ -130,7 +133,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 
 ## Patrones de competencia partidista  (29 de abril y 4 de mayo)
 
--   Magar, Rosenblum y Samuels, "On the absence of centripetal incentives in double-member districts: The case of Chile," 25 pp.
+-   Magar, Rosenblum y Samuels, ["On the absence of centripetal incentives in double-member districts: The case of Chile"](https://github.com/emagar/pc2/blob/master/lecturas/MRS1998.pdf) 25 pp.
 -   Sartori, *Partidos y sistemas de partidos*, 
     -   cap. 5 "El criterio numérico," 8 pp.
     -   cap 6 "Sistemas competitivos," 92 pp.
@@ -146,7 +149,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 
 ## La interacción entre los sistemas electoral y de partidos  (11, 13 y 18 de mayo)
 
--   Duverger, "El dualismo de los partidos" y "El multipartidismo," 47 pp.
+-   Duverger, ["El dualismo de los partidos" y "El multipartidismo"](https://github.com/emagar/pc2/blob/master/lecturas/duvergerPartPolCapBipartidismo.pdf) 47 pp.
 
 Lijphart, *Electoral Systems and Party Systems*, 
 
@@ -155,7 +158,7 @@ Lijphart, *Electoral Systems and Party Systems*,
 -   cap. 5 "Bivariate and multivariate analyses," 23 pp.
 -   App. A "Proportional representation formulas," 7 pp.
 
--   Magar, "Gubernatorial coattails in Mexican congressional elections" 35 pp.
+-   Magar, ["Gubernatorial coattails in Mexican congressional elections"](https://github.com/emagar/pc2/blob/master/lecturas/magarGuberCoattails2012jop.pdf) 35 pp.
 
 
 # PARTE IV – RECAPITULACION
