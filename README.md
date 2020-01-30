@@ -39,7 +39,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 -   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ)
     -   cap. 1 "Introducción," pp. 13-19;
     -   cap. 2 "El modelo Westminster de democracia," pp. 21-41 y pp. 117-124.
--   Hancock, *Politics in Europe*, 
+-   Hancock,  [*Politics in Europe*](https://github.com/emagar/pc2/blob/master/lecturas/hancock2015), 
     -   cap. 1.1 "The context of British politics," 19 pp.
     -   cap. 1.2 "Where is the power?" 27 pp.
     -   cap. 1.3 "Who has the power?" 24 pp.
@@ -52,16 +52,16 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 
 ## El modelo de democracia consensual  (17 y 19 de febrero)
 
--   Lijphart, *Modelos de democracia*, 
+-   Lijphart,  [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ), 
     -   cap. 3 "El modelo consensual de democracia," pp. 43-57;
     -   cap. 4 "Treinta y seis democracias", pp. 59-70.
--   The Economist: "A special case: a survey of Switzerland," pp. 3-18.
+-   The Economist: ["A special case: a survey of Switzerland"](https://github.com/emagar/pc2/blob/master/lecturas/economistSwitzerland.pdf) pp. 3-18.
 
 
 ## Tipos de sistemas constitucionales  (24 de febrero)
 
--   Lijphart, *Modelos de democracia*, cap. 7 "Relaciones entre el ejecutivo y el legislativo: modelos de predominio y de equilibrio de poder," pp. 117-139.
--   Linz, "The Perils of Presidentialism," pp. 51-69.
+-   Lijphart,  [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ) cap. 7 "Relaciones entre el ejecutivo y el legislativo: modelos de predominio y de equilibrio de poder," pp. 117-139.
+-   Linz, ["The Perils of Presidentialism"](https://github.com/emagar/pc2/blob/master/lecturas/linz-peligros.pdf) pp. 51-69.
 
 
 ## Sistemas presidenciales  (26 de febrero, 2, 4 y 9 de marzo)
@@ -75,15 +75,15 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 -   Jacobson, *The Politics of Congressional Elections*, caps. 1-3, 50 pp.
 -   Shugart y Carey, *Presidents and Assemblies*, cap. 8 "Assessing the powers of the presidency," 19 pp.   (Lectura optativa.)
 
-**EXAMEN PARCIAL: se programa y entrega alrededor del 9 de marzo (anunciaré el formato con anterioridad)**
+**EXAMEN PARCIAL: se programa y entrega alrededor del estas fechas (anunciaré el formato con anterioridad)**
 
 
 ## Sistemas parlamentarios  (11, 18 y 23 de marzo)
 
--   Lijphart, *Modelos de democracia*, 
+-   Lijphart,  [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ), 
     -   cap. 6 "Gabinetes: concentración frente a división del poder ejecutivo," 21 pp.
     -   cap. 11 "Parlamentos y congresos: concentración frente a división del poder legislativo," 13 pp.
--   Hancock, *Politics in Europe*, 
+-   Hancock, [*Politics in Europe*](https://github.com/emagar/pc2/blob/master/lecturas/hancock2015), 
     -   cap. 3.1 "The context of German politics," 28 pp.
     -   cap. 3.2 "Where is the power?" 18 pp.
     -   cap. 3.3 "Who has the power?" 28 pp.
@@ -95,7 +95,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 
 -   Duverger, "A New Political System Model: Semi-Presidential Government," 7 pp.
 -   Schleiter y Morgan-Jones "Review Article: Citizens, Presidents and Assemblies: The Study of Semi-Presidentialism beyond Duverger and Linz," 21 pp.
--   Hancock, *Politics in Europe*, 
+-   Hancock, [*Politics in Europe*](https://github.com/emagar/pc2/blob/master/lecturas/hancock2015), 
     -   cap. 2.1 "The context of French politics," 15 pp.
     -   cap. 2.2 "Where is the power?" 27 pp.
     -   cap. 2.3 "Who has the power?" 42 pp.
@@ -108,8 +108,8 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 
 ## Sistemas electorales  (1 y 13 de abril)
 
--   Lijphart, *Modelos de democracia*, cap. 8 "Sistemas electorales: método de mayoría absoluta y mayoría relativa frente a representación proporcional," 23 pp.
--   Lijphart, *Electoral Systems and Party Systems*, 
+-   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ), cap. 8 "Sistemas electorales: método de mayoría absoluta y mayoría relativa frente a representación proporcional," 23 pp.
+-   Lijphart, [*Electoral Systems and Party Systems*](https://github.com/emagar/pc2/blob/master/lecturas/lijphartElectoralSystemsCaps1-5.pdf), 
     -   cap. 1 "Goals and methods," 9 pp.
     -   cap. 2 "Electoral systems: types, patterns, trends," 46 pp.
 -   Broz y Maliniak "Malapportionment, Gasoline Taxes, and the United Nations Framework Convention on Climate Change" 37 pp.
@@ -125,7 +125,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 ## El número de partidos  (22 y 27 de abril)
 
 -   Beck, Party Politics in America, "The American Two-Party System," 32 pp.
--   Lijphart, *Modelos de democracia*, cap. 5 "Sistemas de partidos: modelos bipartidistas y multipartidistas," 23 pp.
+-   Lijphart,  [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ), cap. 5 "Sistemas de partidos: modelos bipartidistas y multipartidistas," 23 pp.
 -   Mainwaring, "Presidentialism, Multipartism, and Democracy," 30 pp.
 -   Molinar, "Counting the Number of Parties: An Alternative Index," 18 pp.
 -   Taagepera, "Supplementing the Effective Number of Parties," 7 pp.
@@ -134,9 +134,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 ## Patrones de competencia partidista  (29 de abril y 4 de mayo)
 
 -   Magar, Rosenblum y Samuels, ["On the absence of centripetal incentives in double-member districts: The case of Chile"](https://github.com/emagar/pc2/blob/master/lecturas/MRS1998.pdf) 25 pp.
--   Sartori, *Partidos y sistemas de partidos*, 
-    -   cap. 5 "El criterio numérico," 8 pp.
-    -   cap 6 "Sistemas competitivos," 92 pp.
+
 -   LaPalombara, *Democracy, Italian Style*, pp. 1-8, 16-24, 117-143.
 -   Capoccia, "Anti-System Parties: A Conceptual Reassessment," 26 pp.
 
@@ -150,14 +148,11 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 ## La interacción entre los sistemas electoral y de partidos  (11, 13 y 18 de mayo)
 
 -   Duverger, ["El dualismo de los partidos" y "El multipartidismo"](https://github.com/emagar/pc2/blob/master/lecturas/duvergerPartPolCapBipartidismo.pdf) 47 pp.
-
-Lijphart, *Electoral Systems and Party Systems*, 
-
--   cap. 3 "Disproportionality, multipartism, and majority victories," 21 pp.
--   cap. 4 "Changes in elections rules in the same country," 26 pp.
--   cap. 5 "Bivariate and multivariate analyses," 23 pp.
--   App. A "Proportional representation formulas," 7 pp.
-
+-   Lijphart, [*Electoral Systems and Party Systems*](https://github.com/emagar/pc2/blob/master/lecturas/lijphartElectoralSystemsCaps1-5.pdf), 
+    -   cap. 3 "Disproportionality, multipartism, and majority victories," 21 pp.
+    -   cap. 4 "Changes in elections rules in the same country," 26 pp.
+    -   cap. 5 "Bivariate and multivariate analyses," 23 pp.
+    -   App. A "Proportional representation formulas," 7 pp.
 -   Magar, ["Gubernatorial coattails in Mexican congressional elections"](https://github.com/emagar/pc2/blob/master/lecturas/magarGuberCoattails2012jop.pdf) 35 pp.
 
 
@@ -166,7 +161,7 @@ Lijphart, *Electoral Systems and Party Systems*,
 
 ## Instituciones, convivencia política y método comparativo (20 de mayo)
 
--   Lijphart, *Modelos de democracia*, 
+-   Lijphart,  [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ), 
     -   cap. 14 "Mapa conceptual bidimensional de la democracia," 23 pp.
     -   cap. 16 "Calidad de la democracia y una democracia más benigna y benévola," 21 pp.
 
