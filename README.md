@@ -22,6 +22,10 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 
 ---
 
+[Documento sobre el suicidio en universidades británicas](https://github.com/emagar/pc2/blob/master/univ-uk/guidance-for-universities-on-preventing-student-suicides.pdf)
+
+---
+
 
 # PARTE I – INTRODUCCION
 
