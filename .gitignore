@@ -1,6 +1,9 @@
 ## backups
 *.*~
 
+## emm: exclude large video
+03pc2consensoSuizaFinal.wmv
+03pc2consensoSuiza-narrado-al-final.pptx
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
