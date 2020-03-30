@@ -1,0 +1,90 @@
+#+STARTUP: showall
+#+TITLE:     El juicio político
+#+AUTHOR:    Const. EE.UU.
+#+EMAIL:     emagar@itam.mx
+#+DATE:      24-9-2019
+#+OPTIONS:   H:2 num:t toc:f \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:https://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LANGUAGE:  es
+
+#+STARTUP: beamer
+#+LaTeX_CLASS: beamer
+#+LaTeX_CLASS_OPTIONS: [bigger]
+
+#+BEAMER_THEME: Rochester [height=20pt]
+#+BEAMER_COLOR_THEME: wolverine
+
+# setting this to 2 uses one star as sections two stars as new slide
+#+BEAMER_FRAME_LEVEL: 2
+
+#+COLUMNS: %45ITEM %10BEAMER_env(Env) %10BEAMER_envargs(Env Args) %4BEAMER_col(Col) %8BEAMER_extra(Extra)
+
+#+LATEX_HEADER: \usepackage[spanish, mexico]{babel}
+
+# gets rid of bottom navigation bars
+#+BEAMER_HEADER: \setbeamertemplate{footline}[frame number]{}
+
+# gets rid of bottom navigation symbols
+#+BEAMER_HEADER: \setbeamertemplate{navigation symbols}{}
+
+# adds frame number
+#+BEAMER_HEADER: \expandafter\def\expandafter\insertshorttitle\expandafter{%
+#+BEAMER_HEADER:   \insertshorttitle\hfill%
+#+BEAMER_HEADER:   \insertframenumber}
+#+BEAMER_HEADER: %  \insertframenumber\,/\,\inserttotalframenumber}
+
+# add extended math symbols
+#+LATEX_HEADER: \usepackage{mathtools}
+
+# Reference card org-beamer: https://github.com/fniessen/refcard-org-beamer
+# export pdf: M-x load-library RET ox-beamer RET C-c C-e l P
+
+\setbeamercovered{transparent}
+
+
+* Cobra sentido hablar en contexto actual
+
+** El /impeachment/
+Const. permite remover presidentes (u otros funcionarios) si suficientes congresistas deciden que ha incurrido en "traición, cohecho u otros /high crimes and misdeamenors/"
+
+*** Hamilton (Fed. #65)
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:      
+- /High crime/ de British Common Law 
+- "those offences which proceed from abuse or violation of some public trust. They are of a nature which may with peculiar propriety be denominated *political*, as they relate chiefly to injuries done immediately to society itself"
+
+** Evento raro
+Presidentes sujetos a proceso: 
+- Johnson (1868) y Clinton (1998) fueron /impeached/ y perdonados
+- Nixon (1974) renunció con antelación
+
+** El proceso
+- Nixon/Clinton: Judiciary House Committee investigó y recomendó artículos de enjuiciamiento
+- En principio el pleno podría votarlos sin investigación
+- Basta que una mayoría apoye un solo artículo para enjuiciar (/indict/)
+  1. Miembros House operan como fiscales
+  2. Pdte tiene defensores
+  3. Senado es el jurado
+- Si 2/3 Senado declaran culpable $\rightarrow$ removido, vice-pdte lo suple
+
+
+** Conteo del NYT (24sep2019)
+- 161 a favor de iniciar investigación
+- 75 opuestos/dudan
+- 199 indecisos
+    #+BEAMER: \pause \bigskip
+
+*** Nancy Pelosi
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:      
+¿Por qué titubean los Dems?
+
+** FiveThirtyEight
+#+BEAMER_HEADER:
+  \includegraphics[width=.75\textwidth]{./pics/fte-impeachment.png}
+
