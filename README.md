@@ -12,7 +12,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 
 *Horas de oficina*: Lunes y miércoles de 13:30 a 14:00, o con cita. 
 
-*Evaluación*: Habrá un examen parcial y otro final. En su momento anunciaré el formato. Cada uno contará 40% de la calificación final y el 20% restante valorará su desempeño en clase, participación y conocimiento de las lecturas.
+*Evaluación*: <del>Habrá un examen parcial y otro final. En su momento anunciaré el formato. Cada uno contará 40% de la calificación final y el 20% restante valorará su desempeño en clase, participación y conocimiento de las lecturas.</del> Por causa del confinamiento he cambiado las reglas de evaluación. El trabajo parcial es un borrador del trabajo final, que presentarán y entregarán el día y hora que nos asigne la dirección escolar en el periodo de exámenes finales. Como las sesiones virtuales dificultan la participación, el trabajo contará el 100% de su calificación final.  
 
 *Material*: será distribuido en formato electrónico desde la página <https://github.com/emagar/pc2>. Si lo consiguen, es recomendable comprar un ejemplar del libro *Modelos de Democracia* (Ed. Ariel) de Arend Lijphart. 
 
