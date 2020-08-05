@@ -1,36 +1,32 @@
-ITAM Depto. de ciencia política, primavera 2020
+ITAM Depto. de ciencia política, otoño 2020
 
 **Política Comparada II**
 
 Profesor: Eric Magar Meurs [emagar@gmail.com](mailto:emagar@itam.mx)
 
-Lunes y miércoles 11:30&#x2013;13:00, salón 110
+Lunes y miércoles 17:30&#x2013;19:00, salón 212
 
 *Aviso*: Es tarea del alumno leer el material (tanto el que aparece en este temario como el que puedo añadir antes de cualquier clase) previo a la fecha indicada.  Mi cátedra da por sentado que lo ha hecho, cubriendo sólo una parte de cada lectura desde una óptica particular. No obstante, en los exámenes evaluaré el conocimiento de las lecturas y la capacidad para discutirlas críticamente. Las fechas de las lecturas pueden cambiar; anunciaré en su momento estos cambios.  
 
 *Objetivo*: Este es el segundo de la serie de tres cursos de política comparada del programa. Está dedicado al estudio de dos temas clásicos en la política comparada de corte institucional: las implicaciones que en la vida de la ciudadanía tienen distintas formas de gobierno democrático; y el análisis de los sistemas electoral y de partidos, haciendo hincapié en su interacción.  
 
-*Horas de oficina*: Lunes y miércoles de 13:30 a 14:00, o con cita. 
+*Horas de oficina*: Mientras dure el confinamiento, haga cita por mail. Cuando volvamos a las clases presenciales, serán los lunes y miércoles de 16:30 a 17:30, o con cita.  
 
-*Evaluación*: <del>Habrá un examen parcial y otro final. En su momento anunciaré el formato. Cada uno contará 40% de la calificación final y el 20% restante valorará su desempeño en clase, participación y conocimiento de las lecturas.</del> Por causa del confinamiento he cambiado las reglas de evaluación. El trabajo parcial es un borrador del trabajo final, que presentarán y entregarán el día y hora que nos asigne la dirección escolar en el periodo de exámenes finales. Como las sesiones virtuales dificultan la participación, el trabajo contará el 100% de su calificación final.  
+*Evaluación*: Habrá un examen parcial y otro final. En su momento anunciaré el formato. Cada uno contará 40% de la calificación final y el 20% restante valorará su desempeño en clase, participación y conocimiento de las lecturas. 
 
-*Material*: será distribuido en formato electrónico desde la página <https://github.com/emagar/pc2>. Si lo consiguen, es recomendable comprar un ejemplar del libro *Modelos de Democracia* (Ed. Ariel) de Arend Lijphart. 
+*Notas*: (1) La página del curso es <https://github.com/emagar/pc2/>. Alberga este temario y las lecturas. (2) Coordinaré reposición de la clase faltante más adelante.
 
-*Días de asueto*: 2020-02-03, 2020-03-16, 2020-04-06 y 2020-04-08; no habrá clases el 2020-02-24 ni 2020-02-26 (coordinaré reposiciones pronto). 
+*Días de asueto*: 2020-09-16, 2020-11-02, 2020-11-16. 
 
-*Semestre termina*: 2020-05-22
+*No habrá clase*: 2020-11-04.
 
----
-
-[Documento sobre el suicidio en universidades británicas](https://github.com/emagar/pc2/blob/master/univ-uk/guidance-for-universities-on-preventing-student-suicides.pdf)
-
----
+*Semestre termina*: 2020-12-02
 
 
 # PARTE I – INTRODUCCION
 
 
-## Instituciones y el análisis institucional  (22 de enero)
+## Instituciones y el análisis institucional  (10 de agosto)
 
 -   Myerson, ["Analysis of democratic Institutions: Structure, Conduct, and Performance,"](https://github.com/emagar/pc2/blob/master/lecturas/myersonInstAnalysis1995jep.pdf) 12 pp.
 
@@ -38,7 +34,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 # PARTE II – FORMAS DE GOBIERNO DEMOCRATICO
 
 
-## El modelo Westminster de democracia  (27 y 29 de enero, 5, 10 y 12 de febrero)
+## El modelo Westminster de democracia  (12, 17, 19, 24 y 26 de agosto)
 
 -   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ)
     -   cap. 1 "Introducción," pp. 13-19;
@@ -54,7 +50,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
     -   [Declarations of independence, 16/1/2020](https://www.economist.com/britain/2020/01/16/johnson-trump-and-the-future-of-the-atlantic-alliance)
 
 
-## El modelo de democracia consensual  (17 y 19 de febrero)
+## El modelo de democracia consensual  (31 de agosto y 2 de septiembre)
 
 -   Lijphart,  [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ), 
     -   cap. 3 "El modelo consensual de democracia," pp. 43-57;
@@ -62,13 +58,13 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 -   The Economist: ["A special case: a survey of Switzerland"](https://github.com/emagar/pc2/blob/master/lecturas/economistSwitzerland.pdf) pp. 3-18.
 
 
-## Tipos de sistemas constitucionales  (24 de febrero)
+## Tipos de sistemas constitucionales  (7 de septiembre)
 
 -   Lijphart,  [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ) cap. 7 "Relaciones entre el ejecutivo y el legislativo: modelos de predominio y de equilibrio de poder," pp. 117-139.
 -   Linz, ["The Perils of Presidentialism"](https://github.com/emagar/pc2/blob/master/lecturas/linz-peligros.pdf) pp. 51-69.
 
 
-## Sistemas presidenciales  (26 de febrero, 2, 4 y 9 de marzo)
+## Sistemas presidenciales  (9, 14, 21 y 23 de septiembre)
 
 -   Constitución Política de los Estados Unidos Mexicanos, entera (compre un ejemplar).
 -   Hamilton, Madison y Jay, *El Federalista*, números 10, 51 y 78, 24 pp.
@@ -82,7 +78,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 **EXAMEN PARCIAL: se programa y entrega alrededor del estas fechas (anunciaré el formato con anterioridad)**
 
 
-## Sistemas parlamentarios  (11, 18 y 23 de marzo)
+## Sistemas parlamentarios  (28 y 30 de septiembre, 5 de octubre)
 
 -   Lijphart,  [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ), 
     -   cap. 6 "Gabinetes: concentración frente a división del poder ejecutivo," 21 pp.
@@ -95,7 +91,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
     -   cap. 3.5 "What is the future of German politics?" 15 pp.
 
 
-## Sistemas semi-presidenciales  (25 y 30 de marzo)
+## Sistemas semi-presidenciales  (7 y 12 de octubre)
 
 -   Duverger, "A New Political System Model: Semi-Presidential Government," 7 pp.
 -   Schleiter y Morgan-Jones "Review Article: Citizens, Presidents and Assemblies: The Study of Semi-Presidentialism beyond Duverger and Linz," 21 pp.
@@ -110,7 +106,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 # PARTE III – PARTIDOS Y ELECCIONES
 
 
-## Sistemas electorales  (1 y 13 de abril)
+## Sistemas electorales  (14 y 19 de octubre)
 
 -   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ), cap. 8 "Sistemas electorales: método de mayoría absoluta y mayoría relativa frente a representación proporcional," 23 pp.
 -   Lijphart, [*Electoral Systems and Party Systems*](https://github.com/emagar/pc2/blob/master/lecturas/lijphartElectoralSystemsCaps1-5.pdf), 
@@ -121,12 +117,12 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 -   Jones, "A Guide to the Electoral Systems of the Americas: An Update," 3 pp.
 
 
-## El sistema de partidos  (15 y 20 de abril)
+## El sistema de partidos  (21 y 26 de octubre)
 
 -   Beck, Party *Politics in America*, "Parties and party systems," 32 pp.
 
 
-## El número de partidos  (22 y 27 de abril)
+## El número de partidos  (28 de octubre y 9 de noviembre)
 
 -   Beck, Party Politics in America, "The American Two-Party System," 32 pp.
 -   Lijphart,  [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ), cap. 5 "Sistemas de partidos: modelos bipartidistas y multipartidistas," 23 pp.
@@ -135,7 +131,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 -   Taagepera, "Supplementing the Effective Number of Parties," 7 pp.
 
 
-## Patrones de competencia partidista  (29 de abril y 4 de mayo)
+## Patrones de competencia partidista  (11 y 16 no hay clase)
 
 -   Magar, Rosenblum y Samuels, ["On the absence of centripetal incentives in double-member districts: The case of Chile"](https://github.com/emagar/pc2/blob/master/lecturas/MRS1998.pdf) 25 pp.
 
@@ -143,13 +139,13 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 -   Capoccia, "Anti-System Parties: A Conceptual Reassessment," 26 pp.
 
 
-## Partidos como organizaciones  (6 de mayo)
+## Partidos como organizaciones  (18 de noviembre)
 
 -   Riordon, *Plunkitt of Tamany Hall*, 135 pp.
 -   OJO: esta clase será más larga. Nos reuniremos de 15:00 a 17:30 para ver y discutir la película The Last Hurrah de J. Ford (1958) o All the King’s Men de R. Rossen (1949).
 
 
-## La interacción entre los sistemas electoral y de partidos  (11, 13 y 18 de mayo)
+## La interacción entre los sistemas electoral y de partidos  (23, 25 y 30 de noviembre)
 
 -   Duverger, ["El dualismo de los partidos" y "El multipartidismo"](https://github.com/emagar/pc2/blob/master/lecturas/duvergerPartPolCapBipartidismo.pdf) 47 pp.
 -   Lijphart, [*Electoral Systems and Party Systems*](https://github.com/emagar/pc2/blob/master/lecturas/lijphartElectoralSystemsCaps1-5.pdf), 
@@ -163,7 +159,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 # PARTE IV – RECAPITULACION
 
 
-## Instituciones, convivencia política y método comparativo (20 de mayo)
+## Instituciones, convivencia política y método comparativo (2 de diciembre)
 
 -   Lijphart,  [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ), 
     -   cap. 14 "Mapa conceptual bidimensional de la democracia," 23 pp.
