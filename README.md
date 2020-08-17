@@ -46,8 +46,7 @@ Lunes y miércoles 17:30&#x2013;19:00, salón 212
     -   cap. 1.4 "How is the power used?" 15 pp.
     -   cap. 1.5 "What is the future of British politics?" 9 pp.
 -   *The Economist*,
-    -   [Harry, Meghan and Marx, 16/1/2020](https://www.economist.com/britain/2020/01/16/harry-meghan-and-marx)
-    -   [Declarations of independence, 16/1/2020](https://www.economist.com/britain/2020/01/16/johnson-trump-and-the-future-of-the-atlantic-alliance)
+    -   [Why Boris Johnson's gray army is bad for growth, 14/8/2020](https://github.com/emagar/pc2/blob/master/lecturas/prensa/economist-Why-BJs-grey-army-bad-4-growth.pdf)
 
 
 ## El modelo de democracia consensual  (31 de agosto y 2 de septiembre)
