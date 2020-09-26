@@ -54,7 +54,8 @@ Lunes y miércoles 17:30&#x2013;19:00, salón 212
 -   Lijphart,  [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ), 
     -   cap. 3 "El modelo consensual de democracia," pp. 43-57;
     -   cap. 4 "Treinta y seis democracias", pp. 59-70.
--   The Economist: ["A special case: a survey of Switzerland"](https://github.com/emagar/pc2/blob/master/lecturas/economistSwitzerland.pdf) pp. 3-18.
+-   The Economist (2004): ["A special case: a survey of Switzerland"](https://github.com/emagar/pc2/blob/master/lecturas/economistSwitzerland.pdf) pp. 3-18.
+-   The Economist (2020): ["Is Switzerland in Europe?"](https://github.com/emagar/pc2/blob/master/lecturas/economist-swiss-svp2020.pdf) pp. 1-5.
 
 
 ## Tipos de sistemas constitucionales  (7 de septiembre)
