@@ -2,7 +2,7 @@ ITAM Depto. de ciencia política, otoño 2020
 
 **Política Comparada II**
 
-Profesor: Eric Magar Meurs [emagar@gmail.com](mailto:emagar@itam.mx)
+Profesor: Eric Magar Meurs ([emagar@itam.mx](mailto:emagar@itam.mx) ha estado fallando, por favor use [emagar@gmail.com](mailto:emagar@itam.mx))
 
 Lunes y miércoles 17:30&#x2013;19:00, salón 212
 
@@ -12,7 +12,7 @@ Lunes y miércoles 17:30&#x2013;19:00, salón 212
 
 *Horas de oficina*: Mientras dure el confinamiento, haga cita por mail. Cuando volvamos a las clases presenciales, serán los lunes y miércoles de 16:30 a 17:30, o con cita.  
 
-*Evaluación*: Habrá un examen parcial y otro final. En su momento anunciaré el formato. Cada uno contará 40% de la calificación final y el 20% restante valorará su desempeño en clase, participación y conocimiento de las lecturas. 
+*Evaluación*: Habrá un trabajo parcial y otro final. En su momento anunciaré el formato. <del>Cada uno contará 40% de la calificación final y el 20% restante valorará su desempeño en clase, participación y conocimiento de las lecturas.</del> Por causa del confinamiento he cambiado las reglas de evaluación. De los trabajos, el mejor calificado contará 60% de la calificación final, el otro 30%, la participación 10%.  
 
 *Notas*: (1) La página del curso es <https://github.com/emagar/pc2/>. Alberga este temario y las lecturas. (2) Coordinaré reposición de la clase faltante más adelante.
 
