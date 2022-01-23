@@ -6,9 +6,9 @@ Profesor: Eric Magar Meurs ([emagar@itam.mx](mailto:emagar@itam.mx) ha estado fa
 
 Lunes y miércoles 10:00&#x2013;11:30, salón 103
 
-*Aviso*: Es tarea del alumno leer el material (tanto el que aparece en este temario como el que puedo añadir antes de cualquier clase) previo a la fecha indicada. Mi cátedra da por sentado que lo ha hecho, cubriendo sólo una parte de cada lectura desde una óptica particular. No obstante, en los exámenes evaluaré el conocimiento de las lecturas y la capacidad para discutirlas críticamente. Las fechas de las lecturas pueden cambiar; anunciaré en su momento estos cambios.
+*Aviso*: Es tarea de usted leer el material que anunciaré previo a la fecha indicada. Mi cátedra da por sentado que lo ha hecho y cubre sólo una parte de cada lectura desde una óptica particular. No obstante, en los exámenes evaluaré su conocimiento integral de las lecturas así como su capacidad para discutirlas críticamente. Cada clase anunciaré las lecturas que correspondan para la siguiente fecha.
 
-*Objetivo*: Este es el segundo de la serie de tres cursos de política comparada del programa. Está dedicado al estudio de dos temas clásicos en la política comparada de corte institucional: las implicaciones que en la vida de la ciudadanía tienen distintas formas de gobierno democrático; y el análisis de los sistemas electoral y de partidos, haciendo hincapié en su interacción.
+*Objetivo*: El segundo curso de la serie de política comparada del programa está dedicado al estudio de las instituciones políticas. Revisaremos dos temas clásicos en la política comparada: las implicaciones que tienen distintas formas de gobierno democrático en la vida de la ciudadanía; y el análisis de los sistemas electoral y de partidos, haciendo hincapié en su interacción.
 
 *Horas de oficina*: lunes y miércoles de 11:30 a 12:30, o con cita.
 
@@ -18,7 +18,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 103
 
 *Días de asueto*: 2022-02-07 (Constitución), 2022-03-21 (natalicio de BJ), 2022-04-11 y 2022-04-13 (Semana Santa).
 
-*No habrá clase*: 2022-02-21 Y 2022-02-23.
+*No habrá clase*: 2022-02-21 ni 2022-02-23.
 
 *Semestre termina*: 2022-05-25
 
@@ -37,6 +37,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 103
 
 -   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ)
     -   cap. 1 "Introducción," pp. 13-19;
+    -   cap. 4 "Treinta y seis democracias", pp. 59-70.
 
 
 # PARTE II – FORMAS DE GOBIERNO DEMOCRATICO
@@ -60,9 +61,21 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 103
 
 -   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ),
     -   cap. 3 "El modelo consensual de democracia," pp. 43-57;
-    -   cap. 4 "Treinta y seis democracias", pp. 59-70.
 -   The Economist (2004): ["A special case: a survey of Switzerland"](https://github.com/emagar/pc2/blob/master/lecturas/economistSwitzerland.pdf) pp. 3-18.
 -   The Economist (2020): ["Is Switzerland in Europe?"](https://github.com/emagar/pc2/blob/master/lecturas/economist-swiss-svp2020.pdf) pp. 1-5.
+
+
+## Parlamentarismo multipartidista  (28 y 30 de septiembre, 5 de octubre)
+
+-   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ),
+    -   cap. 6 "Gabinetes: concentración frente a división del poder ejecutivo," 21 pp.
+    -   cap. 11 "Parlamentos y congresos: concentración frente a división del poder legislativo," 13 pp.
+-   Hancock, [*Politics in Europe*](https://github.com/emagar/pc2/blob/master/lecturas/hancock2015),
+    -   cap. 3.1 "The context of German politics," 28 pp.
+    -   cap. 3.2 "Where is the power?" 18 pp.
+    -   cap. 3.3 "Who has the power?" 28 pp.
+    -   cap. 3.4 "How is the power used?" 14 pp.
+    -   cap. 3.5 "What is the future of German politics?" 15 pp.
 
 
 ## Tipos de sistemas constitucionales  (7 de septiembre)
@@ -71,7 +84,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 103
 -   Linz, ["The Perils of Presidentialism"](https://github.com/emagar/pc2/blob/master/lecturas/linz-peligros.pdf) pp. 51-69.
 
 
-## Sistemas presidenciales  (9, 14, 21 y 23 de septiembre)
+## El sistema presidencial  (9, 14, 21 y 23 de septiembre)
 
 -   Constitución Política de los Estados Unidos Mexicanos, entera (compre un ejemplar).
 -   Hamilton, Madison y Jay, *El Federalista*, números 10, 51 y 78, 24 pp.
@@ -85,20 +98,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 103
 **EXAMEN PARCIAL: se programa y entrega alrededor del estas fechas (anunciaré el formato con anterioridad)**
 
 
-## Sistemas parlamentarios  (28 y 30 de septiembre, 5 de octubre)
-
--   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ),
-    -   cap. 6 "Gabinetes: concentración frente a división del poder ejecutivo," 21 pp.
-    -   cap. 11 "Parlamentos y congresos: concentración frente a división del poder legislativo," 13 pp.
--   Hancock, [*Politics in Europe*](https://github.com/emagar/pc2/blob/master/lecturas/hancock2015),
-    -   cap. 3.1 "The context of German politics," 28 pp.
-    -   cap. 3.2 "Where is the power?" 18 pp.
-    -   cap. 3.3 "Who has the power?" 28 pp.
-    -   cap. 3.4 "How is the power used?" 14 pp.
-    -   cap. 3.5 "What is the future of German politics?" 15 pp.
-
-
-## Sistemas semi-presidenciales  (7 y 12 de octubre)
+## El sistema semi-presidencial  (7 y 12 de octubre)
 
 -   Duverger, "A New Political System Model: Semi-Presidential Government," 7 pp.
 -   Schleiter y Morgan-Jones "Review Article: Citizens, Presidents and Assemblies: The Study of Semi-Presidentialism beyond Duverger and Linz," 21 pp.
