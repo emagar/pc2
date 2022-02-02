@@ -54,7 +54,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 103
     -   cap. 1.4 "How is the power used?" 15 pp.
     -   cap. 1.5 "What is the future of British politics?" 9 pp.
 -   *The Economist*,
-    -   [Why Boris Johnson's gray army is bad for growth, 14/8/2020](https://github.com/emagar/pc2/blob/master/lecturas/prensa/economist-Why-BJs-grey-army-bad-4-growth.pdf)
+    -   [Boris Johnson's broken premiership, 22/1/2022](https://github.com/emagar/pc2/blob/master/clases/02-westminster-uk/boris-broken-premiership-Economist-jan2022.pdf)
 
 
 ## El modelo consensual de democracia (28 de febrero y 2 de marzo)
