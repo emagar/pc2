@@ -1,5 +1,6 @@
-## backups
+## emacs backups
 *.*~
+.~*.*#
 
 ## emm: exclude large video
 03pc2consensoSuizaFinal.wmv
