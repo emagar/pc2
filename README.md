@@ -53,6 +53,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 103
     -   cap. 1.3 "Who has the power?" 24 pp.
     -   cap. 1.4 "How is the power used?" 15 pp.
     -   cap. 1.5 "What is the future of British politics?" 9 pp.
+-   Green et al. (2021) [Who Gets What: The Economy, Relative Gains, and Brexit](https://github.com/emagar/pc2/blob/master/lecturas/green-etal-Who-gets-what-brexit2021bjps.pdf) 19 pp.
 -   *The Economist*,
     -   [Boris Johnson's broken premiership, 22/1/2022](https://github.com/emagar/pc2/blob/master/clases/02-westminster-uk/boris-broken-premiership-Economist-jan2022.pdf)
 
