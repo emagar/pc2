@@ -20,9 +20,11 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 103
 
 *No habrá clase*: 2022-02-21 ni 2022-02-23.
 
-*Semestre termina*: 2022-05-25
+*Semestre termina*: 2022-05-25.
 
-*Exámenes finales*: del 2022-05-30 al 2022-06-11
+*Trabajo parcial*: se entrega el 2022-03-30.
+
+*Exámenes finales*: del 2022-05-30 al 2022-06-11.
 
 
 # PARTE I – INTRODUCCION
