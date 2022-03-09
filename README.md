@@ -64,8 +64,8 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 103
 
 -   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ),
     -   cap. 3 "El modelo consensual de democracia," pp. 43-57;
--   The Economist (2004): ["A special case: a survey of Switzerland"](https://github.com/emagar/pc2/blob/master/lecturas/economistSwitzerland.pdf) pp. 3-18.
--   The Economist (2020): ["Is Switzerland in Europe?"](https://github.com/emagar/pc2/blob/master/lecturas/economist-swiss-svp2020.pdf) pp. 1-5.
+-   *The Economist* (2004): ["A special case: a survey of Switzerland"](https://github.com/emagar/pc2/blob/master/lecturas/economistSwitzerland.pdf) pp. 3-18.
+-   *The Economist* (2020): ["Is Switzerland in Europe?"](https://github.com/emagar/pc2/blob/master/lecturas/economist-swiss-svp2020.pdf) pp. 1-5.
 
 
 ## Parlamentarismo multipartidista (7, 9 y 14 de marzo)
