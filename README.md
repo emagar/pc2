@@ -79,6 +79,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 103
     -   cap. 3.3 "Who has the power?" 28 pp.
     -   cap. 3.4 "How is the power used?" 14 pp.
     -   cap. 3.5 "What is the future of German politics?" 15 pp.
+    -   *The Economist* editorial 18/3/22, [A big defence budget shows Germany has woken up](https://github.com/emagar/pc2/blob/master/clases/04-parlam-alem/lit/economist-Germany-wake-up-18mar2022.pdf).
 
 
 ## Tipos de sistemas constitucionales  (16 de marzo)
