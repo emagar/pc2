@@ -24,7 +24,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 103
 
 *Trabajo parcial*: se entrega el 2022-03-30.
 
-*Exámenes finales*: del 2022-05-30 al 2022-06-11.
+*Examen final*: 2022-06-08 18:00-21:00.
 
 
 # PARTE I – INTRODUCCION
