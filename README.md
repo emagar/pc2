@@ -95,6 +95,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 103
 -   Weldon, "Las fuentes políticas del presidencialismo en México," 36 pp.
 -   McCubbins, "Government on Lay-Away: Federal Spending and Deficits under Divided Control," 40 pp.
 -   Magar, "El inmovilismo democrático a revisión," 14 pp.
+-   Magar y Moreno, ["The personal vote in Mexico,"](https://github.com/emagar/pc2/blob/master/lecturas/magar-moreno-Personal-vote-Mx-2022.pdf) 25 pp.
 -   Cheibub, Przeworski y Saiegh, "Government Coalitions and Legislative Success Under Presidentialism and Parliamentarism" 20 pp.
 -   Jacobson, *The Politics of Congressional Elections*, caps. 1-3, 50 pp.
 -   Shugart y Carey, *Presidents and Assemblies*, cap. 8 "Assessing the powers of the presidency," 19 pp. (Lectura optativa.)
