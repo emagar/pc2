@@ -91,14 +91,14 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 103
 ## Presidencialismo  (23, 28, 30 de marzo y 4 de abril)
 
 -   Constitución Política de los Estados Unidos Mexicanos, entera (compre un ejemplar).
--   Hamilton, Madison y Jay, *El Federalista*, números 10, 51 y 78, 24 pp.
--   Weldon, "Las fuentes políticas del presidencialismo en México," 36 pp.
--   McCubbins, "Government on Lay-Away: Federal Spending and Deficits under Divided Control," 40 pp.
--   Magar, "El inmovilismo democrático a revisión," 14 pp.
--   Magar y Moreno, ["The personal vote in Mexico,"](https://github.com/emagar/pc2/blob/master/lecturas/magar-moreno-Personal-vote-Mx-2022.pdf) 25 pp.
--   Cheibub, Przeworski y Saiegh, "Government Coalitions and Legislative Success Under Presidentialism and Parliamentarism" 20 pp.
+-   Hamilton, Madison y Jay, *El Federalista*, números [10](https://github.com/emagar/pc2/blob/master/lecturas/FederalistaX.pdf), [51](https://github.com/emagar/pc2/blob/master/lecturas/FederalistaLI.pdf) y [78](https://github.com/emagar/pc2/blob/master/lecturas/FederalistaLXXVIII.pdf), 24 pp.
+-   Weldon, [Las fuentes políticas del presidencialismo en México](https://github.com/emagar/pc2/blob/master/lecturas/weldon1997esp.pdf) 36 pp.
+-   McCubbins, [Government on Lay-Away: Federal Spending and Deficits under Divided Control](https://github.com/emagar/pc2/blob/master/lecturas/McCubbinsGovtLay-Away.pdf) 40 pp.
+-   Magar, [El inmovilismo democrático a revisión](https://github.com/emagar/pc2/blob/master/lecturas/magarGCP2009.pdf) 14 pp.
+-   Magar y Moreno, [The personal vote in Mexico](https://github.com/emagar/pc2/blob/master/lecturas/magar-moreno-Personal-vote-Mx-2022.pdf) 25 pp.
+-   Cheibub, Przeworski y Saiegh, [Government Coalitions and Legislative Success Under Presidentialism and Parliamentarism](https://github.com/emagar/pc2/blob/master/lecturas/cheibubetalCoalSuccess2004bjps.pdf) 20 pp.
 -   Jacobson, *The Politics of Congressional Elections*, caps. 1-3, 50 pp.
--   Shugart y Carey, *Presidents and Assemblies*, cap. 8 "Assessing the powers of the presidency," 19 pp. (Lectura optativa.)
+-   Shugart y Carey, *Presidents and Assemblies*, cap. 8 [Assessing the powers of the presidency](https://github.com/emagar/pc2/blob/master/lecturas/ShugartCap8.pdf) 19 pp. (Lectura optativa.)
 
 **EXAMEN PARCIAL: se programa y entrega alrededor del estas fechas (anunciaré el formato con anterioridad)**
 
