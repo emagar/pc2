@@ -2,7 +2,7 @@ ITAM Depto. de ciencia política, primavera 2022
 
 **Política Comparada II**
 
-Profesor: Eric Magar Meurs ([emagar@itam.mx](mailto:emagar@itam.mx) ha estado fallando, por favor use [emagar@gmail.com](mailto:emagar@itam.mx))
+Profesor: Eric Magar Meurs ([emagar@itam.mx](mailto:emagar@itam.mx))
 
 Lunes y miércoles 10:00&#x2013;11:30, salón 103
 
@@ -24,7 +24,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 103
 
 *Trabajo parcial*: se entrega el 2022-03-30.
 
-*Examen final*: 2022-06-08 18:00-21:00.
+*Examen final*: 2022-06-08 18:00-21:00, salón 108.
 
 
 # PARTE I – INTRODUCCION
