@@ -1,41 +1,41 @@
-ITAM Depto. de ciencia política, primavera 2022
+ITAM Depto. de ciencia política, otoño 2022
 
 **Política Comparada II**
 
 Profesor: Eric Magar Meurs ([emagar@itam.mx](mailto:emagar@itam.mx))
 
-Lunes y miércoles 10:00&#x2013;11:30, salón 103
+Lunes y miércoles 11:30&#x2013;13:00, salón SA-4
 
 *Aviso*: Es tarea de usted leer el material que anunciaré previo a la fecha indicada. Mi cátedra da por sentado que lo ha hecho y cubre sólo una parte de cada lectura desde una óptica particular. No obstante, en los exámenes evaluaré su conocimiento integral de las lecturas así como su capacidad para discutirlas críticamente. Cada clase anunciaré las lecturas que correspondan para la siguiente fecha.
 
 *Objetivo*: El segundo curso de la serie de política comparada del programa está dedicado al estudio de las instituciones políticas. Revisaremos dos temas clásicos en la política comparada: las implicaciones que tienen distintas formas de gobierno democrático en la vida de la ciudadanía; y el análisis de los sistemas electoral y de partidos, haciendo hincapié en su interacción.
 
-*Horas de oficina*: lunes y miércoles de 11:30 a 12:30, o con cita.
+*Horas de oficina*: lunes y miércoles de 11:00 a 11:30, o con cita.
 
-*Evaluación*: Habrá un trabajo parcial y otro final. En su momento anunciaré el formato. Cada uno contará 40% de la calificación final y el 20% restante valorará su desempeño en clase, participación y conocimiento de las lecturas.
+*Evaluación*: Habrá un trabajo y un examen. En su momento anunciaré los formatos. Contarán 60% y 20% de la calificación final, respectivamente. El 20% restante valorará su participación y desempeño en clase, en particular el conocimiento de las lecturas.
 
 *Notas*: (1) La página del curso es <https://github.com/emagar/pc2/>. Alberga este temario y las lecturas. (2) Coordinaré reposición de clases faltantes más adelante.
 
-*Días de asueto*: 2022-02-07 (Constitución), 2022-03-21 (natalicio de BJ), 2022-04-11 y 2022-04-13 (Semana Santa).
+*Días de asueto*: 2022-11-02 (Muertos) y 2022-11-21 (Rev.)
 
-*No habrá clase*: 2022-02-21 ni 2022-02-23.
+*No habrá clase*: 2022-11-26 ni 2022-11-31.
 
-*Semestre termina*: 2022-05-25.
+*Semestre termina*: 2022-11-30.
 
 *Trabajo parcial*: se entrega el 2022-03-30.
 
-*Examen final*: 2022-06-08 18:00-21:00, salón 108.
+*Exámenes finales*: del 2022-12-05 al 2022-12-17.
 
 
 # PARTE I – INTRODUCCION
 
 
-## Instituciones y el análisis institucional  (26 de enero)
+## Instituciones y el análisis institucional  (10 de agosto)
 
 -   Myerson, ["Analysis of democratic Institutions: Structure, Conduct, and Performance,"](https://github.com/emagar/pc2/blob/master/lecturas/myersonInstAnalysis1995jep.pdf) 12 pp.
 
 
-## Dos modelos de democracia de Lijphart (31 de enero)
+## Dos modelos de democracia de Lijphart (15 de agosto)
 
 -   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ)
     -   cap. 1 "Introducción," pp. 13-19;
@@ -45,7 +45,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 103
 # PARTE II – LA DEMOCRACIA Y SUS FORMAS: IDEALES vs MUNDANAS
 
 
-## El modelo Westminster de democracia  (2, 9, 14 y 16 de febrero)
+## El modelo Westminster de democracia  (17, 22, 24 y 29 de agosto)
 
 -   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ)
     -   cap. 2 "El modelo Westminster de democracia," pp. 21-41 y pp. 117-124.
@@ -57,10 +57,10 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 103
     -   cap. 1.5 "What is the future of British politics?" 9 pp.
 -   Green et al. (2021) [Who Gets What: The Economy, Relative Gains, and Brexit](https://github.com/emagar/pc2/blob/master/lecturas/green-etal-Who-gets-what-brexit2021bjps.pdf) 19 pp.
 -   *The Economist*,
-    -   [Boris Johnson's broken premiership, 22/1/2022](https://github.com/emagar/pc2/blob/master/clases/02-westminster-uk/boris-broken-premiership-Economist-jan2022.pdf)
+    -   [*The Economist* The Conservative Party Ridiculing its Electorate, 26/7/2022](https://github.com/emagar/pc2/blob/master/actualidad/economist-Cons-party-ridiculing-its-electorate26jul2022.pdf)
 
 
-## El modelo consensual de democracia (28 de febrero y 2 de marzo)
+## El modelo consensual de democracia (31 de agosto y 7 de septiembre)
 
 -   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ),
     -   cap. 3 "El modelo consensual de democracia," pp. 43-57;
@@ -68,7 +68,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 103
 -   *The Economist* (2020): ["Is Switzerland in Europe?"](https://github.com/emagar/pc2/blob/master/lecturas/economist-swiss-svp2020.pdf) pp. 1-5.
 
 
-## Parlamentarismo multipartidista (7, 9 y 14 de marzo)
+## Parlamentarismo multipartidista (12, 14 y 19 de septiembre)
 
 -   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ),
     -   cap. 6 "Gabinetes: concentración frente a división del poder ejecutivo," 21 pp.
@@ -82,13 +82,13 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 103
     -   *The Economist* editorial 18/3/22, [A big defence budget shows Germany has woken up](https://github.com/emagar/pc2/blob/master/clases/04-parlam-alem/lit/economist-Germany-wake-up-18mar2022.pdf).
 
 
-## Tipos de sistemas constitucionales  (16 de marzo)
+## Tipos de sistemas constitucionales  (21 de septiembre)
 
 -   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ) cap. 7 "Relaciones entre el ejecutivo y el legislativo: modelos de predominio y de equilibrio de poder," pp. 117-139.
 -   Linz, ["The Perils of Presidentialism"](https://github.com/emagar/pc2/blob/master/lecturas/linz-peligros.pdf) pp. 51-69.
 
 
-## Presidencialismo  (23, 28, 30 de marzo y 4 de abril)
+## Presidencialismo  (26 y 28 de septiembre, 5 y 10 de octubre)
 
 -   Constitución Política de los Estados Unidos Mexicanos, entera (compre un ejemplar).
 -   Hamilton, Madison y Jay, *El Federalista*, números [10](https://github.com/emagar/pc2/blob/master/lecturas/FederalistaX.pdf), [51](https://github.com/emagar/pc2/blob/master/lecturas/FederalistaLI.pdf) y [78](https://github.com/emagar/pc2/blob/master/lecturas/FederalistaLXXVIII.pdf), 24 pp.
@@ -103,7 +103,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 103
 **EXAMEN PARCIAL: se programa y entrega alrededor del estas fechas (anunciaré el formato con anterioridad)**
 
 
-## Semipresidencialismo (6, 18 y 20 de abril)
+## Semipresidencialismo (12 y 17 de octubre)
 
 -   Duverger, "A New Political System Model: Semi-Presidential Government," 7 pp.
 -   Schleiter y Morgan-Jones "Review Article: Citizens, Presidents and Assemblies: The Study of Semi-Presidentialism beyond Duverger and Linz," 21 pp.
@@ -118,7 +118,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 103
 # PARTE III – PARTIDOS Y ELECCIONES
 
 
-## Sistemas electorales  (25 y 27 de abril)
+## Sistemas electorales  (19 y 24 de octubre)
 
 -   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ), cap. 8 "Sistemas electorales: método de mayoría absoluta y mayoría relativa frente a representación proporcional," 23 pp.
 -   Lijphart, [*Electoral Systems and Party Systems*](https://github.com/emagar/pc2/blob/master/lecturas/lijphartElectoralSystemsCaps1-5.pdf),
@@ -129,12 +129,12 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 103
 -   Jones, "A Guide to the Electoral Systems of the Americas: An Update," 3 pp.
 
 
-## El sistema de partidos  (2 y 4 de mayo)
+## El sistema de partidos  (7 y 9 de noviembre)
 
 -   Beck, Party *Politics in America*, "Parties and party systems," 32 pp.
 
 
-## El número de partidos  (9 de mayo)
+## El número de partidos  (14 de noviembre)
 
 -   Beck, Party Politics in America, "The American Two-Party System," 32 pp.
 -   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ), cap. 5 "Sistemas de partidos: modelos bipartidistas y multipartidistas," 23 pp.
@@ -143,7 +143,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 103
 -   Taagepera, "Supplementing the Effective Number of Parties," 7 pp.
 
 
-## Patrones de competencia partidista  (11 y 16 de mayo)
+## Patrones de competencia partidista  (16 de noviembre)
 
 -   Magar, Rosenblum y Samuels, ["On the absence of centripetal incentives in double-member districts: The case of Chile"](https://github.com/emagar/pc2/blob/master/lecturas/MRS1998.pdf) 25 pp.
 
@@ -151,13 +151,13 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 103
 -   Capoccia, "Anti-System Parties: A Conceptual Reassessment," 26 pp.
 
 
-## Partidos como organizaciones  (18 de mayo)
+## Partidos como organizaciones  (23 de noviembre)
 
 -   Riordon, *Plunkitt of Tamany Hall*, 135 pp.
 -   OJO: esta clase será más larga. Nos reuniremos de 15:00 a 17:30 para ver y discutir la película The Last Hurrah de J. Ford (1958) o All the King’s Men de R. Rossen (1949).
 
 
-## La interacción entre los sistemas electoral y de partidos  (23 de mayo)
+## La interacción entre los sistemas electoral y de partidos  (28 de noviembre)
 
 -   Duverger, ["El dualismo de los partidos" y "El multipartidismo"](https://github.com/emagar/pc2/blob/master/lecturas/duvergerPartPolCapBipartidismo.pdf) 47 pp.
 -   Lijphart, [*Electoral Systems and Party Systems*](https://github.com/emagar/pc2/blob/master/lecturas/lijphartElectoralSystemsCaps1-5.pdf),
@@ -171,7 +171,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 103
 # PARTE IV – RECAPITULACION
 
 
-## Instituciones, convivencia política y método comparativo (25 de mayo)
+## Instituciones, convivencia política y método comparativo (30 de noviembre)
 
 -   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ),
     -   cap. 14 "Mapa conceptual bidimensional de la democracia," 23 pp.
