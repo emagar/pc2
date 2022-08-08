@@ -22,8 +22,6 @@ Lunes y miércoles 11:30&#x2013;13:00, salón SA-4
 
 *Semestre termina*: 2022-11-30.
 
-*Trabajo parcial*: se entrega el 2022-03-30.
-
 *Exámenes finales*: del 2022-12-05 al 2022-12-17.
 
 
