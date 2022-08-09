@@ -18,7 +18,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón SA-4
 
 *Días de asueto*: 2022-11-02 (Muertos) y 2022-11-21 (Rev.)
 
-*No habrá clase*: 2022-11-26 ni 2022-11-31.
+*No habrá clase*: 2022-10-26 ni 2022-10-31.
 
 *Semestre termina*: 2022-11-30.
 
