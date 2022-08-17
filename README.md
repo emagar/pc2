@@ -53,9 +53,11 @@ Lunes y miércoles 11:30&#x2013;13:00, salón SA-4
     -   cap. 1.3 "Who has the power?" 24 pp.
     -   cap. 1.4 "How is the power used?" 15 pp.
     -   cap. 1.5 "What is the future of British politics?" 9 pp.
+-   Cagé y Dewitte, [It Takes Money to Make MPs: 150 Years of British Campaign Spending](https://github.com/emagar/pc2/blob/master/lecturas/cage-dewitte-150-yrs-cmp-money-uk2021) 48 pp.
 -   Green et al. (2021) [Who Gets What: The Economy, Relative Gains, and Brexit](https://github.com/emagar/pc2/blob/master/lecturas/green-etal-Who-gets-what-brexit2021bjps.pdf) 19 pp.
--   *The Economist*,
-    -   [*The Economist* The Conservative Party Ridiculing its Electorate, 26/7/2022](https://github.com/emagar/pc2/blob/master/actualidad/economist-Cons-party-ridiculing-its-electorate26jul2022.pdf)
+-   *The Economist* [The Conservative Party Ridiculing its Electorate, 26/7/2022](https://github.com/emagar/pc2/blob/master/actualidad/economist-Cons-party-ridiculing-its-electorate26jul2022.pdf)
+-   *New York Times* [Rishi Sunak Has a Sterling Résumé. It’s Not Helping Him Replace Boris Johnson, 11/8/2022](https://www.nytimes.com/2022/08/11/world/europe/rishi-sunak-britain-prime-minister.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuomT1JKd6J17Vw1cRCfTTMQmqxCdw_PIxftm3iWka3DFDm8biPsSGYyMvErQf617apwp3i-bRZpaLbkmR7l41O5DNk1rDhGyo56J3ZEEJSQutY-pGGMq2paHFZYJzQjXVEjrYuFu2O_4-BucLDm7BfDCgXYqJQpgoJN6Ig2r2mgPx6-RDu9w2NJh1f0jAJ9wTDYENHOBrOCoX0slQKiOaB7W4gcwWOxLC3qEzZPHteV2IEgFAknGTXh__W829NtfXdsQN6z9JBchE9Hs1fRTUic7adf0WOBiAtTchL5osrXSqByTyMPQx_k-FqxcvbmsoX_lsbT72xiOew0P-_9JvKY0&smid=url-share)
+-   BBC [A-Z of Parliament](http://news.bbc.co.uk/2/hi/uk_news/politics/a-z_of_parliament/default.stm)
 
 
 ## El modelo consensual de democracia (31 de agosto y 7 de septiembre)
