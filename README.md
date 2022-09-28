@@ -58,6 +58,11 @@ Lunes y miércoles 11:30&#x2013;13:00, salón SA-4
 -   *The Economist* [The Conservative Party Ridiculing its Electorate, 26/7/2022](https://github.com/emagar/pc2/blob/master/actualidad/economist-Cons-party-ridiculing-its-electorate26jul2022.pdf)
 -   *New York Times* [Rishi Sunak Has a Sterling Résumé. It’s Not Helping Him Replace Boris Johnson, 11/8/2022](https://www.nytimes.com/2022/08/11/world/europe/rishi-sunak-britain-prime-minister.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuomT1JKd6J17Vw1cRCfTTMQmqxCdw_PIxftm3iWka3DFDm8biPsSGYyMvErQf617apwp3i-bRZpaLbkmR7l41O5DNk1rDhGyo56J3ZEEJSQutY-pGGMq2paHFZYJzQjXVEjrYuFu2O_4-BucLDm7BfDCgXYqJQpgoJN6Ig2r2mgPx6-RDu9w2NJh1f0jAJ9wTDYENHOBrOCoX0slQKiOaB7W4gcwWOxLC3qEzZPHteV2IEgFAknGTXh__W829NtfXdsQN6z9JBchE9Hs1fRTUic7adf0WOBiAtTchL5osrXSqByTyMPQx_k-FqxcvbmsoX_lsbT72xiOew0P-_9JvKY0&smid=url-share)
 -   BBC [A-Z of Parliament](http://news.bbc.co.uk/2/hi/uk_news/politics/a-z_of_parliament/default.stm)
+-   NYTimes [[<https://www.nytimes.com/2022/09/27/world/europe/uk-economy-truss-pound.html?unlocked_article_code=-CjYwj5TYel80aQvPeZWXebTib46VBirWexig593qyf_kv1Ov1be_FapoElm9bsxVCq_BTR_6bPB29IJ8VblB9pc_fE8lVJpRj3g2xAGegpuuoGvPkypyZLLn6EcMVf0VZab7F4uWHiZ6tyx-_7NVgUz6bCaObBs7mD4mbBe_UivmP-T5sLnBg8s7iupwfrkRBhbhlriQA6Xjsv2RxYZMH1jdfndr3IIyJzehD6cSXOyB_6CCV5ThcjURKbKklathjVX5mlXIMXIaH1CQvQ5eweCkALFsFrjHBX805WaKpdOBlM_E3PftZHkbKVBHrfkRyHZYITvBhNbS5Iu2z4IESoO4pBH&smid=share-url>
+
+][Truss Takes a Bold Economic Gamble Will It Sink Her Government?]]
+
+-   Politico [Polls of polls UK](https://www.politico.eu/europe-poll-of-polls/united-kingdom/).
 
 
 ## El modelo consensual de democracia (31 de agosto y 7 de septiembre)
@@ -79,7 +84,11 @@ Lunes y miércoles 11:30&#x2013;13:00, salón SA-4
     -   cap. 3.3 "Who has the power?" 28 pp.
     -   cap. 3.4 "How is the power used?" 14 pp.
     -   cap. 3.5 "What is the future of German politics?" 15 pp.
-    -   *The Economist* editorial 18/3/22, [A big defence budget shows Germany has woken up](https://github.com/emagar/pc2/blob/master/clases/04-parlam-alem/lit/economist-Germany-wake-up-18mar2022.pdf).
+-   Putnam et al. ["Explaining Institutional Success"](https://github.com/emagar/pc2/blob/master/lecturas/hancock2015) 20 pp.
+-   La Palombara, [*Democracy, Italian Style*](https://github.com/emagar/pc2/blob/master/lecturas/LaPalombaraDemItalianStyle.pdf),
+    -   cap. 1 "A democratic paradox" 24 pp.
+    -   cap. 5 "Parties and elections: the Rashomon syndrome" 24 pp.
+-   *The Economist* editorial 18/3/22, [A big defence budget shows Germany has woken up](https://github.com/emagar/pc2/blob/master/clases/04-parlam-alem/lit/economist-Germany-wake-up-18mar2022.pdf).
 
 
 ## Tipos de sistemas constitucionales  (21 de septiembre)
