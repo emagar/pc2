@@ -24,6 +24,12 @@ Lunes y miércoles 11:30&#x2013;13:00, salón SA-4
 
 *Exámenes finales*: del 2022-12-05 al 2022-12-17.
 
+---
+
+**Trabajo del curso** [aquí](https://github.com/emagar/pc2/blob/master/exams/malap-france/trabajo.pdf)
+
+---
+
 
 # PARTE I – INTRODUCCION
 
