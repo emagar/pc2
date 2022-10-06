@@ -26,7 +26,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón SA-4
 
 ---
 
-**Trabajo del curso** [aquí](https://github.com/emagar/pc2/blob/master/exams/malap-france/trabajo.pdf)
+**Trabajo del curso** [aquí](https://github.com/emagar/pc2/blob/master/exams/malap-france/)
 
 ---
 
