@@ -18,15 +18,17 @@ Lunes y miércoles 11:30&#x2013;13:00, salón SA-4
 
 *Días de asueto*: 2022-11-02 (Muertos) y 2022-11-21 (Rev.)
 
-*No habrá clase*: 2022-10-26 ni 2022-10-31.
+*No habrá clase*: 2022-10-31.
 
 *Semestre termina*: 2022-11-30.
 
-*Exámenes finales*: del 2022-12-05 al 2022-12-17.
+*Examen final*: 2022-12-17 8:00-11:00.
 
 ---
 
-**Trabajo del curso** [aquí](https://github.com/emagar/pc2/blob/master/exams/malap-france/)
+**Trabajo del curso** [aquí](https://github.com/emagar/pc2/blob/master/exams/malap-france/).
+
+Entrega preliminar 2022-11-07, antes de clase. Prepare un reporte que describa con claridad su análisis preliminar y su estrategia para contestar el enunciado. Entre otras cosas, reporte estadística descriptiva de la población de los distritos actuales de la Asamblea Nacional francesa: promedio, desviación estándar, mediana, mínima y máxima. Con base en las lecturas, elabore posibles indicadores para analizar estos datos, que después pueda aplicar a los escenarios que usan otros métodos de *apportionment*.
 
 ---
 
@@ -117,6 +119,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón SA-4
 
 ## Semipresidencialismo (12 y 17 de octubre)
 
+-   Ertman, *The Birth of Leviathan*, [cap 1](https://github.com/emagar/paper-mirror/blob/master/class/ertman.1997.birthLeviathan-ch1.pdf), 34 pp.
 -   Duverger, "A New Political System Model: Semi-Presidential Government," 7 pp.
 -   Schleiter y Morgan-Jones "Review Article: Citizens, Presidents and Assemblies: The Study of Semi-Presidentialism beyond Duverger and Linz," 21 pp.
 -   Hancock, [*Politics in Europe*](https://github.com/emagar/pc2/blob/master/lecturas/hancock2015),
