@@ -121,14 +121,8 @@ Entrega preliminar 2022-11-07, antes de clase. Prepare un reporte que describa c
 
 -   Ertman, *The Birth of Leviathan*, [cap 1](https://github.com/emagar/paper-mirror/blob/master/class/ertman.1997.birthLeviathan-ch1.pdf), 34 pp.
 -   Degrave, [Local Rule, Elites, and Popular Grievances: Evidence from *Ancien Régime* France](https://github.com/emagar/paper-mirror/blob/master/class/degrave-paysdetat2022jhpe.pdf), 30 pp.
--   Duverger, "A New Political System Model: Semi-Presidential Government," 7 pp.
+
 -   Schleiter y Morgan-Jones "Review Article: Citizens, Presidents and Assemblies: The Study of Semi-Presidentialism beyond Duverger and Linz," 21 pp.
--   Hancock, [*Politics in Europe*](https://github.com/emagar/pc2/blob/master/lecturas/hancock2015),
-    -   cap. 2.1 "The context of French politics," 15 pp.
-    -   cap. 2.2 "Where is the power?" 27 pp.
-    -   cap. 2.3 "Who has the power?" 42 pp.
-    -   cap. 2.4 "How is the power used?" 12 pp.
-    -   cap. 2.5 "What is the future of French politics?" 18 pp.
 
 
 # PARTE III – PARTIDOS Y ELECCIONES
