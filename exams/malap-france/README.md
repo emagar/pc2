@@ -9,9 +9,9 @@ Lea la sección de [Sauger y Grofman (2016)](https://github.com/emagar/paper-mir
 
 Lea los caps. 3 y 4 de [Balinski y Young (2001)](https://github.com/emagar/paper-mirror/blob/master/lit/balinski-young-Fair-representation2001book.pdf) para entender la naturaleza (y orígenes) de los métodos de Jefferson, Hamilton, Adams y Webster. Analice el *apportionment* que le correspondería a cada département con cada uno de los cuatro métodos. (Excel basta para hacer el análisis, pero puede usar software más versátil aunque menos intruitivo, como R o Python.)  
 
-Elabore un reporte que describa concisa pero claramente sus resultados y cómo los alcanzó, que también los analice para extraer conclusiones acerca de las consecuencias distributivas de estas instituciones.  
+Elabore un reporte que describa concisa pero claramente sus resultados y cómo los alcanzó, que también los analice para extraer conclusiones acerca de las consecuencias distributivas de estas instituciones (el paper de  [Ansolabehere *et al.* 2002](https://github.com/emagar/paper-mirror/blob/master/lit/ansolabehere.gerber.snyderCourtRedistricting2002apsr.pdf) ilustra algunas de estas consecuencias para el caso estadunidense).  
 
-Hará el trabajo de manera individual. Además entregar su reporte, dará una breve presentación en clase que elabore sus hallazgos y conclusiones. La fecha de entrega será el 14 de noviembre. Búsqueme si necesitara aclarar dudas.  
+Hará el trabajo de manera individual. La fecha de entrega será el ~~14~~ 30 de noviembre. Además entregar su reporte, dará una breve presentación en clase el 17 de diciembre, después del examen final, donde elabore sus hallazgos y conclusiones. Búsqueme si necesitara aclarar dudas.  
 
 ¡Mucha suerte!  
 

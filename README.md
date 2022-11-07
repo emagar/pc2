@@ -12,7 +12,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón SA-4
 
 *Horas de oficina*: lunes y miércoles de 11:00 a 11:30, o con cita.
 
-*Evaluación*: Habrá un trabajo y un examen. En su momento anunciaré los formatos. Contarán 60% y 20% de la calificación final, respectivamente. El 20% restante valorará su participación y desempeño en clase, en particular el conocimiento de las lecturas.
+*Evaluación*: Habrá una entrega preliminar, un trabajo y un examen. En su momento anunciaré los formatos. Contarán 20%, 40% y 20% de la calificación final, respectivamente. El 20% restante valorará su participación y desempeño en clase, en particular el conocimiento de las lecturas.
 
 *Notas*: (1) La página del curso es <https://github.com/emagar/pc2/>. Alberga este temario y las lecturas. (2) Coordinaré reposición de clases faltantes más adelante.
 
@@ -26,7 +26,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón SA-4
 
 ---
 
-**Trabajo del curso** [aquí](https://github.com/emagar/pc2/blob/master/exams/malap-france/).
+**Trabajo del curso** [aquí](https://github.com/emagar/pc2/blob/master/exams/malap-france/) (ojo: hice aclaraciones al enunciado).
 
 Entrega preliminar 2022-11-07, antes de clase. Prepare un reporte que describa con claridad su análisis preliminar y su estrategia para contestar el enunciado. Entre otras cosas, reporte estadística descriptiva de la población de los distritos actuales de la Asamblea Nacional francesa: promedio, desviación estándar, mediana, mínima y máxima. Con base en las lecturas, elabore posibles indicadores para analizar estos datos, que después pueda aplicar a los escenarios que usan otros métodos de *apportionment*.
 
