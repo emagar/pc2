@@ -22,13 +22,19 @@ Lunes y miércoles 11:30&#x2013;13:00, salón SA-4
 
 *Semestre termina*: 2022-11-30.
 
-*Examen final*: 2022-12-17 8:00-11:00.
+*Examen final*: 2022-12-17 8:00-11:00 salón 103.
 
 ---
 
 **Trabajo del curso** [aquí](https://github.com/emagar/pc2/blob/master/exams/malap-france/) (ojo: hice aclaraciones al enunciado).
 
-Entrega preliminar 2022-11-07, antes de clase. Prepare un reporte que describa con claridad su análisis preliminar y su estrategia para contestar el enunciado. Entre otras cosas, reporte estadística descriptiva de la población de los distritos actuales de la Asamblea Nacional francesa: promedio, desviación estándar, mediana, mínima y máxima. Con base en las lecturas, elabore posibles indicadores para analizar estos datos, que después pueda aplicar a los escenarios que usan otros métodos de *apportionment*.
+**Entrega preliminar**: 2022-11-07, antes de clase. Prepare un reporte que describa con claridad su análisis preliminar y su estrategia para contestar el enunciado. Entre otras cosas, reporte estadística descriptiva de la población de los distritos actuales de la Asamblea Nacional francesa: promedio, desviación estándar, mediana, mínima y máxima. Con base en las lecturas, elabore posibles indicadores para analizar estos datos, que después pueda aplicar a los escenarios que usan otros métodos de *apportionment*.
+
+[\(\rightarrow\) g-sheets](https://docs.google.com/spreadsheets/d/1MH6rCOpBuPhRj6MDpbmhRiiLBmHbjhciv6NzN9d9emQ/edit?usp=sharing)
+
+**Complemento preliminar**: (1) traduzca cada uno de los cuatro métodos a una serie de pasos sucesivos para su aplicación a la conversión de población en escaños de cada département; (2) en excel o equivalente, añada columnas para obtener el número de escaños correspondiente a cada fórmula, usando los pasos que elaboró antes.
+
+**Entrega final y presentación**: se hará en equipos de dos personas, el día del examen final. Cada equipo elaborará un reporte final y dará una presentación de máximo 10 minutos.
 
 ---
 
