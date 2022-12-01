@@ -30,11 +30,19 @@ Lunes y miércoles 11:30&#x2013;13:00, salón SA-4
 
 **Entrega preliminar**: 2022-11-07, antes de clase. Prepare un reporte que describa con claridad su análisis preliminar y su estrategia para contestar el enunciado. Entre otras cosas, reporte estadística descriptiva de la población de los distritos actuales de la Asamblea Nacional francesa: promedio, desviación estándar, mediana, mínima y máxima. Con base en las lecturas, elabore posibles indicadores para analizar estos datos, que después pueda aplicar a los escenarios que usan otros métodos de *apportionment*.
 
-$\rightarrow\$ [g-sheets](https://docs.google.com/spreadsheets/d/1MH6rCOpBuPhRj6MDpbmhRiiLBmHbjhciv6NzN9d9emQ/edit?usp=sharing)
+\(\rightarrow\) [g-sheets](https://docs.google.com/spreadsheets/d/1MH6rCOpBuPhRj6MDpbmhRiiLBmHbjhciv6NzN9d9emQ/edit?usp=sharing)
 
 **Complemento preliminar**: (1) traduzca cada uno de los cuatro métodos a una serie de pasos sucesivos para su aplicación a la conversión de población en escaños de cada département; (2) en excel o equivalente, añada columnas para obtener el número de escaños correspondiente a cada fórmula, usando los pasos que elaboró antes.
 
-**Entrega final y presentación**: se hará en equipos de dos personas, el día del examen final. Cada equipo elaborará un reporte final y dará una presentación de máximo 10 minutos.
+**Entrega final y presentación**: se hará en equipos de dos personas, el día del examen final. Cada equipo elaborará un reporte final con sus hallazgos y dará una presentación de máximo 10 minutos. Dividirán su presentación en dos partes. Una será técnica, para cubrir las consecuencias políticas de las reglas de apportionment (los hallazgos de su análisis). La otra será retórica, para elaborar una estrategia persuadir la adopción de una de los métodos de apportionment.
+
+---
+
+**Instrucciones para el examen final en clase** La primera hora, previa a sus presentaciones, contestarán una pregunta que les plantearé. Para preparar su respuesta, lea cuidadosamente el texto de Dresser que aparece abajo. Imprímalo y tráigalo al salón del examen, para poder consultarlo. Lea también los textos de Weldon y Cox y McCubbins para preparar (y traer al salón) una tarjeta de trabajo ("acordeón") manuscrita de tamaño media carta que resuma conceptos de estas dos lecturas &#x2014; le servirá de apoyo para elaborar su respuesta.
+
+-   Dresser, [Mexico's Dying Democracy](https://github.com/emagar/paper-mirror/blob/master/lit/dresser-Mx-dying-democ2022fa.pdf).
+-   Cox y McCubbins, [Institutional Determinants of Economic Policy Outcomes](https://github.com/emagar/paper-mirror/blob/master/lit/cox-mccubbins-Inst-Determinants-Policy2001.pdf).
+-   Weldon, [Las fuentes políticas del presidencialismo en México](https://github.com/emagar/pc2/blob/master/lecturas/weldon1997esp.pdf).
 
 ---
 
@@ -113,20 +121,21 @@ $\rightarrow\$ [g-sheets](https://docs.google.com/spreadsheets/d/1MH6rCOpBuPhRj6
 -   Constitución Política de los Estados Unidos Mexicanos, entera (compre un ejemplar).
 -   Hamilton, Madison y Jay, *El Federalista*, números [10](https://github.com/emagar/pc2/blob/master/lecturas/FederalistaX.pdf), [51](https://github.com/emagar/pc2/blob/master/lecturas/FederalistaLI.pdf) y [78](https://github.com/emagar/pc2/blob/master/lecturas/FederalistaLXXVIII.pdf), 24 pp.
 -   Weldon, [Las fuentes políticas del presidencialismo en México](https://github.com/emagar/pc2/blob/master/lecturas/weldon1997esp.pdf) 36 pp.
+-   Shugart y Carey, *Presidents and Assemblies*, cap. 8 [Assessing the powers of the presidency](https://github.com/emagar/pc2/blob/master/lecturas/ShugartCap8.pdf) 19 pp.
+-   Cox y McCubbins, [Institutional Determinants of Economic Policy Outcomes](https://github.com/emagar/paper-mirror/blob/master/class/cox-mccubbins-Inst-Determinants-Policy2001.pdf) 42 pp.
 -   McCubbins, [Government on Lay-Away: Federal Spending and Deficits under Divided Control](https://github.com/emagar/pc2/blob/master/lecturas/McCubbinsGovtLay-Away.pdf) 40 pp.
 -   Magar, [El inmovilismo democrático a revisión](https://github.com/emagar/pc2/blob/master/lecturas/magarGCP2009.pdf) 14 pp.
--   Magar y Moreno, [The personal vote in Mexico](https://github.com/emagar/pc2/blob/master/lecturas/magar-moreno-Personal-vote-Mx-2022.pdf) 25 pp.
+
 -   Cheibub, Przeworski y Saiegh, [Government Coalitions and Legislative Success Under Presidentialism and Parliamentarism](https://github.com/emagar/pc2/blob/master/lecturas/cheibubetalCoalSuccess2004bjps.pdf) 20 pp.
 -   Jacobson, *The Politics of Congressional Elections*, caps. 1-3, 50 pp.
--   Shugart y Carey, *Presidents and Assemblies*, cap. 8 [Assessing the powers of the presidency](https://github.com/emagar/pc2/blob/master/lecturas/ShugartCap8.pdf) 19 pp. (Lectura optativa.)
 
 **EXAMEN PARCIAL: se programa y entrega alrededor del estas fechas (anunciaré el formato con anterioridad)**
 
 
 ## Semipresidencialismo (12 y 17 de octubre)
 
--   Ertman, *The Birth of Leviathan*, [cap 1](https://github.com/emagar/paper-mirror/blob/master/class/ertman.1997.birthLeviathan-ch1.pdf), 34 pp.
--   Degrave, [Local Rule, Elites, and Popular Grievances: Evidence from *Ancien Régime* France](https://github.com/emagar/paper-mirror/blob/master/class/degrave-paysdetat2022jhpe.pdf), 30 pp.
+-   Ertman, *The Birth of Leviathan*, [cap 1](https://github.com/emagar/paper-mirror/blob/master/lit/ertman.1997.birthLeviathan-ch1.pdf), 34 pp.
+-   Degrave, [Local Rule, Elites, and Popular Grievances: Evidence from *Ancien Régime* France](https://github.com/emagar/paper-mirror/blob/master/lit/degrave-paysdetat2022jhpe.pdf), 30 pp.
 
 -   Schleiter y Morgan-Jones "Review Article: Citizens, Presidents and Assemblies: The Study of Semi-Presidentialism beyond Duverger and Linz," 21 pp.
 
