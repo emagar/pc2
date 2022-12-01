@@ -26,19 +26,19 @@ Lunes y miércoles 11:30&#x2013;13:00, salón SA-4
 
 ---
 
-**Trabajo del curso** [aquí](https://github.com/emagar/pc2/blob/master/exams/malap-france/) (ojo: hice aclaraciones al enunciado).
+**Trabajo del curso** el enunciado está [aquí](https://github.com/emagar/pc2/blob/master/exams/malap-france/).
 
-**Entrega preliminar**: 2022-11-07, antes de clase. Prepare un reporte que describa con claridad su análisis preliminar y su estrategia para contestar el enunciado. Entre otras cosas, reporte estadística descriptiva de la población de los distritos actuales de la Asamblea Nacional francesa: promedio, desviación estándar, mediana, mínima y máxima. Con base en las lecturas, elabore posibles indicadores para analizar estos datos, que después pueda aplicar a los escenarios que usan otros métodos de *apportionment*.
+-> Aplicación de varias reglas en [g-sheets](https://docs.google.com/spreadsheets/d/1MH6rCOpBuPhRj6MDpbmhRiiLBmHbjhciv6NzN9d9emQ/edit?usp=sharing)
 
-\(\rightarrow\) [g-sheets](https://docs.google.com/spreadsheets/d/1MH6rCOpBuPhRj6MDpbmhRiiLBmHbjhciv6NzN9d9emQ/edit?usp=sharing)
+**Entrega final y presentación**: la harán en equipos de dos personas, el día del examen final. Cada equipo elaborará un reporte final con sus hallazgos y dará una presentación de máximo 10 minutos. Dividirán su presentación en dos partes. Una será técnica, para cubrir las consecuencias políticas de las reglas de apportionment (los hallazgos de su análisis). La otra será retórica, para elaborar una estrategia persuadir la adopción de una de los métodos de apportionment.
 
-**Complemento preliminar**: (1) traduzca cada uno de los cuatro métodos a una serie de pasos sucesivos para su aplicación a la conversión de población en escaños de cada département; (2) en excel o equivalente, añada columnas para obtener el número de escaños correspondiente a cada fórmula, usando los pasos que elaboró antes.
-
-**Entrega final y presentación**: se hará en equipos de dos personas, el día del examen final. Cada equipo elaborará un reporte final con sus hallazgos y dará una presentación de máximo 10 minutos. Dividirán su presentación en dos partes. Una será técnica, para cubrir las consecuencias políticas de las reglas de apportionment (los hallazgos de su análisis). La otra será retórica, para elaborar una estrategia persuadir la adopción de una de los métodos de apportionment.
+La parte tcnica exigirá que elaboren un resumen comunicable de los efectos en términos de representación de los distintos métodos. Para la parte retórica, en cambio, les sugieron elegir un departamento y elaborar argumentos normativos en defensa de la regla que más les conviene y en contra de las que lo perjudican.
 
 ---
 
-**Instrucciones para el examen final en clase** La primera hora, previa a sus presentaciones, contestarán una pregunta que les plantearé. Para preparar su respuesta, lea cuidadosamente el texto de Dresser que aparece abajo. Imprímalo y tráigalo al salón del examen, para poder consultarlo. Lea también los textos de Weldon y Cox y McCubbins para preparar (y traer al salón) una tarjeta de trabajo ("acordeón") manuscrita de tamaño media carta que resuma conceptos de estas dos lecturas &#x2014; le servirá de apoyo para elaborar su respuesta.
+**Instrucciones para el examen final en clase**
+
+Previo a sus presentaciones, tendrán una hora para contestar una pregunta que les plantearé. Para preparar su respuesta, lea cuidadosamente el texto de Dresser que aparece abajo. Imprímalo y tráigalo al salón del examen, para poder consultarlo. Lea también los textos de Weldon y Cox y McCubbins para preparar (y traer al salón) una tarjeta de trabajo ("acordeón") manuscrita de tamaño media carta que resuma conceptos de estas dos lecturas &#x2014; le servirá de apoyo para elaborar su respuesta.
 
 -   Dresser, [Mexico's Dying Democracy](https://github.com/emagar/paper-mirror/blob/master/lit/dresser-Mx-dying-democ2022fa.pdf).
 -   Cox y McCubbins, [Institutional Determinants of Economic Policy Outcomes](https://github.com/emagar/paper-mirror/blob/master/lit/cox-mccubbins-Inst-Determinants-Policy2001.pdf).
