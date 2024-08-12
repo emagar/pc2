@@ -1,48 +1,28 @@
-ITAM Depto. de ciencia política, otoño 2022
+ITAM Depto. de ciencia política, otoño 2024
 
 **Política Comparada II**
 
 Profesor: Eric Magar Meurs ([emagar@itam.mx](mailto:emagar@itam.mx))
 
-Lunes y miércoles 11:30&#x2013;13:00, salón SA-4
+Lunes y miércoles 8:30&#x2013;10:00, salón B-2
 
-*Aviso*: Es tarea de usted leer el material que anunciaré previo a la fecha indicada. Mi cátedra da por sentado que lo ha hecho y cubre sólo una parte de cada lectura desde una óptica particular. No obstante, en los exámenes evaluaré su conocimiento integral de las lecturas así como su capacidad para discutirlas críticamente. Cada clase anunciaré las lecturas que correspondan para la siguiente fecha.
+*Avisos*: Es tarea de usted leer el material que anunciaré previo a la fecha indicada. Mi cátedra da por sentado que lo ha hecho y cubre sólo una parte de cada lectura desde una óptica particular. No obstante, en los exámenes evaluaré su conocimiento integral de las lecturas así como su capacidad para discutirlas críticamente. Cada clase anunciaré las lecturas que correspondan para la siguiente fecha.
+
+*Nota*: La página del curso es <https://github.com/emagar/pc2/>. Alberga este temario y las lecturas.
 
 *Objetivo*: El segundo curso de la serie de política comparada del programa está dedicado al estudio de las instituciones políticas. Revisaremos dos temas clásicos en la política comparada: las implicaciones que tienen distintas formas de gobierno democrático en la vida de la ciudadanía; y el análisis de los sistemas electoral y de partidos, haciendo hincapié en su interacción.
 
-*Horas de oficina*: lunes y miércoles de 11:00 a 11:30, o con cita.
+*Horas de oficina*: lunes y miércoles de 13:00 a 14:00, o con cita.
 
 *Evaluación*: Habrá una entrega preliminar, un trabajo y un examen. En su momento anunciaré los formatos. Contarán 20%, 40% y 20% de la calificación final, respectivamente. El 20% restante valorará su participación y desempeño en clase, en particular el conocimiento de las lecturas.
 
-*Notas*: (1) La página del curso es <https://github.com/emagar/pc2/>. Alberga este temario y las lecturas. (2) Coordinaré reposición de clases faltantes más adelante.
+*Días de asueto*: 2024-09-16 (Independencia) y 2024-11-18 (Revolución).
 
-*Días de asueto*: 2022-11-02 (Muertos) y 2022-11-21 (Rev.)
+*No habrá clase*: 2024-09-04, 2024-10-28&#x2013;2024-10-30. Coordinaré la reposición de clases faltantes más adelante.
 
-*No habrá clase*: 2022-10-31.
+*Semestre termina*: 2024-12-21.
 
-*Semestre termina*: 2022-11-30.
-
-*Examen final*: 2022-12-17 8:00-11:00 salón 103.
-
----
-
-**Trabajo del curso** el enunciado está [aquí](https://github.com/emagar/pc2/blob/master/exams/malap-france/).
-
--> Aplicación de varias reglas en [g-sheets](https://docs.google.com/spreadsheets/d/1MH6rCOpBuPhRj6MDpbmhRiiLBmHbjhciv6NzN9d9emQ/edit?usp=sharing)
-
-**Entrega final y presentación**: la harán en equipos de dos personas, el día del examen final. Cada equipo elaborará un reporte final con sus hallazgos y dará una presentación de máximo 10 minutos. Dividirán su presentación en dos partes. Una será técnica, para cubrir las consecuencias políticas de las reglas de apportionment (los hallazgos de su análisis). La otra será retórica, para elaborar una estrategia persuadir la adopción de una de los métodos de apportionment.
-
-La parte tcnica exigirá que elaboren un resumen comunicable de los efectos en términos de representación de los distintos métodos. Para la parte retórica, en cambio, les sugieron elegir un departamento y elaborar argumentos normativos en defensa de la regla que más les conviene y en contra de las que lo perjudican.
-
----
-
-**Instrucciones para el examen final en clase**
-
-Previo a sus presentaciones, tendrán una hora para contestar una pregunta que les plantearé. Para preparar su respuesta, lea cuidadosamente el texto de Dresser que aparece abajo. Imprímalo y tráigalo al salón del examen, para poder consultarlo. Lea también los textos de Weldon y Cox y McCubbins para preparar (y traer al salón) una tarjeta de trabajo ("acordeón") manuscrita de tamaño media carta que resuma conceptos de estas dos lecturas &#x2014; le servirá de apoyo para elaborar su respuesta.
-
--   Dresser, [Mexico's Dying Democracy](https://github.com/emagar/paper-mirror/blob/master/lit/dresser-Mx-dying-democ2022fa.pdf).
--   Cox y McCubbins, [Institutional Determinants of Economic Policy Outcomes](https://github.com/emagar/paper-mirror/blob/master/lit/cox-mccubbins-Inst-Determinants-Policy2001.pdf).
--   Weldon, [Las fuentes políticas del presidencialismo en México](https://github.com/emagar/pc2/blob/master/lecturas/weldon1997esp.pdf).
+*Exámenes finales*: del 2024-12-09 al 2024-12-21.
 
 ---
 
@@ -50,22 +30,22 @@ Previo a sus presentaciones, tendrán una hora para contestar una pregunta que l
 # PARTE I – INTRODUCCION
 
 
-## Instituciones y el análisis institucional  (10 de agosto)
+## Instituciones y el análisis institucional  (14 de agosto)
 
 -   Myerson, ["Analysis of democratic Institutions: Structure, Conduct, and Performance,"](https://github.com/emagar/pc2/blob/master/lecturas/myersonInstAnalysis1995jep.pdf) 12 pp.
 
 
-## Dos modelos de democracia de Lijphart (15 de agosto)
+## Dos modelos de democracia de Lijphart (19 de agosto)
 
 -   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ)
     -   cap. 1 "Introducción," pp. 13-19;
     -   cap. 4 "Treinta y seis democracias", pp. 59-70.
 
 
-# PARTE II – LA DEMOCRACIA Y SUS FORMAS: IDEALES vs MUNDANAS
+# PARTE II – LA DEMOCRACIA Y SUS FORMAS
 
 
-## El modelo Westminster de democracia  (17, 22, 24 y 29 de agosto)
+## El modelo Westminster de democracia  (21, 26, 28 de agosto y 2 de septiembre)
 
 -   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ)
     -   cap. 2 "El modelo Westminster de democracia," pp. 21-41 y pp. 117-124.
@@ -84,7 +64,7 @@ Previo a sus presentaciones, tendrán una hora para contestar una pregunta que l
 -   Politico [Polls of polls UK](https://www.politico.eu/europe-poll-of-polls/united-kingdom/).
 
 
-## El modelo consensual de democracia (31 de agosto y 7 de septiembre)
+## El modelo consensual de democracia (9 y 11 de septiembre)
 
 -   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ),
     -   cap. 3 "El modelo consensual de democracia," pp. 43-57;
@@ -92,11 +72,12 @@ Previo a sus presentaciones, tendrán una hora para contestar una pregunta que l
 -   *The Economist* (2020): ["Is Switzerland in Europe?"](https://github.com/emagar/pc2/blob/master/lecturas/economist-swiss-svp2020.pdf) pp. 1-5.
 
 
-## Parlamentarismo multipartidista (12, 14 y 19 de septiembre)
+## Parlamentarismo multipartidista (16, 18 y 23 de septiembre)
 
 -   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ),
     -   cap. 6 "Gabinetes: concentración frente a división del poder ejecutivo," 21 pp.
     -   cap. 11 "Parlamentos y congresos: concentración frente a división del poder legislativo," 13 pp.
+
 -   Hancock, [*Politics in Europe*](https://github.com/emagar/pc2/blob/master/lecturas/hancock2015),
     -   cap. 3.1 "The context of German politics," 28 pp.
     -   cap. 3.2 "Where is the power?" 18 pp.
@@ -110,13 +91,13 @@ Previo a sus presentaciones, tendrán una hora para contestar una pregunta que l
 -   *The Economist* editorial 18/3/22, [A big defence budget shows Germany has woken up](https://github.com/emagar/pc2/blob/master/clases/04-parlam-alem/lit/economist-Germany-wake-up-18mar2022.pdf).
 
 
-## Tipos de sistemas constitucionales  (21 de septiembre)
+## Tipos de sistemas constitucionales  (25 de septiembre)
 
 -   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ) cap. 7 "Relaciones entre el ejecutivo y el legislativo: modelos de predominio y de equilibrio de poder," pp. 117-139.
 -   Linz, ["The Perils of Presidentialism"](https://github.com/emagar/pc2/blob/master/lecturas/linz-peligros.pdf) pp. 51-69.
 
 
-## Presidencialismo  (26 y 28 de septiembre, 5 y 10 de octubre)
+## Presidencialismo  (30 de septiembre, 2, 7 y 9 de octubre)
 
 -   Constitución Política de los Estados Unidos Mexicanos, entera (compre un ejemplar).
 -   Hamilton, Madison y Jay, *El Federalista*, números [10](https://github.com/emagar/pc2/blob/master/lecturas/FederalistaX.pdf), [51](https://github.com/emagar/pc2/blob/master/lecturas/FederalistaLI.pdf) y [78](https://github.com/emagar/pc2/blob/master/lecturas/FederalistaLXXVIII.pdf), 24 pp.
@@ -129,10 +110,10 @@ Previo a sus presentaciones, tendrán una hora para contestar una pregunta que l
 -   Cheibub, Przeworski y Saiegh, [Government Coalitions and Legislative Success Under Presidentialism and Parliamentarism](https://github.com/emagar/pc2/blob/master/lecturas/cheibubetalCoalSuccess2004bjps.pdf) 20 pp.
 -   Jacobson, *The Politics of Congressional Elections*, caps. 1-3, 50 pp.
 
-**EXAMEN PARCIAL: se programa y entrega alrededor del estas fechas (anunciaré el formato con anterioridad)**
+**EL TRABAJO PARCIAL se programa alrededor de estas fechas (anunciaré el formato con anterioridad)**
 
 
-## Semipresidencialismo (12 y 17 de octubre)
+## Semipresidencialismo (14 y 16 de octubre)
 
 -   Ertman, *The Birth of Leviathan*, [cap 1](https://github.com/emagar/paper-mirror/blob/master/lit/ertman.1997.birthLeviathan-ch1.pdf), 34 pp.
 -   Degrave, [Local Rule, Elites, and Popular Grievances: Evidence from *Ancien Régime* France](https://github.com/emagar/paper-mirror/blob/master/lit/degrave-paysdetat2022jhpe.pdf), 30 pp.
@@ -143,7 +124,7 @@ Previo a sus presentaciones, tendrán una hora para contestar una pregunta que l
 # PARTE III – PARTIDOS Y ELECCIONES
 
 
-## Sistemas electorales  (19 y 24 de octubre)
+## Sistemas electorales  (21 y 23 de octubre)
 
 -   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ), cap. 8 "Sistemas electorales: método de mayoría absoluta y mayoría relativa frente a representación proporcional," 23 pp.
 -   Lijphart, [*Electoral Systems and Party Systems*](https://github.com/emagar/pc2/blob/master/lecturas/lijphartElectoralSystemsCaps1-5.pdf),
@@ -154,12 +135,12 @@ Previo a sus presentaciones, tendrán una hora para contestar una pregunta que l
 -   Jones, "A Guide to the Electoral Systems of the Americas: An Update," 3 pp.
 
 
-## El sistema de partidos  (7 y 9 de noviembre)
+## El sistema de partidos  (4 y 6 de noviembre)
 
 -   Beck, Party *Politics in America*, "Parties and party systems," 32 pp.
 
 
-## El número de partidos  (14 de noviembre)
+## El número de partidos  (11 de noviembre)
 
 -   Beck, Party Politics in America, "The American Two-Party System," 32 pp.
 -   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ), cap. 5 "Sistemas de partidos: modelos bipartidistas y multipartidistas," 23 pp.
@@ -168,7 +149,7 @@ Previo a sus presentaciones, tendrán una hora para contestar una pregunta que l
 -   Taagepera, "Supplementing the Effective Number of Parties," 7 pp.
 
 
-## Patrones de competencia partidista  (16 de noviembre)
+## Patrones de competencia partidista  (13 de noviembre)
 
 -   Magar, Rosenblum y Samuels, ["On the absence of centripetal incentives in double-member districts: The case of Chile"](https://github.com/emagar/pc2/blob/master/lecturas/MRS1998.pdf) 25 pp.
 
@@ -176,13 +157,13 @@ Previo a sus presentaciones, tendrán una hora para contestar una pregunta que l
 -   Capoccia, "Anti-System Parties: A Conceptual Reassessment," 26 pp.
 
 
-## Partidos como organizaciones  (23 de noviembre)
+## Partidos como organizaciones  (20 de noviembre)
 
 -   Riordon, *Plunkitt of Tamany Hall*, 135 pp.
 -   OJO: esta clase será más larga. Nos reuniremos de 15:00 a 17:30 para ver y discutir la película The Last Hurrah de J. Ford (1958) o All the King’s Men de R. Rossen (1949).
 
 
-## La interacción entre los sistemas electoral y de partidos  (28 de noviembre)
+## La interacción entre los sistemas electoral y de partidos  (25, 27 de noviembre y 2 de diciembre)
 
 -   Duverger, ["El dualismo de los partidos" y "El multipartidismo"](https://github.com/emagar/pc2/blob/master/lecturas/duvergerPartPolCapBipartidismo.pdf) 47 pp.
 -   Lijphart, [*Electoral Systems and Party Systems*](https://github.com/emagar/pc2/blob/master/lecturas/lijphartElectoralSystemsCaps1-5.pdf),
@@ -196,7 +177,7 @@ Previo a sus presentaciones, tendrán una hora para contestar una pregunta que l
 # PARTE IV – RECAPITULACION
 
 
-## Instituciones, convivencia política y método comparativo (30 de noviembre)
+## Instituciones, convivencia política y método comparativo (4 de diciembre)
 
 -   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ),
     -   cap. 14 "Mapa conceptual bidimensional de la democracia," 23 pp.
