@@ -59,7 +59,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón B-2
 -   Green et al. (2021) [Who Gets What: The Economy, Relative Gains, and Brexit](https://github.com/emagar/pc2/blob/master/lecturas/green-etal-Who-gets-what-brexit2021bjps.pdf) 19 pp.
 
 -   BBC [A-Z of Parliament](http://news.bbc.co.uk/2/hi/uk_news/politics/a-z_of_parliament/default.stm)
--   *New York Times* [Truss Takes a Bold Economic Gamble. Will It Sink Her Government?](https://www.nytimes.com/2022/09/27/world/europe/uk-economy-truss-pound.html?unlocked_article_code=-CjYwj5TYel80aQvPeZWXebTib46VBirWexig593qyf_kv1Ov1be_FapoElm9bsxVCq_BTR_6bPB29IJ8VblB9pc_fE8lVJpRj3g2xAGegpuuoGvPkypyZLLn6EcMVf0VZab7F4uWHiZ6tyx-_7NVgUz6bCaObBs7mD4mbBe_UivmP-T5sLnBg8s7iupwfrkRBhbhlriQA6Xjsv2RxYZMH1jdfndr3IIyJzehD6cSXOyB_6CCV5ThcjURKbKklathjVX5mlXIMXIaH1CQvQ5eweCkALFsFrjHBX805WaKpdOBlM_E3PftZHkbKVBHrfkRyHZYITvBhNbS5Iu2z4IESoO4pBH&smid=share-url) <span class="timestamp-wrapper"><span class="timestamp">&lt;2022-09-27 Tue&gt;</span></span>.
+
 -   Politico [Polls of polls UK](https://www.politico.eu/europe-poll-of-polls/united-kingdom/).
 
 
