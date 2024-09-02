@@ -55,7 +55,23 @@ Además de reportar la información suistancial, describa concisa y claramente e
 
 -   Las herramientas de IA generativa (p.ej. chatGPT) son útiles, pero deberá tratar lo que arrojan como un primer borrador solamente. Deberá confirmar/complementar esto con una visita a otras fuentes, como la página web de gobierno del estado en cuestión. Así podrá determinar rasgos imprecisos o faltantes.
 
-**Distribución de los estados** SEBASTIAN: Alabama, Kansas, New Mexico, Virginia, Hawaii, Montana, South Dakota HECTOR: Alaska, Kentucky, New York, Washington, Idaho, Nebraska, Tennessee GUILLERMO: Arizona, Louisiana, North Carolina, West Virginia, Illinois, Nevada, Texas MIKE: Arkansas, Maine, North Dakota, Wisconsin, Indiana, New Hampshire, Utah GONZALO: California, Maryland, Ohio, Wyoming, Iowa, New Jersey, Vermont PABLO: Colorado, Massachusetts, Oklahoma, Alabama, Kansas, New Mexico, Virginia FERNANDA: Connecticut, Michigan, Oregon, Alaska, Kentucky, New York, Washington ISABEL: Delaware, Minnesota, Pennsylvania, Arizona, Louisiana, North Carolina, West Virginia EMILIO: Florida, Mississippi, Rhode Island, Arkansas, Maine, North Dakota, Wisconsin DIEGO: Georgia, Missouri, South Carolina, California, Maryland, Ohio, Wyoming ANDREA: Hawaii, Montana, South Dakota, Colorado, Massachusetts, Oklahoma, Alabama FELIPE: Idaho, Nebraska, Tennessee, Connecticut, Michigan, Oregon, Arizona VICTOR: Illinois, Nevada, Texas, Delaware, Minnesota, Pennsylvania, Arkansas MARIANA: Indiana, New Hampshire, Utah, Florida, Mississippi, Rhode Island, Colorado DANIELA: Iowa, New Jersey, Vermont, Georgia, Missouri, South Carolina, Connecticut
+**Distribución de los estados**
+
+-   SEBASTIAN: Alabama, Kansas, New Mexico, Virginia, Hawaii, Montana, South Dakota
+-   HECTOR: Alaska, Kentucky, New York, Washington, Idaho, Nebraska, Tennessee
+-   GUILLERMO: Arizona, Louisiana, North Carolina, West Virginia, Illinois, Nevada, Texas
+-   MIKE: Arkansas, Maine, North Dakota, Wisconsin, Indiana, New Hampshire, Utah
+-   GONZALO: California, Maryland, Ohio, Wyoming, Iowa, New Jersey, Vermont
+-   PABLO: Colorado, Massachusetts, Oklahoma, Alabama, Kansas, New Mexico, Virginia
+-   FERNANDA: Connecticut, Michigan, Oregon, Alaska, Kentucky, New York, Washington
+-   ISABEL: Delaware, Minnesota, Pennsylvania, Arizona, Louisiana, North Carolina, West Virginia
+-   EMILIO: Florida, Mississippi, Rhode Island, Arkansas, Maine, North Dakota, Wisconsin
+-   DIEGO: Georgia, Missouri, South Carolina, California, Maryland, Ohio, Wyoming
+-   ANDREA: Hawaii, Montana, South Dakota, Colorado, Massachusetts, Oklahoma, Alabama
+-   FELIPE: Idaho, Nebraska, Tennessee, Connecticut, Michigan, Oregon, Arizona
+-   VICTOR: Illinois, Nevada, Texas, Delaware, Minnesota, Pennsylvania, Arkansas
+-   MARIANA: Indiana, New Hampshire, Utah, Florida, Mississippi, Rhode Island, Colorado
+-   DANIELA: Iowa, New Jersey, Vermont, Georgia, Missouri, South Carolina, Connecticut
 
 ---
 
