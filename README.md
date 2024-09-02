@@ -26,6 +26,39 @@ Lunes y miércoles 8:30&#x2013;10:00, salón B-2
 
 ---
 
+**Trabajo parcial** Investigue los siete estados de la Unión Americana que le asigné en la lista más abajo. Para cada uno, documente y sintetice el procedimiento de nombramiento de los jueces estatales:
+
+-   Cuáles y cuántos son los puestos en disputa (p.ej. Suprema Corte, Corte de Apelaciones, etc.)
+-   Quién o quiénes proponen/nominan a los candidatos (p.ej. el gobernador, los legisladores, etc.)
+-   Quién o quienes ratifican a los jueces (p.ej. la Asamblea estatal, el electorado, etc.)
+-   Duración del mandato
+-   Métodos y causales de revocación del mandato
+
+Para los casos de elección popular, especifique también lo siguiente:
+
+-   Cuáles son los distritos donde compiten los candidatos (p.ej. el estado, county, circuito judicial etc.)
+-   Cómo votan los electores y cómo se cuentan los votos
+-   Qué fórmula se usa para convertir votos en triunfos
+-   Otras consideraciones relevantes (p.ej. el uso de umbrales, más de una vuelta electoral, etc.)
+
+Haga un primer esfuerzo por sintetizar las reglas de sus siete estados, para verlas clara y distintas. Con esto en mano, reúnase el miércoles 4 de septiembre a la hora de clase con el resto del grupo. Dediquen la hora y media para contrastar los elementos que usted obtuvo con los de otros, aclarar qué le falta o qué sobra en su reporte. Intentarán plantear una estrucura que permita compaginar las síntesis de los 50 estados.
+
+Replantee la síntesis de sus siete estados a la luz de esta discusión, para entregarla y discutirla el **lunes 9 de septiembre** en clase.
+
+Además de reportar la información suistancial, describa concisa y claramente en su reporte el procedimiento mediante el que obtuvo la información, liste todas sus fuentes y guarde una copia digital de las fuentes primarias que obtuvo.
+
+**Recursos útiles**
+
+-   Ballotpedia lista los estados de EE.UU. que nombran jueces y los que los eligen popularmente, con bastantes detalles de utilidad.
+
+<https://ballotpedia.org/Judicial_selection_in_the_states>
+
+-   Las herramientas de IA generativa (p.ej. chatGPT) son útiles, pero deberá tratar lo que arrojan como un primer borrador solamente. Deberá confirmar/complementar esto con una visita a otras fuentes, como la página web de gobierno del estado en cuestión. Así podrá determinar rasgos imprecisos o faltantes.
+
+**Distribución de los estados** SEBASTIAN: Alabama, Kansas, New Mexico, Virginia, Hawaii, Montana, South Dakota HECTOR: Alaska, Kentucky, New York, Washington, Idaho, Nebraska, Tennessee GUILLERMO: Arizona, Louisiana, North Carolina, West Virginia, Illinois, Nevada, Texas MIKE: Arkansas, Maine, North Dakota, Wisconsin, Indiana, New Hampshire, Utah GONZALO: California, Maryland, Ohio, Wyoming, Iowa, New Jersey, Vermont PABLO: Colorado, Massachusetts, Oklahoma, Alabama, Kansas, New Mexico, Virginia FERNANDA: Connecticut, Michigan, Oregon, Alaska, Kentucky, New York, Washington ISABEL: Delaware, Minnesota, Pennsylvania, Arizona, Louisiana, North Carolina, West Virginia EMILIO: Florida, Mississippi, Rhode Island, Arkansas, Maine, North Dakota, Wisconsin DIEGO: Georgia, Missouri, South Carolina, California, Maryland, Ohio, Wyoming ANDREA: Hawaii, Montana, South Dakota, Colorado, Massachusetts, Oklahoma, Alabama FELIPE: Idaho, Nebraska, Tennessee, Connecticut, Michigan, Oregon, Arizona VICTOR: Illinois, Nevada, Texas, Delaware, Minnesota, Pennsylvania, Arkansas MARIANA: Indiana, New Hampshire, Utah, Florida, Mississippi, Rhode Island, Colorado DANIELA: Iowa, New Jersey, Vermont, Georgia, Missouri, South Carolina, Connecticut
+
+---
+
 
 # PARTE I – INTRODUCCION
 
