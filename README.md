@@ -73,6 +73,10 @@ Además de reportar la información suistancial, describa concisa y claramente e
 -   MARIANA: Indiana, New Hampshire, Utah, Florida, Mississippi, Rhode Island, Colorado
 -   DANIELA: Iowa, New Jersey, Vermont, Georgia, Missouri, South Carolina, Connecticut
 
+**Segunda districución de estados para consolidar el cuadro y el apéndice** SEBASTIAN: Alabama, Kansas, New Mexico HECTOR: Alaska, Kentucky, New York GUILLERMO: Arizona, Louisiana, North Carolina MIKE: Arkansas, Maine, North Dakota GONZALO: California, Maryland, Ohio PABLO: Colorado, Massachusetts, Oklahoma FERNANDA: Connecticut, Michigan, Oregon ISABEL: Delaware, Minnesota, Pennsylvania EMILIO: Florida, Mississippi, Rhode Island DIEGO: Georgia, Missouri, South Carolina ANDREA: Hawaii, Montana, South Dakota FELIPE: Idaho, Nebraska, Tennessee VICTOR: Illinois, Nevada, Texas MARIANA: Indiana, New Hampshire, Utah DANIELA: Iowa, New Jersey, Vermont Faltantes: Virginia, Washington, West Virginia, Wisconsin, Wyoming
+
+Repórtele al profesor la falta en en el documento de la segunda/tercera repetición de algún estado.
+
 ---
 
 
