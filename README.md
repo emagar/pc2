@@ -73,9 +73,26 @@ Además de reportar la información suistancial, describa concisa y claramente e
 -   MARIANA: Indiana, New Hampshire, Utah, Florida, Mississippi, Rhode Island, Colorado
 -   DANIELA: Iowa, New Jersey, Vermont, Georgia, Missouri, South Carolina, Connecticut
 
-**Segunda districución de estados para consolidar el cuadro y el apéndice** SEBASTIAN: Alabama, Kansas, New Mexico HECTOR: Alaska, Kentucky, New York GUILLERMO: Arizona, Louisiana, North Carolina MIKE: Arkansas, Maine, North Dakota GONZALO: California, Maryland, Ohio PABLO: Colorado, Massachusetts, Oklahoma FERNANDA: Connecticut, Michigan, Oregon ISABEL: Delaware, Minnesota, Pennsylvania EMILIO: Florida, Mississippi, Rhode Island DIEGO: Georgia, Missouri, South Carolina ANDREA: Hawaii, Montana, South Dakota FELIPE: Idaho, Nebraska, Tennessee VICTOR: Illinois, Nevada, Texas MARIANA: Indiana, New Hampshire, Utah DANIELA: Iowa, New Jersey, Vermont Faltantes: Virginia, Washington, West Virginia, Wisconsin, Wyoming
+**Segunda districución de estados para consolidar el cuadro y el apéndice**
 
-Repórtele al profesor la falta en en el documento de la segunda/tercera repetición de algún estado.
+-   SEBASTIAN: Alabama, Kansas, New Mexico
+-   HECTOR: Alaska, Kentucky, New York
+-   GUILLERMO: Arizona, Louisiana, North Carolina
+-   MIKE: Arkansas, Maine, North Dakota
+-   GONZALO: California, Maryland, Ohio
+-   PABLO: Colorado, Massachusetts, Oklahoma
+-   FERNANDA: Connecticut, Michigan, Oregon
+-   ISABEL: Delaware, Minnesota, Pennsylvania
+-   EMILIO: Florida, Mississippi, Rhode Island
+-   DIEGO: Georgia, Missouri, South Carolina
+-   ANDREA: Hawaii, Montana, South Dakota
+-   FELIPE: Idaho, Nebraska, Tennessee
+-   VICTOR: Illinois, Nevada, Texas
+-   MARIANA: Indiana, New Hampshire, Utah
+-   DANIELA: Iowa, New Jersey, Vermont
+-   Faltantes: Virginia, Washington, West Virginia, Wisconsin, Wyoming
+
+Repórte a [emagar@itam.mx](mailto:emagar@itam.mx) la falta en el documento de algún estado.
 
 ---
 
@@ -110,6 +127,7 @@ Repórtele al profesor la falta en en el documento de la segunda/tercera repetic
     -   cap. 1.5 "What is the future of British politics?" 9 pp.
 -   Cagé y Dewitte, [It Takes Money to Make MPs: 150 Years of British Campaign Spending](https://github.com/emagar/pc2/blob/master/lecturas/cage-dewitte-150-yrs-cmp-money-uk2021) 48 pp.
 -   Green et al. (2021) [Who Gets What: The Economy, Relative Gains, and Brexit](https://github.com/emagar/pc2/blob/master/lecturas/green-etal-Who-gets-what-brexit2021bjps.pdf) 19 pp.
+-   [How to read a scientific paper](https://github.com/emagar/pc2/blob/master/lecturas/How-to-read-a-scientific-paper.pdf) 10 pp.
 
 -   BBC [A-Z of Parliament](http://news.bbc.co.uk/2/hi/uk_news/politics/a-z_of_parliament/default.stm)
 
