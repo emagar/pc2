@@ -140,6 +140,7 @@ Repórte a [emagar@itam.mx](mailto:emagar@itam.mx) la falta en el documento de a
     -   cap. 3 "El modelo consensual de democracia," pp. 43-57;
 -   *The Economist* (2004): ["A special case: a survey of Switzerland"](https://github.com/emagar/pc2/blob/master/lecturas/economistSwitzerland.pdf) pp. 3-18.
 -   *The Economist* (2020): ["Is Switzerland in Europe?"](https://github.com/emagar/pc2/blob/master/lecturas/economist-swiss-svp2020.pdf) pp. 1-5.
+-   Documental [The Troubles: Unravelling Northern Ireland's 30-Year Conflict](https://www.youtube.com/watch?v=XAAmf6eTReQ) (35').
 
 
 ## Parlamentarismo multipartidista (16, 18 y 23 de septiembre)
