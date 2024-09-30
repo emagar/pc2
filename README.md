@@ -73,7 +73,7 @@ Además de reportar la información suistancial, describa concisa y claramente e
 -   MARIANA: Indiana, New Hampshire, Utah, Florida, Mississippi, Rhode Island, Colorado
 -   DANIELA: Iowa, New Jersey, Vermont, Georgia, Missouri, South Carolina, Connecticut
 
-**Segunda districución de estados para consolidar el cuadro y el apéndice**
+**Segunda distribución de estados para consolidar el cuadro y el apéndice**
 
 -   SEBASTIAN: Alabama, Kansas, New Mexico
 -   HECTOR: Alaska, Kentucky, New York
@@ -92,7 +92,11 @@ Además de reportar la información suistancial, describa concisa y claramente e
 -   DANIELA: Iowa, New Jersey, Vermont
 -   Faltantes: Virginia, Washington, West Virginia, Wisconsin, Wyoming
 
-Repórte a [emagar@itam.mx](mailto:emagar@itam.mx) la falta en el documento de algún estado.
+Reporte a [emagar@itam.mx](mailto:emagar@itam.mx) la falta en el documento de algún estado.
+
+**Tercer paso** (para el lunes 7 de octubre)
+
+En máximo tres páginas, reporte concisa pero claramente lo que hizo para construir el repositorio de instituciones de conformación del poder judicial. Mencione todo lo relevante para evaluar su esfuerzo: las fuentes consultadas, las herramientas utilizadas, los documentos obtenidos, las contradicciones y lagunas que enfrentó, los obstáculos para la síntesis, la claridad del resultado, y cualquier otro elemento relevante. Incluya un enlace a su contribución en el documento maestro y la hoja de cálculo. Este reporte formará parte del apéndice metodológico del repositorio elaborado colectivamente.
 
 ---
 
