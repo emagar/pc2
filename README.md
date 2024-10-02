@@ -153,17 +153,12 @@ En máximo tres páginas, reporte concisa pero claramente lo que hizo para const
     -   cap. 6 "Gabinetes: concentración frente a división del poder ejecutivo," 21 pp.
     -   cap. 11 "Parlamentos y congresos: concentración frente a división del poder legislativo," 13 pp.
 
--   Hancock, [*Politics in Europe*](https://github.com/emagar/pc2/blob/master/lecturas/hancock2015),
-    -   cap. 3.1 "The context of German politics," 28 pp.
-    -   cap. 3.2 "Where is the power?" 18 pp.
-    -   cap. 3.3 "Who has the power?" 28 pp.
-    -   cap. 3.4 "How is the power used?" 14 pp.
-    -   cap. 3.5 "What is the future of German politics?" 15 pp.
--   Putnam et al. ["Explaining Institutional Success"](https://github.com/emagar/pc2/blob/master/lecturas/hancock2015) 20 pp.
--   La Palombara, [*Democracy, Italian Style*](https://github.com/emagar/pc2/blob/master/lecturas/LaPalombaraDemItalianStyle.pdf),
+-   LaPalombara, [*Democracy, Italian Style*](https://github.com/emagar/pc2/blob/master/lecturas/LaPalombaraDemItalianStyle.pdf),
     -   cap. 1 "A democratic paradox" 24 pp.
     -   cap. 5 "Parties and elections: the Rashomon syndrome" 24 pp.
--   *The Economist* editorial 18/3/22, [A big defence budget shows Germany has woken up](https://github.com/emagar/pc2/blob/master/clases/04-parlam-alem/lit/economist-Germany-wake-up-18mar2022.pdf).
+-   Putnam et al. ["Explaining Institutional Success"](https://github.com/emagar/pc2/blob/master/lecturas/hancock2015) 20 pp.
+-   Laver y Shepsle (1990) ["Coalitions and cabinet government"](https://github.com/emagar/ep3/blob/master/lecturas/laver+shepsle1990.pdf) 18 pp.
+    -   [Winset calculator](https://github.com/emagar/ep3/tree/master/clases/03dem-parl/winsetCalc)
 
 
 ## Tipos de sistemas constitucionales  (25 de septiembre)
