@@ -47,56 +47,7 @@ Replantee la síntesis de sus siete estados a la luz de esta discusión, para en
 
 Además de reportar la información suistancial, describa concisa y claramente en su reporte el procedimiento mediante el que obtuvo la información, liste todas sus fuentes y guarde una copia digital de las fuentes primarias que obtuvo.
 
-**Recursos útiles**
-
--   Ballotpedia lista los estados de EE.UU. que nombran jueces y los que los eligen popularmente, con bastantes detalles de utilidad.
-
-<https://ballotpedia.org/Judicial_selection_in_the_states>
-
--   Las herramientas de IA generativa (p.ej. chatGPT) son útiles, pero deberá tratar lo que arrojan como un primer borrador solamente. Deberá confirmar/complementar esto con una visita a otras fuentes, como la página web de gobierno del estado en cuestión. Así podrá determinar rasgos imprecisos o faltantes.
-
-**Distribución de los estados**
-
--   SEBASTIAN: Alabama, Kansas, New Mexico, Virginia, Hawaii, Montana, South Dakota
--   HECTOR: Alaska, Kentucky, New York, Washington, Idaho, Nebraska, Tennessee
--   GUILLERMO: Arizona, Louisiana, North Carolina, West Virginia, Illinois, Nevada, Texas
--   MIKE: Arkansas, Maine, North Dakota, Wisconsin, Indiana, New Hampshire, Utah
--   GONZALO: California, Maryland, Ohio, Wyoming, Iowa, New Jersey, Vermont
--   PABLO: Colorado, Massachusetts, Oklahoma, Alabama, Kansas, New Mexico, Virginia
--   FERNANDA: Connecticut, Michigan, Oregon, Alaska, Kentucky, New York, Washington
--   ISABEL: Delaware, Minnesota, Pennsylvania, Arizona, Louisiana, North Carolina, West Virginia
--   EMILIO: Florida, Mississippi, Rhode Island, Arkansas, Maine, North Dakota, Wisconsin
--   DIEGO: Georgia, Missouri, South Carolina, California, Maryland, Ohio, Wyoming
--   ANDREA: Hawaii, Montana, South Dakota, Colorado, Massachusetts, Oklahoma, Alabama
--   FELIPE: Idaho, Nebraska, Tennessee, Connecticut, Michigan, Oregon, Arizona
--   VICTOR: Illinois, Nevada, Texas, Delaware, Minnesota, Pennsylvania, Arkansas
--   MARIANA: Indiana, New Hampshire, Utah, Florida, Mississippi, Rhode Island, Colorado
--   DANIELA: Iowa, New Jersey, Vermont, Georgia, Missouri, South Carolina, Connecticut
-
-**Segunda distribución de estados para consolidar el cuadro y el apéndice**
-
--   SEBASTIAN: Alabama, Kansas, New Mexico
--   HECTOR: Alaska, Kentucky, New York
--   GUILLERMO: Arizona, Louisiana, North Carolina
--   MIKE: Arkansas, Maine, North Dakota
--   GONZALO: California, Maryland, Ohio
--   PABLO: Colorado, Massachusetts, Oklahoma
--   FERNANDA: Connecticut, Michigan, Oregon
--   ISABEL: Delaware, Minnesota, Pennsylvania
--   EMILIO: Florida, Mississippi, Rhode Island
--   DIEGO: Georgia, Missouri, South Carolina
--   ANDREA: Hawaii, Montana, South Dakota
--   FELIPE: Idaho, Nebraska, Tennessee
--   VICTOR: Illinois, Nevada, Texas
--   MARIANA: Indiana, New Hampshire, Utah
--   DANIELA: Iowa, New Jersey, Vermont
--   Faltantes: Virginia, Washington, West Virginia, Wisconsin, Wyoming
-
-Reporte a [emagar@itam.mx](mailto:emagar@itam.mx) la falta en el documento de algún estado.
-
-**Tercer paso** (para el lunes 7 de octubre)
-
-En máximo tres páginas, reporte concisa pero claramente lo que hizo para construir el repositorio de instituciones de conformación del poder judicial. Mencione todo lo relevante para evaluar su esfuerzo: las fuentes consultadas, las herramientas utilizadas, los documentos obtenidos, las contradicciones y lagunas que enfrentó, los obstáculos para la síntesis, la claridad del resultado, y cualquier otro elemento relevante. Incluya un enlace a su contribución en el documento maestro y la hoja de cálculo. Este reporte formará parte del apéndice metodológico del repositorio elaborado colectivamente.
+[Aquí el blog que albergará el repositorio](https://emagar.github.io/els-jud/)
 
 ---
 
@@ -166,6 +117,8 @@ En máximo tres páginas, reporte concisa pero claramente lo que hizo para const
 -   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ) cap. 7 "Relaciones entre el ejecutivo y el legislativo: modelos de predominio y de equilibrio de poder," pp. 117-139.
 -   Linz, ["The Perils of Presidentialism"](https://github.com/emagar/pc2/blob/master/lecturas/linz-peligros.pdf) pp. 51-69.
 
+**EL TRABAJO PARCIAL se programa alrededor de estas fechas (anunciaré el formato con anterioridad)**
+
 
 ## Presidencialismo  (30 de septiembre, 2, 7 y 9 de octubre)
 
@@ -179,8 +132,6 @@ En máximo tres páginas, reporte concisa pero claramente lo que hizo para const
 
 -   Cheibub, Przeworski y Saiegh, [Government Coalitions and Legislative Success Under Presidentialism and Parliamentarism](https://github.com/emagar/pc2/blob/master/lecturas/cheibubetalCoalSuccess2004bjps.pdf) 20 pp.
 -   Jacobson, *The Politics of Congressional Elections*, caps. 1-3, 50 pp.
-
-**EL TRABAJO PARCIAL se programa alrededor de estas fechas (anunciaré el formato con anterioridad)**
 
 
 ## Semipresidencialismo (14 y 16 de octubre)
