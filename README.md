@@ -18,7 +18,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón B-2
 
 *Días de asueto*: 2024-09-16 (Independencia) y 2024-11-18 (Revolución).
 
-*No habrá clase*: 2024-09-04, 2024-10-28&#x2013;2024-10-30. Coordinaré la reposición de clases faltantes más adelante.
+*No habrá clase*: 2024-09-04
 
 *Semestre termina*: 2024-12-21.
 
