@@ -26,6 +26,18 @@ Lunes y miércoles 8:30&#x2013;10:00, salón B-2
 
 ---
 
+**Trabajo final**
+
+Elija una de dos alternativas. El trabajo es individual. Hará su entrega el día y hora de inicio que asigne Dirección Escolar para el examen final. Además de un reporte, hará una breve presentación en clase de su argumento y sus hallazgos. Encontrará recomendaciones para preparar una presentación [aquí](https://github.com/emagar/ep3/blob/master/tips-presentation/tips.md) y [aquí](https://github.com/emagar/ep3/blob/master/tips-presentation/10-rules-oral-pres.jpeg).
+
+**Primera alternativa**: [¿Qué gobierno se formará en Japón?](https://github.com/emagar/pc2/blob/master/final/final-japon.md)
+
+**Segunda alternativa**: [¿Cómo se conducirán los jueces?](https://github.com/emagar/pc2/blob/master/final/final-jueces.md)
+
+¡Mucha suerte!
+
+---
+
 **Trabajo parcial** Investigue los siete estados de la Unión Americana que le asigné en la lista más abajo. Para cada uno, documente y sintetice el procedimiento de nombramiento de los jueces estatales:
 
 -   Cuáles y cuántos son los puestos en disputa (p.ej. Suprema Corte, Corte de Apelaciones, etc.)
@@ -108,7 +120,7 @@ Además de reportar la información suistancial, describa concisa y claramente e
     -   cap. 1 "A democratic paradox" 24 pp.
     -   cap. 5 "Parties and elections: the Rashomon syndrome" 24 pp.
 -   Putnam et al. ["Explaining Institutional Success"](https://github.com/emagar/pc2/blob/master/lecturas/hancock2015) 20 pp.
--   Laver y Shepsle (1990) ["Coalitions and cabinet government"](https://github.com/emagar/ep3/blob/master/lecturas/laver+shepsle1990.pdf) 18 pp.
+-   Laver y Shepsle (1990) ["Coalitions and cabinet government"](https://github.com/emagar/pc2/blob/master/lecturas/laver+shepsle1990.pdf) 18 pp.
     -   [Winset calculator](https://github.com/emagar/ep3/tree/master/clases/03dem-parl/winsetCalc)
 
 
