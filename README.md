@@ -20,9 +20,9 @@ Lunes y miércoles 8:30&#x2013;10:00, salón B-2
 
 *No habrá clase*: 2024-09-04
 
-*Semestre termina*: 2024-12-21.
+*Semestre termina*: 2024-12-21
 
-*Exámenes finales*: del 2024-12-09 al 2024-12-21.
+*Examen final*: 2024-12-18 16:00-19:00
 
 ---
 
