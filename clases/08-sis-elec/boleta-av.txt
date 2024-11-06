@@ -2,7 +2,7 @@ SI HOY FUERA LA ELECCION PARA MINISTROS DE LA SCJN CON VOTO ALTERNATIVO
 ¿COMO VOTARIA?  (No olvide marcar TODAS sus preferencias para que su
 voto cuente)
 
-  Candidatura                   Orden (1=mejor) 
+Candidatura                   Orden (1=mejor) 
 -----------------------------------------------
  ALBERTO PEREZ DAYAN                           
 -----------------------------------------------
