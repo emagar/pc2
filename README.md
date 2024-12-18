@@ -22,7 +22,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón B-2
 
 *Semestre termina*: 2024-12-21
 
-*Examen final*: 2024-12-18 16:00-19:00
+*Examen final*: 2024-12-18 16:00-19:00 salón 111
 
 ---
 
