@@ -10,11 +10,13 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 104
 
 *Nota*: La página del curso es <https://github.com/emagar/pc2/>. Alberga este temario y las lecturas.
 
-*Objetivo*: El segundo curso de la serie de política comparada del programa está dedicado al estudio de las instituciones políticas. Revisaremos dos temas clásicos en la política comparada: las implicaciones que tienen distintas formas de gobierno democrático en la vida de la ciudadanía; y el análisis de los sistemas electoral y de partidos, haciendo hincapié en su interacción.
+*Objetivo*: El segundo curso de la serie de política comparada del programa está dedicado al estudio de las instituciones políticas. Revisaremos dos temas clásicos en la disciplina: las formas de gobierno democrático que coexisten en el mundo; y los sistemas electoral y de partidos, haciendo hincapié en su interacción. En ambos casos, analizaremos para detectar las grandes implicaciones que tiene la variación institucional en la vida de la ciudadanía.
 
 *Horas de oficina*: lunes y miércoles de 13:00 a 13:45, o con cita.
 
-*Evaluación*: Habrá una entrega preliminar, un trabajo y un examen. En su momento anunciaré los formatos. Contarán 20%, 40% y 20% de la calificación final, respectivamente. El 20% restante valorará su participación y desempeño en clase, en particular el conocimiento de las lecturas.
+*Evaluación*: Habrá un examen parcial y otro final. En su momento anunciaré los formatos. Contarán 40% de su calificación final cada uno. El 20% restante valorará su participación y desempeño en clase, en particular el conocimiento y discusión crítica de las lecturas.
+
+*El buen uso de la inteligencia artificial generativa*: Quien usa las herramientas de IAgen debe también ser capaz de verificar y evaluar críticamente lo que nos arroja. Las herramientas son ya ubicuas y tienen un potencial para disparar la productividad, pero conllevan riesgos para quien las usa sin cierto escepticismo, sin bases éticas o sin transparencia. [Este artículo](https://www.tandfonline.com/doi/full/10.1080/0142159X.2025.2607513) ofrece lineamientos interesantes en el contexto de la investigación en salud. Léalo para el miércoles 12 de agosto, nos permitirá establecer lineamientos para este curso.
 
 *Días de asueto*: miércoles 16 de septiembre (Grito), lunes 2 de noviembre (Muertos) y lunes 16 de noviembre (Revolución).
 
