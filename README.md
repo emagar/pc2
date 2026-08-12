@@ -32,12 +32,13 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 104
 # PARTE I – INTRODUCCION
 
 
-## Instituciones y el análisis institucional  (12 de agosto)
+## Instituciones y el análisis institucional  (12 de agosto y 17 de agosto)
 
 -   Myerson, ["Analysis of democratic Institutions: Structure, Conduct, and Performance,"](https://github.com/emagar/pc2/blob/master/lecturas/myersonInstAnalysis1995jep.pdf) 12 pp.
+-   North, [*Institutions, Institutional Choice, and Economic performance*](https://github.com/emagar/pc2/blob/master/lecturas/north1990caps1-3.pdf) (1990) caps. 1&#x2013;3 24 pp.
 
 
-## Dos modelos de democracia (17 de agosto)
+## Dos modelos de democracia (19 de agosto)
 
 -   Stasavage (2022) ["Democracy"](https://github.com/emagar/pc2/blob/master/lecturas/stasavage-Democracy2022.pdf) 21 pp.
 -   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ)
@@ -48,7 +49,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 104
 # PARTE II – LA DEMOCRACIA Y SUS FORMAS
 
 
-## El modelo Westminster de democracia  (19, 24, 26 y 31 de agosto)
+## El modelo Westminster de democracia  (24, 26 y 31 de agosto)
 
 -   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ)
     -   cap. 2 "El modelo Westminster de democracia," pp. 21-41 y pp. 117-124.
