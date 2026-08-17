@@ -10,7 +10,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 104
 
 *Nota*: La página del curso es <https://github.com/emagar/pc2/>. Alberga este temario y las lecturas.
 
-*Objetivo*: El segundo curso de la serie de política comparada del programa está dedicado al estudio de las instituciones políticas. Revisaremos dos temas clásicos en la disciplina: las formas de gobierno democrático que coexisten en el mundo; y los sistemas electoral y de partidos, haciendo hincapié en su interacción. En ambos casos, analizaremos para detectar las grandes implicaciones que tiene la variación institucional en la vida de la ciudadanía.
+*Objetivo*: El segundo curso de la serie de política comparada del programa de cpol está dedicado al estudio de las instituciones políticas. Revisaremos dos temas clásicos en la disciplina: las formas de gobierno democrático que coexisten en el mundo; y los sistemas electoral y de partidos, haciendo hincapié en su interacción. En ambos casos, analizaremos para detectar las grandes implicaciones que tiene la variación institucional en la vida de la ciudadanía.
 
 *Horas de oficina*: lunes y miércoles de 13:00 a 13:45, o con cita.
 
@@ -49,7 +49,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 104
 # PARTE II – LA DEMOCRACIA Y SUS FORMAS
 
 
-## El modelo Westminster de democracia  (24, 26 y 31 de agosto)
+## El modelo Westminster de democracia  (24, 26, 31 de agosto y 2 de septiembre)
 
 -   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ)
     -   cap. 2 "El modelo Westminster de democracia," pp. 21-41 y pp. 117-124.
@@ -59,7 +59,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 104
     -   cap. 1.3 "Who has the power?" 24 pp.
     -   cap. 1.4 "How is the power used?" 15 pp.
     -   cap. 1.5 "What is the future of British politics?" 9 pp.
--   Cagé y Dewitte, [It Takes Money to Make MPs: 150 Years of British Campaign Spending](https://github.com/emagar/pc2/blob/master/lecturas/cage-dewitte-150-yrs-cmp-money-uk2021) 48 pp.
+
 -   Green et al. (2021) [Who Gets What: The Economy, Relative Gains, and Brexit](https://github.com/emagar/pc2/blob/master/lecturas/green-etal-Who-gets-what-brexit2021bjps.pdf) 19 pp.
 -   [How to read a scientific paper](https://github.com/emagar/pc2/blob/master/lecturas/How-to-read-a-scientific-paper.pdf) 10 pp.
 
