@@ -10,7 +10,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 104
 
 *Nota*: La página del curso es <https://github.com/emagar/pc2/>. Alberga este temario y las lecturas.
 
-*Objetivo*: El segundo curso de la serie de política comparada del programa de cpol está dedicado al estudio de las instituciones políticas. Revisaremos dos temas clásicos en la disciplina: las formas de gobierno democrático que coexisten en el mundo; y los sistemas electoral y de partidos, haciendo hincapié en su interacción. En ambos casos, analizaremos para detectar las grandes implicaciones que tiene la variación institucional en la vida de la ciudadanía.
+*Objetivo*: El segundo curso de la serie de política comparada del programa está dedicado al estudio de las instituciones políticas. Revisaremos dos temas clásicos en la disciplina: las formas de gobierno democrático que coexisten en el mundo; y los sistemas electoral y de partidos, haciendo hincapié en su interacción. En ambos casos, analizaremos para detectar las grandes implicaciones que tiene la variación institucional en la vida de la ciudadanía.
 
 *Horas de oficina*: lunes y miércoles de 13:00 a 13:45, o con cita.
 
@@ -32,7 +32,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 104
 # PARTE I – INTRODUCCION
 
 
-## Instituciones y el análisis institucional  (12 de agosto y 17 de agosto)
+## Instituciones y su análisis (12 de agosto y 17 de agosto)
 
 -   Myerson, ["Analysis of democratic Institutions: Structure, Conduct, and Performance,"](https://github.com/emagar/pc2/blob/master/lecturas/myersonInstAnalysis1995jep.pdf) 12 pp.
 -   North, [*Institutions, Institutional Choice, and Economic performance*](https://github.com/emagar/pc2/blob/master/lecturas/north1990caps1-3.pdf) (1990) caps. 1&#x2013;3 24 pp.
