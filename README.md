@@ -60,9 +60,9 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 104
     -   cap. 1.4 "How is the power used?" 15 pp.
     -   cap. 1.5 "What is the future of British politics?" 9 pp.
 
+-   [How to read a scientific paper](https://github.com/emagar/pc2/blob/master/lecturas/How-to-read-a-scientific-paper.pdf) 10 pp.
 -   Green et al. (2021) [Who Gets What: The Economy, Relative Gains, and Brexit](https://github.com/emagar/pc2/blob/master/lecturas/green-etal-Who-gets-what-brexit2021bjps.pdf) 19 pp.
 -   Cox y Shapiro (2025) [Party Realignment and Single-Issue Voters](https://github.com/emagar/pc2/blob/master/lecturas/cox-shapiro-Single-issue-voters-brexit2025.pdf) 13 pp.
-
 -   *The Economist* [Reform UK tries to get serious, 20/8/2026](https://github.com/emagar/pc2/blob/master/actualidad/economist-Reform-uk-serious-202608.pdf).
 -   *The Economist* [British business has failed to make its voice heard, 13/8/2026](https://github.com/emagar/pc2/blob/master/actualidad/economist-Burnham-Business-202608.pdf)
 -   BBC [A-Z of Parliament](http://news.bbc.co.uk/2/hi/uk_news/politics/a-z_of_parliament/default.stm)
