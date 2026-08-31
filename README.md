@@ -28,6 +28,12 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 104
 
 ---
 
+**Tarea para el miércoles 2 de septiembre**
+
+A partir de su propia experiencia, especifique la regla informal del semáforo vial en la Ciudad de México. Contrástela con la regla formal. Plasme su respuesta concisa y clara en una página. Cuando tenga su respuesta, pídale a la inteligancia artificial que le conteste la misma pregunta. Elabore similitudes y diferencias.
+
+---
+
 
 # PARTE I – INTRODUCCION
 
