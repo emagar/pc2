@@ -28,7 +28,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 104
 
 ---
 
-**Tarea para el miércoles 2 de septiembre**
+**Tarea para el lunes 7 de septiembre**
 
 A partir de su propia experiencia, especifique la regla informal del semáforo vial en la Ciudad de México. Contrástela con la regla formal. Plasme su respuesta concisa y clara en una página. Cuando tenga su respuesta, pídale a la inteligancia artificial que le conteste la misma pregunta. Elabore similitudes y diferencias.
 
@@ -55,7 +55,7 @@ A partir de su propia experiencia, especifique la regla informal del semáforo v
 # PARTE II – LA DEMOCRACIA Y SUS FORMAS
 
 
-## El modelo Westminster de democracia  (24, 26, 31 de agosto y 2 de septiembre)
+## El modelo Westminster de democracia  (24, 26, 31 de agosto, 2 y 7 de septiembre)
 
 -   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ)
     -   cap. 2 "El modelo Westminster de democracia," pp. 21-41 y pp. 117-124.
@@ -74,7 +74,7 @@ A partir de su propia experiencia, especifique la regla informal del semáforo v
 -   BBC [A-Z of Parliament](http://news.bbc.co.uk/2/hi/uk_news/politics/a-z_of_parliament/default.stm)
 
 
-## El modelo consensual de democracia (2 y 7 de septiembre)
+## El modelo consensual de democracia (9 de septiembre)
 
 -   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ),
     -   cap. 3 "El modelo consensual de democracia," pp. 43-57;
@@ -83,7 +83,7 @@ A partir de su propia experiencia, especifique la regla informal del semáforo v
 -   Documental [The Troubles: Unravelling Northern Ireland's 30-Year Conflict](https://www.youtube.com/watch?v=XAAmf6eTReQ) (35').
 
 
-## Parlamentarismo multipartidista (9, 14 y 21 de septiembre)
+## Parlamentarismo multipartidista (14 y 21 de septiembre)
 
 -   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ),
     -   cap. 6 "Gabinetes: concentración frente a división del poder ejecutivo," 21 pp.
