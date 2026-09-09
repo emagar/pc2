@@ -28,9 +28,9 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 104
 
 ---
 
-**Tarea para el lunes 7 de septiembre**
+**Preparación para el trabajo parcial** (9/9/2026)
 
-A partir de su propia experiencia, especifique la regla informal del semáforo vial en la Ciudad de México. Contrástela con la regla formal. Plasme su respuesta concisa y clara en una página. Cuando tenga su respuesta, pídale a la inteligancia artificial que le conteste la misma pregunta. Elabore similitudes y diferencias.
+Revise el paper de [Schofield y Sened](https://github.com/emagar/pc2/blob/master/parcial/schofield.sened.multipartyIsrael2005bjps.pdf) para hacer un mapa abstracto del sistema de partidos israelí (corresponde al año c2000, pero los sustancial no ha cambiado). Haga una investigación de lo que está aconteciendo en las campañas rumbo a la elección general del 27 de octubre. Vendrán más instrucciones próximamente.
 
 ---
 
