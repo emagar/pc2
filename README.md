@@ -92,7 +92,7 @@ Revise el paper de [Schofield y Sened](https://github.com/emagar/pc2/blob/master
 -   LaPalombara, [*Democracy, Italian Style*](https://github.com/emagar/pc2/blob/master/lecturas/LaPalombaraDemItalianStyle.pdf),
     -   cap. 1 "A democratic paradox" 24 pp.
     -   cap. 5 "Parties and elections: the Rashomon syndrome" 24 pp.
--   Putnam et al. ["Explaining Institutional Success"](https://github.com/emagar/pc2/blob/master/lecturas/hancock2015) 20 pp.
+-   Putnam et al. (1983) ["Explaining Institutional Success"](https://github.com/emagar/pc2/blob/master/lecturas/putnam-et-al-Institutional-success-italy1983apsr.pdf) 20 pp.
 -   Laver y Shepsle (1990) ["Coalitions and cabinet government"](https://github.com/emagar/pc2/blob/master/lecturas/laver+shepsle1990.pdf) 18 pp.
     -   [Winset calculator](https://github.com/emagar/ep3/tree/master/clases/03dem-parl/winsetCalc)
 
