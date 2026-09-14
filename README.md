@@ -28,9 +28,9 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 104
 
 ---
 
-**Preparación para el trabajo parcial** (9/9/2026)
+**Preparación para el trabajo parcial** (14/9/2026)
 
-Revise el paper de [Schofield y Sened](https://github.com/emagar/pc2/blob/master/parcial/schofield.sened.multipartyIsrael2005bjps.pdf) para hacer un mapa abstracto del sistema de partidos israelí (corresponde al año c2000, pero los sustancial no ha cambiado). Haga una investigación de lo que está aconteciendo en las campañas rumbo a la elección general del 27 de octubre. Vendrán más instrucciones próximamente.
+Revise el paper de [Schofield y Sened](https://github.com/emagar/pc2/blob/master/parcial/schofield.sened.multipartyIsrael2005bjps.pdf) que muestra un mapa del sistema de partidos israelí (corresponde al año c2000, pero los sustancial ha cambiado poco). Investigue lo que está aconteciendo en las campañas rumbo a la elección general del 27 de octubre próximo para identificar los ejes que dividen a los partidos. En el trasfondo está el conflicto en Oriente Medio (lo que llaman \`\`seguridad'' en el paper) que sube y baja de intensidad, pero haga especial hincapié en los demás temas internos que caracterizan a la democracia israelí. Recopile, ordene y sintetice notas y artículos que sirvan para preparar un reporte de la elección general. Vendrán más instrucciones próximamente.
 
 ---
 
@@ -83,7 +83,7 @@ Revise el paper de [Schofield y Sened](https://github.com/emagar/pc2/blob/master
 -   Documental [The Troubles: Unravelling Northern Ireland's 30-Year Conflict](https://www.youtube.com/watch?v=XAAmf6eTReQ) (35').
 
 
-## Parlamentarismo multipartidista (14 y 21 de septiembre)
+## El parlamentarismo multipartidista (14 y 21 de septiembre)
 
 -   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ),
     -   cap. 6 "Gabinetes: concentración frente a división del poder ejecutivo," 21 pp.
@@ -105,7 +105,7 @@ Revise el paper de [Schofield y Sened](https://github.com/emagar/pc2/blob/master
 **EL TRABAJO PARCIAL se programa alrededor de estas fechas (anunciaré el formato con anterioridad)**
 
 
-## Presidencialismo  (28 y 30 de septiembre, 5 y 7 de octubre)
+## El presidencialismo  (28 y 30 de septiembre, 5 y 7 de octubre)
 
 -   Constitución Política de los Estados Unidos Mexicanos, entera (compre un ejemplar).
 -   Hamilton, Madison y Jay, *El Federalista*, números [10](https://github.com/emagar/pc2/blob/master/lecturas/FederalistaX.pdf), [51](https://github.com/emagar/pc2/blob/master/lecturas/FederalistaLI.pdf) y [78](https://github.com/emagar/pc2/blob/master/lecturas/FederalistaLXXVIII.pdf), 24 pp.
@@ -119,7 +119,7 @@ Revise el paper de [Schofield y Sened](https://github.com/emagar/pc2/blob/master
 -   Jacobson, *The Politics of Congressional Elections*, caps. 1-3, 50 pp.
 
 
-## Semipresidencialismo (12 y 14 de octubre)
+## El semipresidencialismo (12 y 14 de octubre)
 
 -   Ertman, *The Birth of Leviathan*, [cap 1](https://github.com/emagar/paper-mirror/blob/master/lit/ertman.1997.birthLeviathan-ch1.pdf), 34 pp.
 -   Degrave, [Local Rule, Elites, and Popular Grievances: Evidence from *Ancien Régime* France](https://github.com/emagar/paper-mirror/blob/master/lit/degrave-paysdetat2022jhpe.pdf), 30 pp.
