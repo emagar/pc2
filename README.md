@@ -28,9 +28,9 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 104
 
 ---
 
-**Preparación para el trabajo parcial** (14/9/2026)
+**Instrucciones para el trabajo parcial** (28/9/2026)
 
-Revise el paper de [Schofield y Sened](https://github.com/emagar/pc2/blob/master/parcial/schofield.sened.multipartyIsrael2005bjps.pdf) que muestra un mapa del sistema de partidos israelí (corresponde al año c2000, pero los sustancial ha cambiado poco). Investigue lo que está aconteciendo en las campañas rumbo a la elección general del 27 de octubre próximo para identificar los ejes que dividen a los partidos. En el trasfondo está el conflicto en Oriente Medio (lo que llaman \`\`seguridad'' en el paper) que sube y baja de intensidad, pero haga especial hincapié en los demás temas internos que caracterizan a la democracia israelí. Recopile, ordene y sintetice notas y artículos que sirvan para preparar un reporte de la elección general. Vendrán más instrucciones próximamente.
+Las encontrará en [este enlace](https://github.com/emagar/pc2/blob/master/final/elec-isr-2026.md).
 
 ---
 
