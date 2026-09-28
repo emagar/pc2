@@ -1,16 +1,3 @@
-- [Examen parcial](#orgc035972)
-  - [Consulte estos enlaces, tienen recursos útiles para investigar el caso](#orgca7a78a)
-    - [Paper sintético](#orgcd85cee)
-    - [Página Wikipedia](#org05370f1)
-    - [Times of Israel](#orgb49ba74)
-    - [Globes](#org06877ea)
-    - [Fruits and votes](#org2c364be)
-    - [La Knesset 1949&#x2013;2021](#org1bf62de)
-    - [Película Golda (Dir. Nattiv, 2023)](#org2536e26)
-    - [En substack sin paga](#org323b2f5)
-    - [Partidos, plataformas y candidatos 2022 y antes](#orgba27bef)
-- [Examen final](#orgdfa2ef8)
-
 **Trabajo parcial**
 
 La evaluación del curso será una investigación y un análisis de la elección general que Israel celebrará el 27 de octubre próximo. El examen parcial consistirá en la entrega de un reporte general de la elección de la 26a Knesset. El examen final será un análisis de la negociación para hacer el nuevo gobierno israelí.
