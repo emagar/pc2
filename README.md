@@ -30,7 +30,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 104
 
 **Instrucciones para el trabajo parcial** (28/9/2026)
 
-Las encontrará en [este enlace](https://github.com/emagar/pc2/blob/master/final/elec-isr-2026.md).
+Las encontrará en [este enlace](https://github.com/emagar/pc2/blob/master/parcial/elec-isr-2026.md).
 
 ---
 
