@@ -1,7 +1,7 @@
-- [Examen parcial](#orgdd53671)
-  - [Consulte estos enlaces, tienen recursos útiles para investigar el caso](#orgb971a49)
-  - [Algunos desarrollos relevantes](#orgc6ab157)
-- [Examen final](#org5ea91f0)
+- [Examen parcial](#orgbb2f46b)
+  - [Consulte estos enlaces, tienen recursos útiles para investigar el caso](#org2c49226)
+  - [Algunos desarrollos relevantes](#org99bfe11)
+- [Examen final](#org3dc25c1)
 
 **Trabajo parcial**
 
@@ -10,7 +10,7 @@
 La evaluación del curso será una investigación y un análisis de la elección general que Israel celebrará el 27 de octubre próximo. El examen parcial consistirá en la entrega de un reporte general de la elección de la 26a Knesset. El examen final será un análisis de la negociación para hacer el nuevo gobierno israelí.
 
 
-<a id="orgdd53671"></a>
+<a id="orgbb2f46b"></a>
 
 # Examen parcial
 
@@ -28,7 +28,7 @@ A grandes rasgos, su reporte incluirá lo siguiente:
 -   una conclusión que recapitule la investigación.
 
 
-<a id="orgb971a49"></a>
+<a id="org2c49226"></a>
 
 ## Consulte estos enlaces, tienen recursos útiles para investigar el caso
 
@@ -63,7 +63,7 @@ A grandes rasgos, su reporte incluirá lo siguiente:
 ### La Knesset 1949&#x2013;2021
 
 -   Versión en pdf no tan bonita: [aquí](https://github.com/emagar/pc2/blob/master/actualidad/The-evolution-of-Israeli-politics.pdf)
--   Versión bonite pero con *paywall*: <https://www.economist.com/the-economist-explains/2021/03/27/the-evolution-of-israeli-politics>
+-   Versión bonita pero con *paywall*: <https://www.economist.com/the-economist-explains/2021/03/27/the-evolution-of-israeli-politics>
 
 
 ### Película Golda (Dir. Nattiv, 2023)
@@ -81,14 +81,14 @@ A grandes rasgos, su reporte incluirá lo siguiente:
 -   <https://en.idi.org.il/israeli-elections-and-parties/elections/2022/>
 
 
-<a id="orgc6ab157"></a>
+<a id="org99bfe11"></a>
 
 ## Algunos desarrollos relevantes
 
--   AirDubai (30oct2026): Los hechos que reportan hoy los medios de todo el mundo ocurrieron mientras estabamos en clase ayer. Habría sido una buena ilustración del ejercicio para su trabajo, los hechos ya se volvieron parte de las campañas. ¿Qué habría ocurrido si el piloto apuñalado no hubiera conseguido abrir la puerta de la cabina mientras caía la aeronave? Si asesoraran a Bibi, cuya campaña afirma que sólo su liderazgo puede contener las amenazas contra Israel, ¿cómo manejarían la comunicación y el mensaje de los hechos? ¿Y si asesoraran a Eisenkot? ¿Hay eco de esto en las notas?
+-   FlyDubai (30oct2026): Los hechos que reportan hoy los medios de todo el mundo ocurrieron mientras estabamos en clase ayer. Habría sido una buena ilustración del ejercicio para su trabajo, los hechos ya se volvieron parte de las campañas. ¿Qué habría ocurrido si el piloto apuñalado no hubiera conseguido abrir la puerta de la cabina mientras caía la aeronave? Si asesoraran a Bibi, cuya campaña afirma que sólo su liderazgo puede contener las amenazas contra Israel, ¿cómo manejarían la comunicación y el mensaje de los hechos? ¿Y si asesoraran a Eisenkot? ¿Hay eco de esto en las notas?
 
 
-<a id="org5ea91f0"></a>
+<a id="org3dc25c1"></a>
 
 # Examen final
 
