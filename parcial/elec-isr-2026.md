@@ -1,9 +1,25 @@
+- [Examen parcial](#orgfb6e6e0)
+  - [Consulte estos enlaces, tienen recursos útiles para investigar el caso](#orgd3a5685)
+    - [Paper sintético](#orgf32add8)
+    - [Página Wikipedia](#org049aab7)
+    - [Times of Israel](#org16aac3c)
+    - [Globes](#org2cfea8d)
+    - [Fruits and votes](#org0fedd1d)
+    - [La Knesset 1949&#x2013;2021](#orge2b5bee)
+    - [Película Golda (Dir. Nattiv, 2023)](#org6132454)
+    - [En substack sin paga](#org7ddd7e3)
+    - [Partidos, plataformas y candidatos 2022 y antes](#org49e6926)
+  - [Algunos desarrollos relevantes](#orgd13a33a)
+- [Examen final](#org6f5af1a)
+
 **Trabajo parcial**
+
+(Actualizado 1oct2026)
 
 La evaluación del curso será una investigación y un análisis de la elección general que Israel celebrará el 27 de octubre próximo. El examen parcial consistirá en la entrega de un reporte general de la elección de la 26a Knesset. El examen final será un análisis de la negociación para hacer el nuevo gobierno israelí.
 
 
-<a id="orgc035972"></a>
+<a id="orgfb6e6e0"></a>
 
 # Examen parcial
 
@@ -21,19 +37,19 @@ A grandes rasgos, su reporte incluirá lo siguiente:
 -   una conclusión que recapitule la investigación.
 
 
-<a id="orgca7a78a"></a>
+<a id="orgd3a5685"></a>
 
 ## Consulte estos enlaces, tienen recursos útiles para investigar el caso
 
 
-<a id="orgcd85cee"></a>
+<a id="orgf32add8"></a>
 
 ### Paper sintético
 
 [Schofield y Sened](https://github.com/emagar/pc2/blob/master/parcial/schofield.sened.multipartyIsrael2005bjps.pdf) muestran un mapa del sistema de partidos israelí. Corresponde al año c2000, pero los sustancial ha cambiado poco. Intentes reconstruir los ejes principales y los secundarios que segmentan hoy a los partidos y sus votantes. En el trasfondo ha estado y está el conflicto en Oriente Medio (lo que llaman \`\`seguridad'' en el paper) que sube y baja de intensidad, pero haga especial hincapié en los demás temas internos que caracterizan a la democracia israelí.
 
 
-<a id="org05370f1"></a>
+<a id="org049aab7"></a>
 
 ### Página Wikipedia
 
@@ -41,7 +57,7 @@ A grandes rasgos, su reporte incluirá lo siguiente:
 -   El agregador de encuestas de intención de voto: <https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Israeli_legislative_election>
 
 
-<a id="orgb49ba74"></a>
+<a id="org16aac3c"></a>
 
 ### Times of Israel
 
@@ -49,21 +65,21 @@ A grandes rasgos, su reporte incluirá lo siguiente:
 -   Primera plana: <https://www.timesofisrael.com/>
 
 
-<a id="org06877ea"></a>
+<a id="org2cfea8d"></a>
 
 ### Globes
 
 -   Periódico con perspectiva de negocios: <https://en.globes.co.il/en/>
 
 
-<a id="org2c364be"></a>
+<a id="org0fedd1d"></a>
 
 ### Fruits and votes
 
 -   El blog de Matt Shugart dedica una parte a Israel: <https://fruitsandvotes.wordpress.com/category/euro-mediterranean/israel/>
 
 
-<a id="org1bf62de"></a>
+<a id="orge2b5bee"></a>
 
 ### La Knesset 1949&#x2013;2021
 
@@ -71,28 +87,35 @@ A grandes rasgos, su reporte incluirá lo siguiente:
 -   Versión bonite pero con *paywall*: <https://www.economist.com/the-economist-explains/2021/03/27/the-evolution-of-israeli-politics>
 
 
-<a id="org2536e26"></a>
+<a id="org6132454"></a>
 
 ### Película Golda (Dir. Nattiv, 2023)
 
 -   La encuentran en Amazon prime o puede rentarse desde otras plataformas.
 
 
-<a id="org323b2f5"></a>
+<a id="org7ddd7e3"></a>
 
 ### En substack sin paga
 
 -   <https://israelects.substack.com/>
 
 
-<a id="orgba27bef"></a>
+<a id="org49e6926"></a>
 
 ### Partidos, plataformas y candidatos 2022 y antes
 
 -   <https://en.idi.org.il/israeli-elections-and-parties/elections/2022/>
 
 
-<a id="orgdfa2ef8"></a>
+<a id="orgd13a33a"></a>
+
+## Algunos desarrollos relevantes
+
+-   AirDubai (30oct2026): Los hechos que reportan hoy los medios de todo el mundo ocurrieron mientras estabamos en clase ayer. Habría sido una buena ilustración del ejercicio para su trabajo, los hechos ya se volvieron parte de las campañas. ¿Qué habría ocurrido si el piloto apuñalado no hubiera conseguido abrir la puerta de la cabina mientras caía la aeronave? Si asesoraran a Bibi, cuya campaña afirma que sólo su liderazgo puede contener las amenazas contra Israel, ¿cómo manejarían la comunicación y el mensaje de los hechos? ¿Y si fueran Eisenkot? ¿Hay eco de esto en las notas?
+
+
+<a id="org6f5af1a"></a>
 
 # Examen final
 
