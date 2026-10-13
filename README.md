@@ -124,7 +124,13 @@ Las encontrará en [este enlace](https://github.com/emagar/pc2/blob/master/parci
 -   Ertman, *The Birth of Leviathan*, [cap 1](https://github.com/emagar/paper-mirror/blob/master/lit/ertman.1997.birthLeviathan-ch1.pdf), 34 pp.
 -   Degrave, [Local Rule, Elites, and Popular Grievances: Evidence from *Ancien Régime* France](https://github.com/emagar/paper-mirror/blob/master/lit/degrave-paysdetat2022jhpe.pdf), 30 pp.
 
--   Schleiter y Morgan-Jones [Citizens, Presidents and Assemblies: The Study of Semi-Presidentialism beyond Duverger and Linz](https://github.com/emagar/pc2/blob/master/lecturas/Schleiter+morganSemiPres2009bjps.pdf), 21 pp.
+-   Schleiter y Morgan-Jones [The Study of Semi-Presidentialism beyond Duverger and Linz](https://github.com/emagar/pc2/blob/master/lecturas/Schleiter+morganSemiPres2009bjps.pdf), 21 pp.
+-   Hancock, *Politics in Europe* (2019),
+    -   cap. 2.1 [The context of French politics](https://github.com/emagar/pc2/blob/master/lecturas/hancock2019/hk2.1.pdf) 7 pp.
+    -   cap. 2.2 [Where is the power?](https://github.com/emagar/pc2/blob/master/lecturas/hancock2019/hk2.2.pdf) 27 pp.
+    -   cap. 2.3 [Who has the power?](https://github.com/emagar/pc2/blob/master/lecturas/hancock2019/hk2.3.pdf) 40 pp.
+    -   cap. 2.4 [How is the power used?](https://github.com/emagar/pc2/blob/master/lecturas/hancock2019/hk2.4.pdf) 12 pp.
+    -   cap. 2.5 [What is the future of French politics?](https://github.com/emagar/pc2/blob/master/lecturas/hancock2019/hk2.5.pdf) 18 pp.
 
 
 # PARTE III – PARTIDOS Y ELECCIONES
