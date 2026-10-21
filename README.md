@@ -145,6 +145,9 @@ Las encontrará en [este enlace](https://github.com/emagar/pc2/blob/master/parci
 -   Broz y Maliniak "Malapportionment, Gasoline Taxes, and the United Nations Framework Convention on Climate Change" 37 pp.
 -   Jones, "A Guide to the Electoral Systems of the Americas," 16 pp.
 -   Jones, "A Guide to the Electoral Systems of the Americas: An Update," 3 pp.
+-   Boix (1999) "Setting the Rules of the Game: The Choice of Electoral Systems in Advanced Democracies" 17 pp.
+-   Reynolds et al. (2006) [Electoral System Design: The New International IDEA Handbook](https://www.idea.int/publications/catalogue/electoral-system-design-new-international-idea-handbook?lang=es).
+-   Shugart (blog) <http://fruitsandvotes.wordpress.com/>.
 
 
 ## El sistema de partidos  (4 y 9 de noviembre)
