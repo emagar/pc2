@@ -24,13 +24,19 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 104
 
 *Último día de clases*: miércoles 2 de diciembre.
 
-*Exámenes finales*: del lunes 7 al sábado 19 de diciembre.
+*Examen final*: sábado 12 de diciembre 11:30-14:30, salón por determinar.
 
 ---
 
-**Instrucciones para el trabajo parcial** (28/9/2026)
+**Instrucciones para los trabajos parcial y final** (17/11/2026)
 
 Las encontrará en [este enlace](https://github.com/emagar/pc2/blob/master/parcial/elec-isr-2026.md).
+
+---
+
+<h2> Anuncios </h2>
+
+<sup><sub>2026-11-18</sub></sup> **OJO** &rarr; El miércoles 18 de noviembre ITAM dará las instrucciones para el **restablecimiento de los servicios digitales**. Estén atentos a los anuncios de las Direcciones (escolar, de estudiantes, del programa, etc.). La clase de hoy la dedicaré a estos temas y les hablaré de como cerraremos el semestre. &larr; **OJO**
 
 ---
 
@@ -139,12 +145,11 @@ Las encontrará en [este enlace](https://github.com/emagar/pc2/blob/master/parci
 ## Sistemas electorales  (19 y 21 de octubre)
 
 -   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ), cap. 8 "Sistemas electorales: método de mayoría absoluta y mayoría relativa frente a representación proporcional," 23 pp.
--   Lijphart, [*Electoral Systems and Party Systems*](https://github.com/emagar/pc2/blob/master/lecturas/lijphartElectoralSystemsCaps1-5.pdf),
+-   Lijphart (1994) [*Electoral Systems and Party Systems*](https://github.com/emagar/pc2/blob/master/lecturas/lijphartElectoralSystemsCaps1-5.pdf),
     -   cap. 1 "Goals and methods," 9 pp.
     -   cap. 2 "Electoral systems: types, patterns, trends," 46 pp.
--   Broz y Maliniak "Malapportionment, Gasoline Taxes, and the United Nations Framework Convention on Climate Change" 37 pp.
--   Jones, "A Guide to the Electoral Systems of the Americas," 16 pp.
--   Jones, "A Guide to the Electoral Systems of the Americas: An Update," 3 pp.
+-   Broz y Maliniak (2009) "Malapportionment, Gasoline Taxes, and the United Nations Framework Convention on Climate Change" 37 pp.
+-   Jones (1995) [A Guide to the Electoral Systems of the Americas](https://github.com/emagar/pc2/blob/master/lecturas/jonesGuidetoElSysAmericas.pdf), 19 pp (ojo: hay un *update* al final del pdf).
 -   Boix (1999) "Setting the Rules of the Game: The Choice of Electoral Systems in Advanced Democracies" 17 pp.
 -   Reynolds et al. (2006) [Electoral System Design: The New International IDEA Handbook](https://www.idea.int/publications/catalogue/electoral-system-design-new-international-idea-handbook?lang=es).
 -   Shugart (blog) <http://fruitsandvotes.wordpress.com/>.
@@ -182,13 +187,13 @@ Las encontrará en [este enlace](https://github.com/emagar/pc2/blob/master/parci
 
 ## La interacción entre los sistemas electoral y de partidos  (25 y 30 de noviembre y 2 de diciembre)
 
--   Duverger, ["El dualismo de los partidos" y "El multipartidismo"](https://github.com/emagar/pc2/blob/master/lecturas/duvergerPartPolCapBipartidismo.pdf) 47 pp.
--   Lijphart, [*Electoral Systems and Party Systems*](https://github.com/emagar/pc2/blob/master/lecturas/lijphartElectoralSystemsCaps1-5.pdf),
+-   Cox (1999) [Electoral rules and electoral coordination](https://github.com/emagar/pc2/blob/master/lecturas/coxElectoralRulesElectoralCoordination1999arps.pdf) 18 pp.
+-   Duverger (1958) ["El dualismo de los partidos" y "El multipartidismo"](https://github.com/emagar/pc2/blob/master/lecturas/duvergerPartPolCapBipartidismo.pdf) 47 pp.
+-   Lijphart (1994) [*Electoral Systems and Party Systems*](https://github.com/emagar/pc2/blob/master/lecturas/lijphartElectoralSystemsCaps1-5.pdf),
     -   cap. 3 "Disproportionality, multipartism, and majority victories," 21 pp.
     -   cap. 4 "Changes in elections rules in the same country," 26 pp.
     -   cap. 5 "Bivariate and multivariate analyses," 23 pp.
     -   App. A "Proportional representation formulas," 7 pp.
--   Magar, ["Gubernatorial coattails in Mexican congressional elections"](https://github.com/emagar/pc2/blob/master/lecturas/magarGuberCoattails2012jop.pdf) 35 pp.
 
 
 # PARTE IV – RECAPITULACION
