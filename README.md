@@ -36,7 +36,7 @@ Las encontrará en [este enlace](https://github.com/emagar/pc2/blob/master/parci
 
 <h2> Anuncios </h2>
 
-<sup><sub>2026-11-19</sub></sup> He adaptado el temario para el cierre del semestre pasado el restablecimiento de sus contraseñas institucionales. Esto involucra las clases del 23, 25, 30 de noviembre y 2 de diciembre al [final del temario](#orgcb05a55). (Ignore por favor la discrepancia de fechas previas.)
+<sup><sub>2026-11-19</sub></sup> He adaptado el temario para el cierre del semestre pasado el restablecimiento de sus contraseñas institucionales. Esto involucra las clases del 23, 25, 30 de noviembre y 2 de diciembre al [final del temario](#org52e0f27). (Ignore por favor la discrepancia de fechas previas.)
 
 <sup><sub>2026-11-18</sub></sup> **OJO** &rarr; El miércoles 18 de noviembre ITAM dará las instrucciones para el **restablecimiento de los servicios digitales**. Estén atentos a los anuncios de las Direcciones (escolar, de estudiantes, del programa, etc.). La clase de hoy la dedicaré a estos temas y les hablaré de como cerraremos el semestre. &larr; **OJO**
 
@@ -157,45 +157,34 @@ Las encontrará en [este enlace](https://github.com/emagar/pc2/blob/master/parci
 -   Shugart (blog) <http://fruitsandvotes.wordpress.com/>.
 
 
-## El sistema de partidos  (4 y 9 de noviembre)<a id="orgcb05a55"></a>
+## El sistema de partidos  (23 de noviembre)<a id="org52e0f27"></a>
 
 -   Beck, Party *Politics in America*, "Parties and party systems," 32 pp.
 
 
-## El número de partidos  (11 de noviembre)
-
--   Beck, Party Politics in America, "The American Two-Party System," 32 pp.
--   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ), cap. 5 "Sistemas de partidos: modelos bipartidistas y multipartidistas," 23 pp.
--   Mainwaring, "Presidentialism, Multipartism, and Democracy," 30 pp.
--   Molinar, "Counting the Number of Parties: An Alternative Index," 18 pp.
--   Taagepera, "Supplementing the Effective Number of Parties," 7 pp.
-
-
-## Patrones de competencia partidista  (18 de noviembre)
+## Patrones de competencia partidista  (23 de noviembre)
 
 -   Magar, Rosenblum y Samuels, ["On the absence of centripetal incentives in double-member districts: The case of Chile"](https://github.com/emagar/pc2/blob/master/lecturas/MRS1998.pdf) 25 pp.
 
--   LaPalombara, *Democracy, Italian Style*, pp. 1-8, 16-24, 117-143.
--   Capoccia, "Anti-System Parties: A Conceptual Reassessment," 26 pp.
+
+## El número de partidos  (25 de noviembre)
+
+-   Beck, Party Politics in America, "The American Two-Party System," 32 pp.
+-   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ), cap. 5 "Sistemas de partidos: modelos bipartidistas y multipartidistas," 23 pp.
+-   Laakso y Taagepera (1979), [Effective number of parties](https://github.com/emagar/pc2/blob/master/lecturas/laakso.taagepera-1979cps.pdf)," 26 pp.
+-   Molinar, "Counting the Number of Parties: An Alternative Index," 18 pp.
 
 
-## Partidos como organizaciones  (23 de noviembre)
+## Clase para entender un modelo espacial (30 de noviembre)
 
--   Riordon, *Plunkitt of Tamany Hall*, 135 pp.
-    -   [parte I](https://github.com/emagar/pc2/blob/master/lecturas/plunkitt1.pdf)
-    -   [parte II](https://github.com/emagar/pc2/blob/master/lecturas/plunkitt2.pdf)
--   OJO: esta clase será más larga. Nos reuniremos de 15:00 a 17:30 para ver y discutir la película The Last Hurrah de J. Ford (1958) o All the King’s Men de R. Rossen (1949).
+-   (Por asignar: será un capítulo de Enelow+Hinich 1990)
 
 
-## La interacción entre los sistemas electoral y de partidos  (25 y 30 de noviembre y 2 de diciembre)
+## La interacción SE &times; SP  (2 de diciembre)
 
 -   Cox (1999) [Electoral rules and electoral coordination](https://github.com/emagar/pc2/blob/master/lecturas/coxElectoralRulesElectoralCoordination1999arps.pdf) 18 pp.
--   Duverger (1958) ["El dualismo de los partidos" y "El multipartidismo"](https://github.com/emagar/pc2/blob/master/lecturas/duvergerPartPolCapBipartidismo.pdf) 47 pp.
--   Lijphart (1994) [*Electoral Systems and Party Systems*](https://github.com/emagar/pc2/blob/master/lecturas/lijphartElectoralSystemsCaps1-5.pdf),
-    -   cap. 3 "Disproportionality, multipartism, and majority victories," 21 pp.
-    -   cap. 4 "Changes in elections rules in the same country," 26 pp.
-    -   cap. 5 "Bivariate and multivariate analyses," 23 pp.
-    -   App. A "Proportional representation formulas," 7 pp.
+
+-   Riker (1982) [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) 14 pp.
 
 
 # PARTE IV – RECAPITULACION
