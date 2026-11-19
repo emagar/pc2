@@ -36,7 +36,7 @@ Las encontrará en [este enlace](https://github.com/emagar/pc2/blob/master/parci
 
 <h2> Anuncios </h2>
 
-<sup><sub>2026-11-19</sub></sup> He adaptado el temario para el cierre del semestre pasado el restablecimiento de sus contraseñas institucionales. Esto involucra las clases del 23, 25, 30 de noviembre y 2 de diciembre al [final del temario](#orgdb693cd). Ignore por favor la discrepancia de fechas previas.
+<sup><sub>2026-11-19</sub></sup> He adaptado el temario para el cierre del semestre pasado el restablecimiento de sus contraseñas institucionales. Esto involucra las clases del 23, 25, 30 de noviembre y 2 de diciembre al [final del temario](#orgcb05a55). (Ignore por favor la discrepancia de fechas previas.)
 
 <sup><sub>2026-11-18</sub></sup> **OJO** &rarr; El miércoles 18 de noviembre ITAM dará las instrucciones para el **restablecimiento de los servicios digitales**. Estén atentos a los anuncios de las Direcciones (escolar, de estudiantes, del programa, etc.). La clase de hoy la dedicaré a estos temas y les hablaré de como cerraremos el semestre. &larr; **OJO**
 
@@ -157,7 +157,7 @@ Las encontrará en [este enlace](https://github.com/emagar/pc2/blob/master/parci
 -   Shugart (blog) <http://fruitsandvotes.wordpress.com/>.
 
 
-## El sistema de partidos  (4 y 9 de noviembre)<a id="orgdb693cd"></a>
+## El sistema de partidos  (4 y 9 de noviembre)<a id="orgcb05a55"></a>
 
 -   Beck, Party *Politics in America*, "Parties and party systems," 32 pp.
 
