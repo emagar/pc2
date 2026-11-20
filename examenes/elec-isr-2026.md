@@ -1,16 +1,16 @@
-- [Examen final](#orgb9840ba)
-- [Examen parcial](#orgd888fbe)
-  - [Consulte estos enlaces, tienen recursos útiles para investigar el caso](#orgf1cdbc8)
-  - [Algunos desarrollos relevantes](#org9d231b2)
+- [Examen final](#org1dbb514)
+- [Examen parcial](#org983d3c5)
+  - [Consulte estos enlaces, tienen recursos útiles para investigar el caso](#org0c24256)
+  - [Algunos desarrollos relevantes](#orgb937a4b)
 
-**Trabajo parcial**
+**Trabajos parcial y final**
 
-(Actualizado 1oct2026)
+(Actualizado ~~1oct2026~~ 19nov2026)
 
 La evaluación del curso será una investigación y un análisis de la elección general que Israel celebrará el 27 de octubre próximo. El examen parcial consistirá en la entrega de un reporte general de la elección de la 26a Knesset. El examen final será un análisis de la negociación para hacer el nuevo gobierno israelí.
 
 
-<a id="orgb9840ba"></a>
+<a id="org1dbb514"></a>
 
 # Examen final
 
@@ -46,7 +46,7 @@ Laver y Shepsle ilustran esto con ejemplos de Alemania y de Irlanda. Lo anterior
 Con su reporte listo, prepararán una presentación de la conclusión de máximo 10 minutos. La presentación dará los elementos relevantes del contexto, justificará los supuestos, resumirá su análisis, y extraerá la importancia de su conclusión. Encontrarán recomendaciones para preparar una presentación [aquí](https://github.com/emagar/ep3/blob/master/tips-presentation/tips.md) y [aquí](https://github.com/emagar/ep3/blob/master/tips-presentation/10-rules-oral-pres.jpeg).
 
 
-<a id="orgd888fbe"></a>
+<a id="org983d3c5"></a>
 
 # Examen parcial
 
@@ -64,7 +64,7 @@ A grandes rasgos, su reporte incluirá lo siguiente:
 -   una conclusión que recapitule la investigación.
 
 
-<a id="orgf1cdbc8"></a>
+<a id="org0c24256"></a>
 
 ## Consulte estos enlaces, tienen recursos útiles para investigar el caso
 
@@ -117,7 +117,7 @@ A grandes rasgos, su reporte incluirá lo siguiente:
 -   <https://en.idi.org.il/israeli-elections-and-parties/elections/2022/>
 
 
-<a id="org9d231b2"></a>
+<a id="orgb937a4b"></a>
 
 ## Algunos desarrollos relevantes
 
