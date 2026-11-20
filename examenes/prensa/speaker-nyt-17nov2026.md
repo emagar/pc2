@@ -1,4 +1,12 @@
-NYTimes By David M. Halbfinger Reporting from Jerusalem Nov. 17, 2026
+**Israeli Opposition Elects Speaker of Parliament, Setting Up Netanyahu Clash**
+
+*NYTimes*
+
+By David M. Halbfinger
+
+Reporting from Jerusalem
+
+Nov. 17, 2026
 
 Matan Kahana, a lawmaker from Gadi Eisenkot's party, will take control of the legislative process as the opposition looks to press Prime Minister Benjamin Netanyahu on multiple fronts.
 
