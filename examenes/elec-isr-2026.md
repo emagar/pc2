@@ -1,7 +1,8 @@
-- [Examen final](#org1dbb514)
-- [Examen parcial](#org983d3c5)
-  - [Consulte estos enlaces, tienen recursos útiles para investigar el caso](#org0c24256)
-  - [Algunos desarrollos relevantes](#orgb937a4b)
+- [Examen final](#orgcf669ee)
+  - [Algunos recursos](#orgb5b6bf6)
+- [Examen parcial](#org5b077e2)
+  - [Consulte estos enlaces, tienen recursos útiles para investigar el caso](#org263ea33)
+  - [Algunos desarrollos relevantes](#orgebcdb32)
 
 **Trabajos parcial y final**
 
@@ -10,7 +11,7 @@
 La evaluación del curso será una investigación y un análisis de la elección general que Israel celebrará el 27 de octubre próximo. El examen parcial consistirá en la entrega de un reporte general de la elección de la 26a Knesset. El examen final será un análisis de la negociación para hacer el nuevo gobierno israelí.
 
 
-<a id="org1dbb514"></a>
+<a id="orgcf669ee"></a>
 
 # Examen final
 
@@ -46,7 +47,14 @@ Laver y Shepsle ilustran esto con ejemplos de Alemania y de Irlanda. Lo anterior
 Con su reporte listo, prepararán una presentación de la conclusión de máximo 10 minutos. La presentación dará los elementos relevantes del contexto, justificará los supuestos, resumirá su análisis, y extraerá la importancia de su conclusión. Encontrarán recomendaciones para preparar una presentación [aquí](https://github.com/emagar/ep3/blob/master/tips-presentation/tips.md) y [aquí](https://github.com/emagar/ep3/blob/master/tips-presentation/10-rules-oral-pres.jpeg).
 
 
-<a id="org983d3c5"></a>
+<a id="orgb5b6bf6"></a>
+
+## Algunos recursos
+
+-   Artículo del *New York Times* del 17nov2026 sobre la elección del nuevo *Speaker* de la 26a Knesset [aquí](./prensa/speaker-nyt-17nov2026.md).
+
+
+<a id="org5b077e2"></a>
 
 # Examen parcial
 
@@ -64,7 +72,7 @@ A grandes rasgos, su reporte incluirá lo siguiente:
 -   una conclusión que recapitule la investigación.
 
 
-<a id="org0c24256"></a>
+<a id="org263ea33"></a>
 
 ## Consulte estos enlaces, tienen recursos útiles para investigar el caso
 
@@ -117,7 +125,7 @@ A grandes rasgos, su reporte incluirá lo siguiente:
 -   <https://en.idi.org.il/israeli-elections-and-parties/elections/2022/>
 
 
-<a id="orgb937a4b"></a>
+<a id="orgebcdb32"></a>
 
 ## Algunos desarrollos relevantes
 
