@@ -28,15 +28,15 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 104
 
 ---
 
-**Instrucciones para los trabajos parcial y final** (17/11/2026)
+**Instrucciones para los trabajos parcial y final** (19/11/2026)
 
-Las encontrará en [este enlace](https://github.com/emagar/pc2/blob/master/parcial/elec-isr-2026.md).
+Las encontrará en [este enlace](https://github.com/emagar/pc2/blob/master/examenes/elec-isr-2026.md).
 
 ---
 
 <h2> Anuncios </h2>
 
-<sup><sub>2026-11-19</sub></sup> He adaptado el temario para el cierre del semestre pasado el restablecimiento de sus contraseñas institucionales. Esto involucra las clases del 23, 25, 30 de noviembre y 2 de diciembre al [final del temario](#org52e0f27). (Ignore por favor la discrepancia de fechas previas.)
+<sup><sub>2026-11-19</sub></sup> He adaptado el temario para el cierre del semestre pasado el restablecimiento de sus contraseñas institucionales. Esto involucra las clases del 23, 25, 30 de noviembre y 2 de diciembre al [final del temario](#orgfde72fa). (Ignore por favor la discrepancia de fechas previas.)
 
 <sup><sub>2026-11-18</sub></sup> **OJO** &rarr; El miércoles 18 de noviembre ITAM dará las instrucciones para el **restablecimiento de los servicios digitales**. Estén atentos a los anuncios de las Direcciones (escolar, de estudiantes, del programa, etc.). La clase de hoy la dedicaré a estos temas y les hablaré de como cerraremos el semestre. &larr; **OJO**
 
@@ -157,7 +157,7 @@ Las encontrará en [este enlace](https://github.com/emagar/pc2/blob/master/parci
 -   Shugart (blog) <http://fruitsandvotes.wordpress.com/>.
 
 
-## El sistema de partidos  (23 de noviembre)<a id="org52e0f27"></a>
+## El sistema de partidos  (23 de noviembre)<a id="orgfde72fa"></a>
 
 -   Beck, Party *Politics in America*, "Parties and party systems," 32 pp.
 

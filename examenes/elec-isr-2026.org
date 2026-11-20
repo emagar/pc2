@@ -1,0 +1,85 @@
+#+OPTIONS: toc:2
+*Trabajo parcial*
+
+(Actualizado 1oct2026)
+
+La evaluación del curso será una investigación y un análisis de la elección general que Israel celebrará el 27 de octubre próximo. El examen parcial consistirá en la entrega de un reporte general de la elección de la 26a Knesset. El examen final será un análisis de la negociación para hacer el nuevo gobierno israelí. 
+* Examen parcial
+Es un trabajo individual que entragará el lunes 12 de octubre en clase.
+
+Consiste en hacer un reporte de la elección. Su reporte sintetizará los elementos del proceso que considere importantes para entender lo que está aconteciendo y adelantará una tesis que permita empezar a interpretarlos. P.ej., podría argumentar que 2026 marcará una ruptura importante con tendencias pasadas por x o y razón, o al contrario, que hay continuidad con los patrones anteriores. Basará su reporte y la tesis en los documentos, las notas periodísticas, blogs, reportajes y demás materiales que ha estado recopilando sobre las instituciones israelíes y las campañas de los candidatos y sus partidos. 
+
+El reporte se apegará al formato que usan consultorías profesionales y agencias internacionales---encontrará algunas recomendaciones de forma y de contenido [[https://www.grammarly.com/blog/academic-writing/how-to-write-a-report/][aquí]] y [[https://www.newcastle.edu.au/__data/assets/pdf_file/0008/333773/LD-Report-Writing-LH.pdf][aquí]].  
+
+A grandes rasgos, su reporte incluirá lo siguiente:
+
+- un resumen ejecutivo que sintetice sus hallazgos (ojo: este se escribe al final, y debe ser claro y englobar lo que descubre);
+- una introducción que describa breve pero claramente los temas que le han parecido interesantes y/o relevantes, y anuncie lo que incluye el cuerpo del reporte;
+- el cuerpo del reporte organizará y detallará sus hallazgos así como las fuentes de donde provienen;
+- una conclusión que recapitule la investigación.
+** Consulte estos enlaces, tienen recursos útiles para investigar el caso
+*** Paper sintético
+[[https://github.com/emagar/pc2/blob/master/parcial/schofield.sened.multipartyIsrael2005bjps.pdf][Schofield y Sened]] muestran un mapa del sistema de partidos israelí. Corresponde al año c2000, pero los sustancial ha cambiado poco. Intentes reconstruir los ejes principales y los secundarios que segmentan hoy a los partidos y sus votantes. En el trasfondo ha estado y está el conflicto en Oriente Medio (lo que llaman ``seguridad'' en el paper) que sube y baja de intensidad, pero haga especial hincapié en los demás temas internos que caracterizan a la democracia israelí. 
+*** Página Wikipedia
+- La descripción general: https://en.wikipedia.org/wiki/2026_Israeli_legislative_election
+- El agregador de encuestas de intención de voto: https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Israeli_legislative_election
+*** Times of Israel
+- Blogs en tiempo real: https://blogs.timesofisrael.com/ 
+- Primera plana: https://www.timesofisrael.com/
+*** Globes
+- Periódico con perspectiva de negocios: https://en.globes.co.il/en/
+*** Fruits and votes
+- El blog de Matt Shugart dedica una parte a Israel: https://fruitsandvotes.wordpress.com/category/euro-mediterranean/israel/
+*** La Knesset 1949--2021
+- Versión en pdf no tan bonita:  [[https://github.com/emagar/pc2/blob/master/actualidad/The-evolution-of-Israeli-politics.pdf][aquí]]
+- Versión bonita pero con /paywall/: https://www.economist.com/the-economist-explains/2021/03/27/the-evolution-of-israeli-politics
+*** Película Golda (Dir. Nattiv, 2023)
+- La encuentran en Amazon prime o puede rentarse desde otras plataformas. 
+*** En substack sin paga
+- https://israelects.substack.com/
+*** Partidos, plataformas y candidatos 2022 y antes
+- https://en.idi.org.il/israeli-elections-and-parties/elections/2022/
+# * Sitio de noticias de paga en Israel
+# https://www.haaretz.com/
+# * Anticuado (c2013) pero describe partidos (enlaces todos rotos)
+# https://www.pbs.org/newshour/world/israel-election-primer
+# * Arian Politics in Israel The second republic 
+# - https://www.amazon.com/dp/1568029322?lv=shuf&channelId=500&plpRedirect=mhFallback
+
+** Algunos desarrollos relevantes
+- FlyDubai (30oct2026): Los hechos que reportan hoy los medios de todo el mundo ocurrieron mientras estabamos en clase ayer. Habría sido una buena ilustración del ejercicio para su trabajo, los hechos ya se volvieron parte de las campañas. ¿Qué habría ocurrido si el piloto apuñalado no hubiera conseguido abrir la puerta de la cabina mientras caía la aeronave? Si asesoraran a Bibi, cuya campaña afirma que sólo su liderazgo puede contener las amenazas contra Israel, ¿cómo manejarían la comunicación y el mensaje de los hechos? ¿Y si asesoraran a Eisenkot? ¿Hay eco de esto en las notas?
+* Examen final
+Será el 12 de diciembre a las 11:30am cuando entregará un trabajo en equipo, hará una presentación en equipo, y hará una prueba escrita (como lo estipula el reglamento). 
+
+El trabajo consiste en usar el modelo de Laver y Shepsle para analizar la formación del nuevo gobierno de Israel a partir de la distribución de escaños en la 26a Knesset y predecir un resultado. Los escaños se distribuyeron entren 11 listas del siguiente modo.
+
+| <l>              | <l>       |  <c>   |  <c>   |     <r> |
+| Lista            | Líder     | Socios | Status | Escaños |
+|------------------+-----------+--------+--------+---------|
+| Likud            | Netanyahu |   A    |  gob   |    22.5 |
+| Yashar           | Eisenkot  |   B    |  opos  |    17.5 |
+| Together         | Bennett   |   C    |  opos  |    10.0 |
+| Joint List       | Jabareen  |   D    | árabe  |     9.2 |
+| Democrats        | Golan     |   B    |  opos  |     6.7 |
+| Yisrael Beiteinu | Lieberman |   C    |  opos  |     5.8 |
+| Ra'am            | Abbas     |   D    | árabe  |     6.7 |
+| Otzma Yehudit    | Ben-Gvir  |  ---   |  gob   |     5.8 |
+| UTJ              | Asher     |   E    |  gob   |     5.8 |
+| Shas             | Deri      |   E    |  gob   |     5.0 |
+| RZP–Zehut        | Smotrich  |   A    |  gob   |     5.0 |
+|------------------+-----------+--------+--------+---------|
+| Total            |           |        |        |     100 |
+
+No evaluaré si su predicción se cumple o no. Evaluaré cómo analizan la disputa electoral y la negociación política que ha estado ocurriendo desde la elección general. Para ello, tendrán que adaptar los supuestos simplificadores del modelo de Laver y Shepsle al caso israelí. Los pasos generales son los siguientes, cada uno con su debida justificación para que refleje el caso israelí: 
+
+1. definir las dimensiones de un espacio político (bi-, quizás tri-dimensional), de modo que capturen temas sobresalientes de las campañas y que segmenten a los partidos entre sí;
+2. definir la cartera que controla cada una de las dimensiones de su espacio;
+3. definir el número de partidos que incluirá su modelo (porque el análisis con 11 partidos sale de lo factible), explicando qué hacen con los que dejen fuera;
+4. ubicar a los partidos en el espacio, asi como el status quo;
+5. analizar la posible vulnerabilidad del status quo y, de serlo, de las propuestas de gobierno que lo vulneran.
+
+Laver y Shepsle ilustran esto con ejemplos de Alemania y de Irlanda. Lo anterior será la base para su predicción, que elaborarán en un reporte claro. 
+
+Con su reporte listo, prepararán una presentación de la conclusión de máximo 10 minutos. La presentación dará los elementos relevantes del contexto, justificará los supuestos, resumirá su análisis, y extraerá la importancia de su conclusión. Encontrarán recomendaciones para preparar una presentación [[https://github.com/emagar/ep3/blob/master/tips-presentation/tips.md][aquí]] y [[https://github.com/emagar/ep3/blob/master/tips-presentation/10-rules-oral-pres.jpeg][aquí]]. 
+
+# Por último, habrá una prueba escrita...
