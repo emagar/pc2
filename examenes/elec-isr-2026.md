@@ -1,7 +1,7 @@
-- [Examen parcial](#org5ab54f9)
-  - [Consulte estos enlaces, tienen recursos útiles para investigar el caso](#org2ff7fcd)
-  - [Algunos desarrollos relevantes](#org44a0629)
-- [Examen final](#org871616e)
+- [Examen final](#orgb9840ba)
+- [Examen parcial](#orgd888fbe)
+  - [Consulte estos enlaces, tienen recursos útiles para investigar el caso](#orgf1cdbc8)
+  - [Algunos desarrollos relevantes](#org9d231b2)
 
 **Trabajo parcial**
 
@@ -10,7 +10,43 @@
 La evaluación del curso será una investigación y un análisis de la elección general que Israel celebrará el 27 de octubre próximo. El examen parcial consistirá en la entrega de un reporte general de la elección de la 26a Knesset. El examen final será un análisis de la negociación para hacer el nuevo gobierno israelí.
 
 
-<a id="org5ab54f9"></a>
+<a id="orgb9840ba"></a>
+
+# Examen final
+
+Será el 12 de diciembre a las 11:30am cuando entregará un trabajo en equipo, hará una presentación en equipo, y hará una prueba escrita (como lo estipula el reglamento).
+
+El trabajo consiste en usar el modelo de Laver y Shepsle para analizar la formación del nuevo gobierno de Israel a partir de la distribución de escaños en la 26a Knesset y predecir un resultado. Los escaños se distribuyeron entren 11 listas del siguiente modo.
+
+| Lista            | Líder     | Socios | Status | Escaños |
+|---------------- |--------- |------ |------ |------- |
+| Likud            | Netanyahu | A      | gob    | 22.5    |
+| Yashar           | Eisenkot  | B      | opos   | 17.5    |
+| Together         | Bennett   | C      | opos   | 10.0    |
+| Joint List       | Jabareen  | D      | árabe  | 9.2     |
+| Democrats        | Golan     | B      | opos   | 6.7     |
+| Yisrael Beiteinu | Lieberman | C      | opos   | 5.8     |
+| Ra'am            | Abbas     | D      | árabe  | 6.7     |
+| Otzma Yehudit    | Ben-Gvir  | ---    | gob    | 5.8     |
+| UTJ              | Asher     | E      | gob    | 5.8     |
+| Shas             | Deri      | E      | gob    | 5.0     |
+| RZP–Zehut        | Smotrich  | A      | gob    | 5.0     |
+| Total            |           |        |        | 100     |
+
+No evaluaré si su predicción se cumple o no. Evaluaré cómo analizan la disputa electoral y la negociación política que ha estado ocurriendo desde la elección general. Para ello, tendrán que adaptar los supuestos simplificadores del modelo de Laver y Shepsle al caso israelí. Los pasos generales son los siguientes, cada uno con su debida justificación para que refleje el caso israelí:
+
+1.  definir las dimensiones de un espacio político (bi-, quizás tri-dimensional), de modo que capturen temas sobresalientes de las campañas y que segmenten a los partidos entre sí;
+2.  definir la cartera que controla cada una de las dimensiones de su espacio;
+3.  definir el número de partidos que incluirá su modelo (porque el análisis con 11 partidos sale de lo factible), explicando qué hacen con los que dejen fuera;
+4.  ubicar a los partidos en el espacio, asi como el status quo;
+5.  analizar la posible vulnerabilidad del status quo y, de serlo, de las propuestas de gobierno que lo vulneran.
+
+Laver y Shepsle ilustran esto con ejemplos de Alemania y de Irlanda. Lo anterior será la base para su predicción, que elaborarán en un reporte claro.
+
+Con su reporte listo, prepararán una presentación de la conclusión de máximo 10 minutos. La presentación dará los elementos relevantes del contexto, justificará los supuestos, resumirá su análisis, y extraerá la importancia de su conclusión. Encontrarán recomendaciones para preparar una presentación [aquí](https://github.com/emagar/ep3/blob/master/tips-presentation/tips.md) y [aquí](https://github.com/emagar/ep3/blob/master/tips-presentation/10-rules-oral-pres.jpeg).
+
+
+<a id="orgd888fbe"></a>
 
 # Examen parcial
 
@@ -28,7 +64,7 @@ A grandes rasgos, su reporte incluirá lo siguiente:
 -   una conclusión que recapitule la investigación.
 
 
-<a id="org2ff7fcd"></a>
+<a id="orgf1cdbc8"></a>
 
 ## Consulte estos enlaces, tienen recursos útiles para investigar el caso
 
@@ -81,44 +117,8 @@ A grandes rasgos, su reporte incluirá lo siguiente:
 -   <https://en.idi.org.il/israeli-elections-and-parties/elections/2022/>
 
 
-<a id="org44a0629"></a>
+<a id="org9d231b2"></a>
 
 ## Algunos desarrollos relevantes
 
 -   FlyDubai (30oct2026): Los hechos que reportan hoy los medios de todo el mundo ocurrieron mientras estabamos en clase ayer. Habría sido una buena ilustración del ejercicio para su trabajo, los hechos ya se volvieron parte de las campañas. ¿Qué habría ocurrido si el piloto apuñalado no hubiera conseguido abrir la puerta de la cabina mientras caía la aeronave? Si asesoraran a Bibi, cuya campaña afirma que sólo su liderazgo puede contener las amenazas contra Israel, ¿cómo manejarían la comunicación y el mensaje de los hechos? ¿Y si asesoraran a Eisenkot? ¿Hay eco de esto en las notas?
-
-
-<a id="org871616e"></a>
-
-# Examen final
-
-Será el 12 de diciembre a las 11:30am cuando entregará un trabajo en equipo, hará una presentación en equipo, y hará una prueba escrita (como lo estipula el reglamento).
-
-El trabajo consiste en usar el modelo de Laver y Shepsle para analizar la formación del nuevo gobierno de Israel a partir de la distribución de escaños en la 26a Knesset y predecir un resultado. Los escaños se distribuyeron entren 11 listas del siguiente modo.
-
-| Lista            | Líder     | Socios | Status | Escaños |
-|---------------- |--------- |------ |------ |------- |
-| Likud            | Netanyahu | A      | gob    | 22.5    |
-| Yashar           | Eisenkot  | B      | opos   | 17.5    |
-| Together         | Bennett   | C      | opos   | 10.0    |
-| Joint List       | Jabareen  | D      | árabe  | 9.2     |
-| Democrats        | Golan     | B      | opos   | 6.7     |
-| Yisrael Beiteinu | Lieberman | C      | opos   | 5.8     |
-| Ra'am            | Abbas     | D      | árabe  | 6.7     |
-| Otzma Yehudit    | Ben-Gvir  | ---    | gob    | 5.8     |
-| UTJ              | Asher     | E      | gob    | 5.8     |
-| Shas             | Deri      | E      | gob    | 5.0     |
-| RZP–Zehut        | Smotrich  | A      | gob    | 5.0     |
-| Total            |           |        |        | 100     |
-
-No evaluaré si su predicción se cumple o no. Evaluaré cómo analizan la disputa electoral y la negociación política que ha estado ocurriendo desde la elección general. Para ello, tendrán que adaptar los supuestos simplificadores del modelo de Laver y Shepsle al caso israelí. Los pasos generales son los siguientes, cada uno con su debida justificación para que refleje el caso israelí:
-
-1.  definir las dimensiones de un espacio político (bi-, quizás tri-dimensional), de modo que capturen temas sobresalientes de las campañas y que segmenten a los partidos entre sí;
-2.  definir la cartera que controla cada una de las dimensiones de su espacio;
-3.  definir el número de partidos que incluirá su modelo (porque el análisis con 11 partidos sale de lo factible), explicando qué hacen con los que dejen fuera;
-4.  ubicar a los partidos en el espacio, asi como el status quo;
-5.  analizar la posible vulnerabilidad del status quo y, de serlo, de las propuestas de gobierno que lo vulneran.
-
-Laver y Shepsle ilustran esto con ejemplos de Alemania y de Irlanda. Lo anterior será la base para su predicción, que elaborarán en un reporte claro.
-
-Con su reporte listo, prepararán una presentación de la conclusión de máximo 10 minutos. La presentación dará los elementos relevantes del contexto, justificará los supuestos, resumirá su análisis, y extraerá la importancia de su conclusión. Encontrarán recomendaciones para preparar una presentación [aquí](https://github.com/emagar/ep3/blob/master/tips-presentation/tips.md) y [aquí](https://github.com/emagar/ep3/blob/master/tips-presentation/10-rules-oral-pres.jpeg).
