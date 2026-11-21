@@ -36,7 +36,7 @@ Las encontrará en [este enlace](https://github.com/emagar/pc2/blob/master/exame
 
 <h2> Anuncios </h2>
 
-<sup><sub>2026-11-19</sub></sup> He adaptado el temario para el cierre del semestre pasado el restablecimiento de sus contraseñas institucionales. Esto involucra las clases del 23, 25, 30 de noviembre y 2 de diciembre al [final del temario](#orgfde72fa). (Ignore por favor la discrepancia de fechas previas.)
+<sup><sub>2026-11-19</sub></sup> He adaptado el temario para el cierre del semestre pasado el restablecimiento de sus contraseñas institucionales. Esto involucra las clases del 23, 25, 30 de noviembre y 2 de diciembre al [final del temario](#org1d0f29a). (Ignore por favor la discrepancia de fechas previas.)
 
 <sup><sub>2026-11-18</sub></sup> **OJO** &rarr; El miércoles 18 de noviembre ITAM dará las instrucciones para el **restablecimiento de los servicios digitales**. Estén atentos a los anuncios de las Direcciones (escolar, de estudiantes, del programa, etc.). La clase de hoy la dedicaré a estos temas y les hablaré de como cerraremos el semestre. &larr; **OJO**
 
@@ -157,9 +157,9 @@ Las encontrará en [este enlace](https://github.com/emagar/pc2/blob/master/exame
 -   Shugart (blog) <http://fruitsandvotes.wordpress.com/>.
 
 
-## El sistema de partidos  (23 de noviembre)<a id="orgfde72fa"></a>
+## El sistema de partidos  (23 de noviembre)<a id="org1d0f29a"></a>
 
--   Beck, Party *Politics in America*, "Parties and party systems," 32 pp.
+-   Beck, [*Party Politics in America*](https://github.com/emagar/pc2/blob/master/lecturas/beck-ptySys.pdf), "Parties and party systems," 32 pp.
 
 
 ## Patrones de competencia partidista  (23 de noviembre)
@@ -169,7 +169,7 @@ Las encontrará en [este enlace](https://github.com/emagar/pc2/blob/master/exame
 
 ## El número de partidos  (25 de noviembre)
 
--   Beck, Party Politics in America, "The American Two-Party System," 32 pp.
+-   Beck, [*Party Politics in America*](https://github.com/emagar/pc2/blob/master/lecturas/beck-ptySys.pdf), "The American Two-Party System," 32 pp.
 -   Lijphart, [*Modelos de democracia*](https://github.com/emagar/pc2/blob/master/lecturas/lijphart-modelos-democ), cap. 5 "Sistemas de partidos: modelos bipartidistas y multipartidistas," 23 pp.
 -   Laakso y Taagepera (1979), [Effective number of parties](https://github.com/emagar/pc2/blob/master/lecturas/laakso.taagepera-1979cps.pdf)," 26 pp.
 -   Molinar, "Counting the Number of Parties: An Alternative Index," 18 pp.
