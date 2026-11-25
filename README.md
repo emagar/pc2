@@ -36,7 +36,7 @@ Las encontrará en [este enlace](https://github.com/emagar/pc2/blob/master/exame
 
 <h2> Anuncios </h2>
 
-<sup><sub>2026-11-19</sub></sup> He adaptado el temario para el cierre del semestre pasado el restablecimiento de sus contraseñas institucionales. Esto involucra las clases del 23, 25, 30 de noviembre y 2 de diciembre al [final del temario](#org1d0f29a). (Ignore por favor la discrepancia de fechas previas.)
+<sup><sub>2026-11-19</sub></sup> He adaptado el temario para el cierre del semestre pasado el restablecimiento de sus contraseñas institucionales. Esto involucra las clases del 23, 25, 30 de noviembre y 2 de diciembre al [final del temario](#orga307847). (Ignore por favor la discrepancia de fechas previas.)
 
 <sup><sub>2026-11-18</sub></sup> **OJO** &rarr; El miércoles 18 de noviembre ITAM dará las instrucciones para el **restablecimiento de los servicios digitales**. Estén atentos a los anuncios de las Direcciones (escolar, de estudiantes, del programa, etc.). La clase de hoy la dedicaré a estos temas y les hablaré de como cerraremos el semestre. &larr; **OJO**
 
@@ -157,7 +157,7 @@ Las encontrará en [este enlace](https://github.com/emagar/pc2/blob/master/exame
 -   Shugart (blog) <http://fruitsandvotes.wordpress.com/>.
 
 
-## El sistema de partidos  (23 de noviembre)<a id="org1d0f29a"></a>
+## El sistema de partidos  (23 de noviembre)<a id="orga307847"></a>
 
 -   Beck, [*Party Politics in America*](https://github.com/emagar/pc2/blob/master/lecturas/beck-ptySys.pdf), "Parties and party systems," 32 pp.
 
@@ -177,7 +177,14 @@ Las encontrará en [este enlace](https://github.com/emagar/pc2/blob/master/exame
 
 ## Clase para entender un modelo espacial (30 de noviembre)
 
--   (Por asignar: será un capítulo de Enelow+Hinich 1990)
+Lean el cap. 6 y hojeen, según necesiten, los caps. 1 a 4 (ojo: 1-3 vienen en mismo pdf).
+
+-   Laver y Shepsle (1996) *Making and Breaking Governments*
+    -   cap. 6 ["Two cases: Germany 1987; Ireland 1992-3"](https://github.com/emagar/ep3/blob/master/lecturas/laver+Shepsle1996Caps6-7.pdf) 22 pp.
+    -   cap. 1 ["Theory, institutions, and government formation"](https://github.com/emagar/ep3/blob/master/lecturas/laver+Shepsle1996Caps1-3.pdf) 15 pp.
+    -   cap. 2 ["The social context of government formation"](https://github.com/emagar/ep3/blob/master/lecturas/laver+Shepsle1996Caps1-3.pdf) 25 pp.
+    -   cap. 3 ["The government formation process"](https://github.com/emagar/ep3/blob/master/lecturas/laver+Shepsle1996Caps1-3.pdf) 16 pp.
+    -   cap. 4 ["Government equilibrium"](https://github.com/emagar/ep3/blob/master/lecturas/laver+Shepsle1996Caps4-5.pdf) 29 pp.
 
 
 ## La interacción SE &times; SP  (2 de diciembre)
