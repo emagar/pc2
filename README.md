@@ -24,7 +24,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 104
 
 *Último día de clases*: miércoles 2 de diciembre.
 
-*Examen final*: sábado 12 de diciembre 11:30-14:30, salón 105.
+*Examen final*: sábado 12 de diciembre 11:30-14:15, salón 105.
 
 ---
 
@@ -36,7 +36,7 @@ Las encontrará en [este enlace](https://github.com/emagar/pc2/blob/master/exame
 
 <h2> Anuncios </h2>
 
-<sup><sub>2026-11-19</sub></sup> He adaptado el temario para el cierre del semestre pasado el restablecimiento de sus contraseñas institucionales. Esto involucra las clases del 23, 25, 30 de noviembre y 2 de diciembre al [final del temario](#orga307847). (Ignore por favor la discrepancia de fechas previas.)
+<sup><sub>2026-11-19</sub></sup> He adaptado el temario para el cierre del semestre pasado el restablecimiento de sus contraseñas institucionales. Esto involucra las clases del 23, 25, 30 de noviembre y 2 de diciembre al [final del temario](#orgd9693ec). (Ignore por favor la discrepancia de fechas previas.)
 
 <sup><sub>2026-11-18</sub></sup> **OJO** &rarr; El miércoles 18 de noviembre ITAM dará las instrucciones para el **restablecimiento de los servicios digitales**. Estén atentos a los anuncios de las Direcciones (escolar, de estudiantes, del programa, etc.). La clase de hoy la dedicaré a estos temas y les hablaré de como cerraremos el semestre. &larr; **OJO**
 
@@ -157,7 +157,7 @@ Las encontrará en [este enlace](https://github.com/emagar/pc2/blob/master/exame
 -   Shugart (blog) <http://fruitsandvotes.wordpress.com/>.
 
 
-## El sistema de partidos  (23 de noviembre)<a id="orga307847"></a>
+## El sistema de partidos  (23 de noviembre)<a id="orgd9693ec"></a>
 
 -   Beck, [*Party Politics in America*](https://github.com/emagar/pc2/blob/master/lecturas/beck-ptySys.pdf), "Parties and party systems," 32 pp.
 
